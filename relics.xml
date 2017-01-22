@@ -1,0 +1,2019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<relics>
+<category name="Crafted">
+<relic name="Minor Symbol of Morale" type="CRAFTED_RELIC" icon="Minor_Symbol_of_Morale-icon.png">
+<stats>
+<stat name="MORALE" value="5000"/>
+</stats>
+</relic>
+<relic name="Symbol of Morale" type="CRAFTED_RELIC" level="61" icon="Symbol_of_Morale-icon.png">
+<stats>
+<stat name="MORALE" value="10000"/>
+</stats>
+</relic>
+<relic name="Device of Morale" type="CRAFTED_RELIC" level="70" icon="Device_of_Morale-icon.png">
+<stats>
+<stat name="MORALE" value="15000"/>
+</stats>
+</relic>
+<relic name="Emblem of Morale" type="CRAFTED_RELIC" level="80" icon="Emblem_of_Morale-icon.png">
+<stats>
+<stat name="MORALE" value="20000"/>
+</stats>
+</relic>
+<relic name="Westemnet Device of Morale" type="CRAFTED_RELIC" level="90" icon="Emblem_of_Morale-icon.png">
+<stats>
+<stat name="MORALE" value="25000"/>
+</stats>
+</relic>
+<relic name="Minor Symbol of Power" type="CRAFTED_RELIC" icon="Minor_Symbol_of_Power-icon.png">
+<stats>
+<stat name="POWER" value="5000"/>
+</stats>
+</relic>
+<relic name="Symbol of Power" type="CRAFTED_RELIC" level="61" icon="Symbol_of_Power-icon.png">
+<stats>
+<stat name="POWER" value="10000"/>
+</stats>
+</relic>
+<relic name="Westfold Device of Power" type="CRAFTED_RELIC" level="70" icon="Westfold_Device_of_Power-icon.png">
+<stats>
+<stat name="POWER" value="15000"/>
+</stats>
+</relic>
+<relic name="Eastemnet Device of Power" type="CRAFTED_RELIC" level="80" icon="Eastemnet_Device_of_Power-icon.png">
+<stats>
+<stat name="POWER" value="20000"/>
+</stats>
+</relic>
+<relic name="Westemnet Device of Power" type="CRAFTED_RELIC" level="90" icon="Eastemnet_Device_of_Power-icon.png">
+<stats>
+<stat name="POWER" value="25000"/>
+</stats>
+</relic>
+<relic name="Minor Symbol of Will" type="CRAFTED_RELIC" icon="Minor_Symbol_of_Will-icon.png">
+<stats>
+<stat name="WILL" value="1000"/>
+</stats>
+</relic>
+<relic name="Symbol of Will" type="CRAFTED_RELIC" level="61" icon="Symbol_of_Will-icon.png">
+<stats>
+<stat name="WILL" value="2000"/>
+</stats>
+</relic>
+<relic name="Device of Will" type="CRAFTED_RELIC" level="70" icon="Device_of_Will-icon.png">
+<stats>
+<stat name="WILL" value="3000"/>
+</stats>
+</relic>
+<relic name="Emblem of Will" type="CRAFTED_RELIC" level="80" icon="Emblem_of_Will-icon.png">
+<stats>
+<stat name="WILL" value="4000"/>
+</stats>
+</relic>
+<relic name="Westemnet Device of Will" type="CRAFTED_RELIC" level="90" icon="Emblem_of_Will-icon.png">
+<stats>
+<stat name="WILL" value="5000"/>
+</stats>
+</relic>
+<relic name="Minor Symbol of Fate" type="CRAFTED_RELIC" icon="Minor_Symbol_of_Fate-icon.png">
+<stats>
+<stat name="FATE" value="1000"/>
+</stats>
+</relic>
+<relic name="Symbol of Fate" type="CRAFTED_RELIC" level="61" icon="Symbol_of_Fate-icon.png">
+<stats>
+<stat name="FATE" value="2000"/>
+</stats>
+</relic>
+<relic name="Device of Fate" type="CRAFTED_RELIC" level="70" icon="Device_of_Fate-icon.png">
+<stats>
+<stat name="FATE" value="3000"/>
+</stats>
+</relic>
+<relic name="Emblem of Fate" type="CRAFTED_RELIC" level="80" icon="Emblem_of_Fate-icon.png">
+<stats>
+<stat name="FATE" value="4000"/>
+</stats>
+</relic>
+<relic name="Westemnet Device of Fate" type="CRAFTED_RELIC" level="90" icon="Emblem_of_Fate-icon.png">
+<stats>
+<stat name="FATE" value="5000"/>
+</stats>
+</relic>
+<relic name="Minor Symbol of Vitality" type="CRAFTED_RELIC" icon="Minor_Symbol_of_Vitality-icon.png">
+<stats>
+<stat name="VITALITY" value="1000"/>
+</stats>
+</relic>
+<relic name="Symbol of Vitality" type="CRAFTED_RELIC" level="61" icon="Symbol_of_Vitality-icon.png">
+<stats>
+<stat name="VITALITY" value="2000"/>
+</stats>
+</relic>
+<relic name="Device of Vitality" type="CRAFTED_RELIC" level="70" icon="Device_of_Vitality-icon.png">
+<stats>
+<stat name="VITALITY" value="3000"/>
+</stats>
+</relic>
+<relic name="Emblem of Vitality" type="CRAFTED_RELIC" level="80" icon="Emblem_of_Vitality-icon.png">
+<stats>
+<stat name="VITALITY" value="4000"/>
+</stats>
+</relic>
+<relic name="Westemnet Device of Vitality" type="CRAFTED_RELIC" level="90" icon="Emblem_of_Vitality-icon.png">
+<stats>
+<stat name="VITALITY" value="5000"/>
+</stats>
+</relic>
+<relic name="Minor Symbol of Might" type="CRAFTED_RELIC" icon="Minor_Symbol_of_Might-icon.png">
+<stats>
+<stat name="MIGHT" value="1000"/>
+</stats>
+</relic>
+<relic name="Symbol of Might" type="CRAFTED_RELIC" level="61" icon="Symbol_of_Might-icon.png">
+<stats>
+<stat name="MIGHT" value="2000"/>
+</stats>
+</relic>
+<relic name="Device of Might" type="CRAFTED_RELIC" level="70" icon="Device_of_Might-icon.png">
+<stats>
+<stat name="MIGHT" value="3000"/>
+</stats>
+</relic>
+<relic name="Emblem of Might" type="CRAFTED_RELIC" level="80" icon="Emblem_of_Might-icon.png">
+<stats>
+<stat name="MIGHT" value="4000"/>
+</stats>
+</relic>
+<relic name="Westemnet Device of Might" type="CRAFTED_RELIC" level="90" icon="Emblem_of_Might-icon.png">
+<stats>
+<stat name="MIGHT" value="5000"/>
+</stats>
+</relic>
+<relic name="Minor Symbol of Agility" type="CRAFTED_RELIC" icon="Minor_Symbol_of_Agility-icon.png">
+<stats>
+<stat name="AGILITY" value="1000"/>
+</stats>
+</relic>
+<relic name="Symbol of Agility" type="CRAFTED_RELIC" level="61" icon="Symbol_of_Agility-icon.png">
+<stats>
+<stat name="AGILITY" value="2000"/>
+</stats>
+</relic>
+<relic name="Device of Agility" type="CRAFTED_RELIC" level="70" icon="Device_of_Agility-icon.png">
+<stats>
+<stat name="AGILITY" value="3000"/>
+</stats>
+</relic>
+<relic name="Emblem of Agility" type="CRAFTED_RELIC" level="80" icon="Emblem_of_Agility-icon.png">
+<stats>
+<stat name="AGILITY" value="4000"/>
+</stats>
+</relic>
+<relic name="Westemnet Device of Agility" type="CRAFTED_RELIC" level="90" icon="Emblem_of_Agility-icon.png">
+<stats>
+<stat name="AGILITY" value="5000"/>
+</stats>
+</relic>
+<relic name="Symbol of Accuracy" type="CRAFTED_RELIC" level="65" icon="Symbol_of_Accuracy-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="39000"/>
+<stat name="PHYSICAL_MASTERY" value="39000"/>
+</stats>
+</relic>
+<relic name="Westfold Device of Accuracy" type="CRAFTED_RELIC" level="75" icon="Westfold_Device_of_Accuracy-icon.png">
+<stats>
+<stat name="AGILITY" value="2000"/>
+<stat name="CRITICAL_RATING" value="54000"/>
+<stat name="PHYSICAL_MASTERY" value="54000"/>
+</stats>
+</relic>
+<relic name="Eastemnet Device of Accuracy" type="CRAFTED_RELIC" level="85" icon="Eastemnet_Device_of_Accuracy-icon.png">
+<stats>
+<stat name="AGILITY" value="3000"/>
+<stat name="CRITICAL_RATING" value="64000"/>
+<stat name="PHYSICAL_MASTERY" value="64000"/>
+</stats>
+</relic>
+<relic name="Westemnet Device of Accuracy" type="CRAFTED_RELIC" level="95" icon="Eastemnet_Device_of_Accuracy-icon.png">
+<stats>
+<stat name="AGILITY" value="4000"/>
+<stat name="CRITICAL_RATING" value="74000"/>
+<stat name="PHYSICAL_MASTERY" value="74000"/>
+</stats>
+</relic>
+<relic name="Symbol of Battle" type="CRAFTED_RELIC" level="65" icon="Symbol_of_Battle-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="39000"/>
+<stat name="PHYSICAL_MASTERY" value="39000"/>
+</stats>
+</relic>
+<relic name="Westfold Device of Battle" type="CRAFTED_RELIC" level="75" icon="Westfold_Device_of_Battle-icon.png">
+<stats>
+<stat name="MIGHT" value="2000"/>
+<stat name="CRITICAL_RATING" value="54000"/>
+<stat name="PHYSICAL_MASTERY" value="54000"/>
+</stats>
+</relic>
+<relic name="Eastemnet Device of Battle" type="CRAFTED_RELIC" level="85" icon="Eastemnet_Device_of_Battle-icon.png">
+<stats>
+<stat name="MIGHT" value="3000"/>
+<stat name="CRITICAL_RATING" value="64000"/>
+<stat name="PHYSICAL_MASTERY" value="64000"/>
+</stats>
+</relic>
+<relic name="Westemnet Device of Battle" type="CRAFTED_RELIC" level="95" icon="Eastemnet_Device_of_Battle-icon.png">
+<stats>
+<stat name="MIGHT" value="4000"/>
+<stat name="CRITICAL_RATING" value="74000"/>
+<stat name="PHYSICAL_MASTERY" value="74000"/>
+</stats>
+</relic>
+<relic name="Symbol of Tactics" type="CRAFTED_RELIC" level="65" icon="Symbol_of_Tactics-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="39000"/>
+<stat name="TACTICAL_MASTERY" value="39000"/>
+</stats>
+</relic>
+<relic name="Westfold Device of Tactics" type="CRAFTED_RELIC" level="75" icon="Westfold_Device_of_Tactics-icon.png">
+<stats>
+<stat name="WILL" value="2000"/>
+<stat name="CRITICAL_RATING" value="54000"/>
+<stat name="TACTICAL_MASTERY" value="54000"/>
+</stats>
+</relic>
+<relic name="Eastemnet Device of Tactics" type="CRAFTED_RELIC" level="85" icon="Eastemnet_Device_of_Tactics-icon.png">
+<stats>
+<stat name="WILL" value="3000"/>
+<stat name="CRITICAL_RATING" value="64000"/>
+<stat name="TACTICAL_MASTERY" value="64000"/>
+</stats>
+</relic>
+<relic name="Westemnet Device of Tactics" type="CRAFTED_RELIC" level="95" icon="Eastemnet_Device_of_Tactics-icon.png">
+<stats>
+<stat name="WILL" value="4000"/>
+<stat name="CRITICAL_RATING" value="74000"/>
+<stat name="TACTICAL_MASTERY" value="74000"/>
+</stats>
+</relic>
+<relic name="Symbol of Insight" type="CRAFTED_RELIC" level="65" icon="Symbol_of_Insight-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="39000"/>
+<stat name="TACTICAL_MASTERY" value="39000"/>
+</stats>
+</relic>
+<relic name="Westfold Device of Insight" type="CRAFTED_RELIC" level="75" icon="Westfold_Device_of_Insight-icon.png">
+<stats>
+<stat name="FATE" value="2000"/>
+<stat name="CRITICAL_RATING" value="54000"/>
+<stat name="TACTICAL_MASTERY" value="54000"/>
+</stats>
+</relic>
+<relic name="Eastemnet Device of Insight" type="CRAFTED_RELIC" level="85" icon="Eastemnet_Device_of_Insight-icon.png">
+<stats>
+<stat name="FATE" value="3000"/>
+<stat name="CRITICAL_RATING" value="64000"/>
+<stat name="TACTICAL_MASTERY" value="64000"/>
+</stats>
+</relic>
+<relic name="Westemnet Device of Insight" type="CRAFTED_RELIC" level="95" icon="Eastemnet_Device_of_Insight-icon.png">
+<stats>
+<stat name="FATE" value="4000"/>
+<stat name="CRITICAL_RATING" value="74000"/>
+<stat name="TACTICAL_MASTERY" value="74000"/>
+</stats>
+</relic>
+<relic name="Eastemnet Device of Potency" type="CRAFTED_RELIC" level="85" icon="Eastemnet_Device_of_Protection-icon.png">
+<stats>
+<stat name="FATE" value="3000"/>
+<stat name="CRITICAL_RATING" value="64000"/>
+<stat name="PHYSICAL_MASTERY" value="64000"/>
+</stats>
+</relic>
+<relic name="Westemnet Device of Potency" type="CRAFTED_RELIC" level="95" icon="Eastemnet_Device_of_Protection-icon.png">
+<stats>
+<stat name="FATE" value="4000"/>
+<stat name="CRITICAL_RATING" value="74000"/>
+<stat name="PHYSICAL_MASTERY" value="74000"/>
+</stats>
+</relic>
+<relic name="Eastemnet Device of Protection" type="CRAFTED_RELIC" level="85" icon="Eastemnet_Device_of_Protection-icon.png">
+<stats>
+<stat name="CRITICAL_DEFENCE" value="32000"/>
+<stat name="PHYSICAL_MITIGATION" value="64000"/>
+<stat name="TACTICAL_MITIGATION" value="64000"/>
+</stats>
+</relic>
+<relic name="Westemnet Device of Protection" type="CRAFTED_RELIC" level="95" icon="Eastemnet_Device_of_Protection-icon.png">
+<stats>
+<stat name="CRITICAL_DEFENCE" value="37000"/>
+<stat name="PHYSICAL_MITIGATION" value="74000"/>
+<stat name="TACTICAL_MITIGATION" value="74000"/>
+</stats>
+</relic>
+</category>
+<category name="Eastemnet Relics (Level 80)">
+<relic name="Eastemnet Setting of Stability" type="SETTING" level="80" icon="Eastemnet_Setting_of_Stability-icon.png">
+<stats>
+<stat name="INCOMING_HEALING" value="161600"/>
+<stat name="BLOCK" value="32300"/>
+<stat name="PARRY" value="32300"/>
+<stat name="EVADE" value="32300"/>
+<stat name="ITEM_WEAR_CHANCE_ON_HIT" value="-500"/>
+</stats>
+</relic>
+<relic name="Eastemnet Setting of Beginnings" type="SETTING" level="80" icon="Eastemnet_Setting_of_Beginnings-icon.png">
+<stats>
+<stat name="VITALITY" value="3000"/>
+<stat name="PHYSICAL_MITIGATION" value="18200"/>
+<stat name="ICPR" value="14700"/>
+</stats>
+</relic>
+<relic name="Eastemnet Setting of Endings" type="SETTING" level="80" icon="Eastemnet_Setting_of_Endings-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="129300"/>
+<stat name="ICMR" value="15600"/>
+<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="750"/>
+</stats>
+</relic>
+<relic name="True Setting of the Three Hunters" type="SETTING" level="80" icon="True_Setting_of_the_Three_Hunters-icon.png">
+<stats>
+<stat name="PHYSICAL_MASTERY" value="64600"/>
+<stat name="TACTICAL_MASTERY" value="64600"/>
+<stat name="ICPR" value="14700"/>
+<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="750"/>
+</stats>
+</relic>
+<relic name="True Setting of the North" type="SETTING" level="80" icon="True_Setting_of_the_North-icon.png">
+<stats>
+<stat name="MORALE" value="33000"/>
+<stat name="CRITICAL_RATING" value="129300"/>
+<stat name="INCOMING_HEALING" value="161600"/>
+</stats>
+</relic>
+<relic name="Eastemnet Gem of Faith" type="GEM" level="80" icon="Eastemnet_Gem_of_Faith-icon.png">
+<stats>
+<stat name="MIGHT" value="3000"/>
+<stat name="BLOCK" value="64600"/>
+<stat name="PARTIAL_BLOCK_MITIGATION_PERCENTAGE" value="400"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="200"/>
+</stats>
+</relic>
+<relic name="Eastemnet Gem of Charity" type="GEM" level="80" icon="Eastemnet_Gem_of_Charity-icon.png">
+<stats>
+<stat name="POWER" value="31000"/>
+<stat name="TACTICAL_MASTERY" value="80800"/>
+<stat name="TACTICAL_MITIGATION" value="18200"/>
+</stats>
+</relic>
+<relic name="Eastemnet Gem of Hope" type="GEM" level="80" icon="Eastemnet_Gem_of_Hope-icon.png">
+<stats>
+<stat name="MORALE" value="33000"/>
+<stat name="POWER" value="31000"/>
+<stat name="CRITICAL_DEFENCE" value="32300"/>
+</stats>
+</relic>
+<relic name="True Gem of the Twilight" type="GEM" level="80" icon="True_Gem_of_the_Twilight-icon.png">
+<stats>
+<stat name="MORALE" value="33000"/>
+<stat name="CRITICAL_DEFENCE" value="32300"/>
+<stat name="TACTICAL_MITIGATION" value="24200"/>
+</stats>
+</relic>
+<relic name="True Gem of the Rising Moon" type="GEM" level="80" icon="True_Gem_of_the_Rising_Moon-icon.png">
+<stats>
+<stat name="VITALITY" value="3500"/>
+<stat name="FATE" value="3500"/>
+<stat name="PHYSICAL_MASTERY" value="64600"/>
+<stat name="TACTICAL_MASTERY" value="64600"/>
+</stats>
+</relic>
+<relic name="Eastemnet Rune of Courage" type="RUNE" level="80" icon="Eastemnet_Rune_of_Courage-icon.png">
+<stats>
+<stat name="AGILITY" value="3000"/>
+<stat name="PARRY" value="64600"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="200"/>
+<stat name="PARTIAL_EVADE_MITIGATION_PERCENTAGE" value="400"/>
+</stats>
+</relic>
+<relic name="Eastemnet Rune of Power" type="RUNE" level="80" icon="Eastemnet_Rune_of_Power-icon.png">
+<stats>
+<stat name="FATE" value="3000"/>
+<stat name="PHYSICAL_MASTERY" value="64600"/>
+<stat name="TACTICAL_MASTERY" value="64600"/>
+<stat name="PHYSICAL_MITIGATION" value="18200"/>
+</stats>
+</relic>
+<relic name="Eastemnet Rune of Wisdom" type="RUNE" level="80" icon="Eastemnet_Rune_of_Wisdom-icon.png">
+<stats>
+<stat name="WILL" value="3000"/>
+<stat name="EVADE" value="64600"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-250"/>
+</stats>
+</relic>
+<relic name="True Rune of the White Mountains" type="RUNE" level="80" icon="True_Rune_of_the_White_Mountains-icon.png">
+<stats>
+<stat name="AGILITY" value="3500"/>
+<stat name="PHYSICAL_MASTERY" value="64600"/>
+<stat name="TACTICAL_MASTERY" value="64600"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-250"/>
+</stats>
+</relic>
+<relic name="True Rune of the Dark Wood" type="RUNE" level="80" icon="True_Rune_of_the_Dark_Wood-icon.png">
+<stats>
+<stat name="MORALE" value="33000"/>
+<stat name="POWER" value="31000"/>
+<stat name="PHYSICAL_MITIGATION" value="24200"/>
+</stats>
+</relic>
+</category>
+<category name="Extraordinary Relics (Level 65)">
+<relic name="Extraordinary Setting of Stability" type="SETTING" level="65" icon="Extraordinary_Setting_of_Stability-icon.png">
+<stats>
+<stat name="INCOMING_HEALING" value="131300"/>
+<stat name="BLOCK" value="26300"/>
+<stat name="PARRY" value="26300"/>
+<stat name="EVADE" value="26300"/>
+<stat name="ITEM_WEAR_CHANCE_ON_HIT" value="-500"/>
+</stats>
+</relic>
+<relic name="Extraordinary Setting of Beginnings" type="SETTING" level="65" icon="Extraordinary_Setting_of_Beginnings-icon.png">
+<stats>
+<stat name="VITALITY" value="2200"/>
+<stat name="PHYSICAL_MITIGATION" value="14800"/>
+<stat name="ICPR" value="11100"/>
+</stats>
+</relic>
+<relic name="Extraordinary Setting of Endings" type="SETTING" level="65" icon="Extraordinary_Setting_of_Endings-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="105000"/>
+<stat name="ICMR" value="11700"/>
+<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="750"/>
+</stats>
+</relic>
+<relic name="True Setting of the Ages" type="SETTING" level="65" icon="True_Setting_of_the_Ages-icon.png">
+<stats>
+<stat name="FATE" value="2500"/>
+<stat name="CRITICAL_RATING" value="26300"/>
+<stat name="PHYSICAL_MASTERY" value="52500"/>
+<stat name="TACTICAL_MASTERY" value="52500"/>
+</stats>
+</relic>
+<relic name="True Setting of Continuance" type="SETTING" level="65" icon="True_Setting_of_Continuance-icon.png">
+<stats>
+<stat name="MORALE" value="25000"/>
+<stat name="INCOMING_HEALING" value="131300"/>
+<stat name="ICPR" value="12600"/>
+</stats>
+</relic>
+<relic name="Extraordinary Gem of Faith" type="GEM" level="65" icon="Extraordinary_Gem_of_Faith-icon.png">
+<stats>
+<stat name="MIGHT" value="2200"/>
+<stat name="BLOCK" value="52500"/>
+<stat name="PARTIAL_BLOCK_MITIGATION_PERCENTAGE" value="400"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="200"/>
+</stats>
+</relic>
+<relic name="Extraordinary Gem of Charity" type="GEM" level="65" icon="Extraordinary_Gem_of_Charity-icon.png">
+<stats>
+<stat name="POWER" value="21000"/>
+<stat name="TACTICAL_MASTERY" value="65700"/>
+<stat name="TACTICAL_MITIGATION" value="14800"/>
+</stats>
+</relic>
+<relic name="Extraordinary Gem of Hope" type="GEM" level="65" icon="Extraordinary_Gem_of_Hope-icon.png">
+<stats>
+<stat name="MORALE" value="23000"/>
+<stat name="POWER" value="21000"/>
+<stat name="CRITICAL_DEFENCE" value="26300"/>
+</stats>
+</relic>
+<relic name="True Gem of the Encircling Seas" type="GEM" level="65" icon="True_Gem_of_the_Encircling_Seas-icon.png">
+<stats>
+<stat name="PHYSICAL_MASTERY" value="52500"/>
+<stat name="TACTICAL_MASTERY" value="52500"/>
+<stat name="ICMR" value="12600"/>
+<stat name="ICPR" value="12600"/>
+</stats>
+</relic>
+<relic name="True Gem of the Mountain King" type="GEM" level="65" icon="True_Gem_of_the_Mountain_King-icon.png">
+<stats>
+<stat name="VITALITY" value="2500"/>
+<stat name="BLOCK" value="26300"/>
+<stat name="PARRY" value="26300"/>
+<stat name="EVADE" value="26300"/>
+<stat name="ICMR" value="12600"/>
+</stats>
+</relic>
+<relic name="Extraordinary Rune of Courage" type="RUNE" level="65" icon="Extraordinary_Rune_of_Courage-icon.png">
+<stats>
+<stat name="AGILITY" value="2200"/>
+<stat name="PARRY" value="52500"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="200"/>
+<stat name="PARTIAL_EVADE_MITIGATION_PERCENTAGE" value="400"/>
+</stats>
+</relic>
+<relic name="Extraordinary Rune of Power" type="RUNE" level="65" icon="Extraordinary_Rune_of_Power-icon.png">
+<stats>
+<stat name="FATE" value="2200"/>
+<stat name="PHYSICAL_MASTERY" value="52500"/>
+<stat name="TACTICAL_MASTERY" value="52500"/>
+<stat name="PHYSICAL_MITIGATION" value="14800"/>
+</stats>
+</relic>
+<relic name="Extraordinary Rune of Wisdom" type="RUNE" level="65" icon="Extraordinary_Rune_of_Wisdom-icon.png">
+<stats>
+<stat name="WILL" value="2200"/>
+<stat name="EVADE" value="52500"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-250"/>
+</stats>
+</relic>
+<relic name="True Rune of the Two Trees" type="RUNE" level="65" icon="True_Rune_of_the_Two_Trees-icon.png">
+<stats>
+<stat name="MORALE" value="18000"/>
+<stat name="POWER" value="16000"/>
+<stat name="ICMR" value="9600"/>
+<stat name="ICPR" value="9000"/>
+</stats>
+</relic>
+<relic name="True Rune of the Dark Watch" type="RUNE" level="65" icon="True_Rune_of_the_Dark_Watch-icon.png">
+<stats>
+<stat name="MIGHT" value="1700"/>
+<stat name="AGILITY" value="1700"/>
+<stat name="VITALITY" value="1700"/>
+<stat name="WILL" value="1700"/>
+<stat name="FATE" value="1700"/>
+</stats>
+</relic>
+</category>
+<category name="Great River Relics (Level 75)">
+<relic name="Great River Setting of Stability" type="SETTING" level="75" icon="Great_River_Setting_of_Stability-icon.png">
+<stats>
+<stat name="INCOMING_HEALING" value="151500"/>
+<stat name="BLOCK" value="30300"/>
+<stat name="PARRY" value="30300"/>
+<stat name="EVADE" value="30300"/>
+<stat name="ITEM_WEAR_CHANCE_ON_HIT" value="-500"/>
+</stats>
+</relic>
+<relic name="Great River Setting of Beginnings" type="SETTING" level="75" icon="Great_River_Setting_of_Beginnings-icon.png">
+<stats>
+<stat name="VITALITY" value="2700"/>
+<stat name="PHYSICAL_MITIGATION" value="17000"/>
+<stat name="ICPR" value="13500"/>
+</stats>
+</relic>
+<relic name="Great River Setting of Endings" type="SETTING" level="75" icon="Great_River_Setting_of_Endings-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="121200"/>
+<stat name="ICMR" value="14300"/>
+<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="750"/>
+</stats>
+</relic>
+<relic name="True Setting of the Hill-men" type="SETTING" level="75" icon="True_Setting_of_the_Hill-men-icon.png">
+<stats>
+<stat name="INCOMING_HEALING" value="151500"/>
+<stat name="BLOCK" value="30300"/>
+<stat name="PARRY" value="30300"/>
+<stat name="EVADE" value="30300"/>
+<stat name="PHYSICAL_MITIGATION" value="17000"/>
+</stats>
+</relic>
+<relic name="True Setting of the Long Winter" type="SETTING" level="75" icon="True_Setting_of_the_Long_Winter-icon.png">
+<stats>
+<stat name="FATE" value="3000"/>
+<stat name="CRITICAL_RATING" value="60600"/>
+<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="750"/>
+</stats>
+</relic>
+<relic name="Great River Gem of Faith" type="GEM" level="75" icon="Great_River_Gem_of_Faith-icon.png">
+<stats>
+<stat name="MIGHT" value="2700"/>
+<stat name="BLOCK" value="60600"/>
+<stat name="PARTIAL_BLOCK_MITIGATION_PERCENTAGE" value="400"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="200"/>
+</stats>
+</relic>
+<relic name="Great River Gem of Charity" type="GEM" level="75" icon="Great_River_Gem_of_Charity-icon.png">
+<stats>
+<stat name="POWER" value="27600"/>
+<stat name="TACTICAL_MASTERY" value="75800"/>
+<stat name="TACTICAL_MITIGATION" value="17000"/>
+</stats>
+</relic>
+<relic name="Great River Gem of Hope" type="GEM" level="75" icon="Great_River_Gem_of_Hope-icon.png">
+<stats>
+<stat name="MORALE" value="29600"/>
+<stat name="POWER" value="27600"/>
+<stat name="CRITICAL_DEFENCE" value="30300"/>
+</stats>
+</relic>
+<relic name="True Gem of the Wizard's Vale" type="GEM" level="75" icon="True_Gem_of_the_Wizards_Vale-icon.png">
+<stats>
+<stat name="FATE" value="3000"/>
+<stat name="CRITICAL_RATING" value="121200"/>
+<stat name="ICPR" value="9000"/>
+</stats>
+</relic>
+<relic name="True Gem of the Watchwood" type="GEM" level="75" icon="True_Gem_of_the_Watchwood-icon.png">
+<stats>
+<stat name="VITALITY" value="3000"/>
+<stat name="CRITICAL_DEFENCE" value="30300"/>
+<stat name="BLOCK" value="30300"/>
+<stat name="PARRY" value="30300"/>
+<stat name="EVADE" value="30300"/>
+</stats>
+</relic>
+<relic name="Great River Rune of Courage" type="RUNE" level="75" icon="Great_River_Rune_of_Courage-icon.png">
+<stats>
+<stat name="AGILITY" value="2700"/>
+<stat name="PARRY" value="60600"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="200"/>
+<stat name="PARTIAL_EVADE_MITIGATION_PERCENTAGE" value="400"/>
+</stats>
+</relic>
+<relic name="Great River Rune of Power" type="RUNE" level="75" icon="Great_River_Rune_of_Power-icon.png">
+<stats>
+<stat name="FATE" value="2700"/>
+<stat name="PHYSICAL_MASTERY" value="60600"/>
+<stat name="TACTICAL_MASTERY" value="60600"/>
+<stat name="PHYSICAL_MITIGATION" value="17000"/>
+</stats>
+</relic>
+<relic name="Great River Rune of Wisdom" type="RUNE" level="75" icon="Great_River_Rune_of_Wisdom-icon.png">
+<stats>
+<stat name="WILL" value="2700"/>
+<stat name="EVADE" value="60600"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-250"/>
+</stats>
+</relic>
+<relic name="True Rune of the First Battle" type="RUNE" level="75" icon="True_Rune_of_the_First_Battle-icon.png">
+<stats>
+<stat name="PARRY" value="60600"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="200"/>
+<stat name="EVADE" value="60600"/>
+<stat name="PARTIAL_EVADE_MITIGATION_PERCENTAGE" value="400"/>
+</stats>
+</relic>
+<relic name="True Rune of the Swift-light" type="RUNE" level="75" icon="True_Rune_of_the_Swift-light-icon.png">
+<stats>
+<stat name="MORALE" value="29600"/>
+<stat name="POWER" value="27600"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-250"/>
+</stats>
+</relic>
+</category>
+<category name="Retired Gems">
+<relic name="Agate Gem of the Fateful Word" type="GEM" icon="Agate_Gem_of_the_Fateful_Word-icon.png">
+<stats>
+<stat name="FATE" value="1000"/>
+<stat name="TACTICAL_MASTERY" value="48000"/>
+</stats>
+</relic>
+<relic name="Agate Gem of the Willful Word" type="GEM" icon="Agate_Gem_of_the_Willful_Word-icon.png">
+<stats>
+<stat name="WILL" value="1000"/>
+<stat name="TACTICAL_MASTERY" value="48000"/>
+</stats>
+</relic>
+<relic name="Amethyst Gem of Destiny" type="GEM" icon="Amethyst_Gem_of_Destiny-icon.png">
+<stats>
+<stat name="WILL" value="1000"/>
+<stat name="FATE" value="1000"/>
+</stats>
+</relic>
+<relic name="Amethyst Gem of Determined Fate" type="GEM" icon="Amethyst_Gem_of_Determined_Fate-icon.png">
+<stats>
+<stat name="FATE" value="1000"/>
+<stat name="ICPR" value="6000"/>
+</stats>
+</relic>
+<relic name="Amethyst Gem of the Determined Mind" type="GEM" icon="Amethyst_Gem_of_the_Determined_Mind-icon.png">
+<stats>
+<stat name="WILL" value="1000"/>
+<stat name="ICPR" value="6000"/>
+</stats>
+</relic>
+<relic name="Garnet Gem of the Fateful Touch" type="GEM" icon="Garnet_Gem_of_the_Fateful_Touch-icon.png">
+<stats>
+<stat name="FATE" value="1200"/>
+<stat name="INCOMING_HEALING" value="60000"/>
+</stats>
+</relic>
+<relic name="Garnet Gem of the Mindful Touch" type="GEM" icon="Garnet_Gem_of_the_Mindful_Touch-icon.png">
+<stats>
+<stat name="WILL" value="1200"/>
+<stat name="INCOMING_HEALING" value="60000"/>
+</stats>
+</relic>
+<relic name="Sapphire Gem of the Sage" type="GEM" icon="Sapphire_Gem_of_the_Sage-icon.png">
+<stats>
+<stat name="FATE" value="1500"/>
+<stat name="CRITICAL_RATING" value="21600"/>
+<stat name="ICPR" value="7200"/>
+</stats>
+</relic>
+<relic name="Sapphire Gem of Empowerment" type="GEM" icon="Sapphire_Gem_of_Fortune-icon.png">
+<stats>
+<stat name="WILL" value="1500"/>
+<stat name="CRITICAL_RATING" value="21600"/>
+<stat name="ICPR" value="7200"/>
+</stats>
+</relic>
+<relic name="Ruby Gem of Nobility" type="GEM" icon="Ruby_Gem_of_Fortune-icon.png">
+<stats>
+<stat name="FATE" value="1500"/>
+<stat name="INCOMING_HEALING" value="120000"/>
+<stat name="ICPR" value="8400"/>
+</stats>
+</relic>
+<relic name="Ruby Gem of Respite" type="GEM" icon="Ruby_Gem_of_Respite-icon.png">
+<stats>
+<stat name="WILL" value="1500"/>
+<stat name="INCOMING_HEALING" value="120000"/>
+<stat name="ICPR" value="8400"/>
+</stats>
+</relic>
+<relic name="Moonstone Gem of the Stars" type="GEM" icon="Moonstone_Gem_of_the_Stars-icon.png">
+<stats>
+<stat name="TACTICAL_DEFENCE" value="48000"/>
+<stat name="INCOMING_HEALING" value="120000"/>
+<stat name="ICPR" value="9000"/>
+</stats>
+</relic>
+<relic name="Moonstone Gem of the Sundering Sea" type="GEM" icon="Moonstone_Gem_of_Dexterity-icon.png">
+<stats>
+<stat name="WILL" value="1500"/>
+<stat name="FATE" value="1500"/>
+<stat name="TACTICAL_MASTERY" value="96000"/>
+</stats>
+</relic>
+<relic name="Adamant Gem of the Moon" type="GEM" icon="Adamant_Gem_of_the_Moon-icon.png">
+<stats>
+<stat name="TACTICAL_MASTERY" value="120000"/>
+<stat name="TACTICAL_DEFENCE" value="60000"/>
+<stat name="ICPR" value="9600"/>
+</stats>
+</relic>
+<relic name="Adamant Gem of Dreams" type="GEM" icon="Adamant_Gem_of_Dreams-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="23000"/>
+<stat name="TACTICAL_MASTERY" value="120000"/>
+<stat name="ICPR" value="9600"/>
+</stats>
+</relic>
+<relic name="Emerald of the Verdant Glen" type="GEM" icon="Emerald_of_the_Verdant_Glen-icon.png">
+<stats>
+<stat name="TACTICAL_DEFENCE" value="52000"/>
+<stat name="INCOMING_HEALING" value="150000"/>
+<stat name="ICPR" value="10200"/>
+</stats>
+</relic>
+<relic name="Emerald of the Abyssal Depths" type="GEM" icon="Emerald_of_the_Abyssal_Depths-icon.png">
+<stats>
+<stat name="WILL" value="2000"/>
+<stat name="FATE" value="2000"/>
+<stat name="TACTICAL_MASTERY" value="120000"/>
+</stats>
+</relic>
+</category>
+<category name="Retired Runes">
+<relic name="Early Rune of the Heart" type="RUNE" icon="Early_Rune_of_the_Heart-icon.png">
+<stats>
+<stat name="MORALE" value="7500"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-200"/>
+</stats>
+</relic>
+<relic name="Early Rune of the Spirit" type="RUNE" icon="Early_Rune_of_the_Spirit-icon.png">
+<stats>
+<stat name="POWER" value="7500"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-200"/>
+</stats>
+</relic>
+<relic name="Aged Rune of Courage" type="RUNE" icon="Aged_Rune_of_Courage-icon.png">
+<stats>
+<stat name="MORALE" value="10000"/>
+<stat name="POWER" value="5000"/>
+<stat name="ITEM_WEAR_CHANCE_ON_HIT" value="-500"/>
+</stats>
+</relic>
+<relic name="Aged Rune of Freedom" type="RUNE" icon="Aged_Rune_of_Defence-icon.png">
+<stats>
+<stat name="MORALE" value="5000"/>
+<stat name="POWER" value="10000"/>
+<stat name="ITEM_WEAR_CHANCE_ON_HIT" value="-500"/>
+</stats>
+</relic>
+<relic name="Profound Rune of Action" type="RUNE" icon="Profound_Rune_of_Defence-icon.png">
+<stats>
+<stat name="MORALE" value="12500"/>
+<stat name="MELEE_DEFENCE" value="48000"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-250"/>
+</stats>
+</relic>
+<relic name="Profound Rune of the Swift Step" type="RUNE" icon="Profound_Rune_of_the_Swift_Step-icon.png">
+<stats>
+<stat name="POWER" value="12500"/>
+<stat name="RANGED_DEFENCE" value="48000"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-250"/>
+</stats>
+</relic>
+<relic name="Deep Rune of the Mountains" type="RUNE" icon="Deep_Rune_of_the_Mountains-icon.png">
+<stats>
+<stat name="MORALE" value="15000"/>
+<stat name="POWER" value="10000"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-250"/>
+</stats>
+</relic>
+<relic name="Deep Rune of the Forest" type="RUNE" icon="Deep_Rune_of_Avoidance-icon.png">
+<stats>
+<stat name="MORALE" value="10000"/>
+<stat name="POWER" value="15000"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-250"/>
+</stats>
+</relic>
+<relic name="Ancient Rune of the Thunder" type="RUNE" icon="Ancient_Rune_of_the_Thunder-icon.png">
+<stats>
+<stat name="MORALE" value="15000"/>
+<stat name="POWER" value="15000"/>
+<stat name="MELEE_DEFENCE" value="60000"/>
+</stats>
+</relic>
+<relic name="Ancient Rune of the Storm" type="RUNE" icon="Ancient_Rune_of_the_Storm-icon.png">
+<stats>
+<stat name="MORALE" value="15000"/>
+<stat name="POWER" value="15000"/>
+<stat name="RANGED_DEFENCE" value="60000"/>
+</stats>
+</relic>
+<relic name="Subtle Rune of the Marshes" type="RUNE" icon="Subtle_Rune_of_the_Marshes-icon.png">
+<stats>
+<stat name="MORALE" value="15000"/>
+<stat name="POWER" value="20000"/>
+<stat name="RANGED_CRITICAL_DEFENCE" value="25000"/>
+</stats>
+</relic>
+<relic name="Subtle Rune of the Crags" type="RUNE" icon="Subtle_Rune_of_the_Crags-icon.png">
+<stats>
+<stat name="MORALE" value="20000"/>
+<stat name="POWER" value="15000"/>
+<stat name="MELEE_CRITICAL_DEFENCE" value="25000"/>
+</stats>
+</relic>
+</category>
+<category name="Retired Settings">
+<relic name="Bronze Setting of Warding" type="SETTING" icon="Bronze_Setting_of_Will-icon.png">
+<stats>
+<stat name="MIGHT" value="1000"/>
+<stat name="PARTIAL_BLOCK_MITIGATION_PERCENTAGE" value="250"/>
+</stats>
+</relic>
+<relic name="Bronze Setting of Deflection" type="SETTING" icon="Bronze_Setting_of_Might-icon.png">
+<stats>
+<stat name="AGILITY" value="1000"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="250"/>
+</stats>
+</relic>
+<relic name="Bronze Setting of Fleetness" type="SETTING" icon="Bronze_Setting_of_Morale-icon.png">
+<stats>
+<stat name="VITALITY" value="1000"/>
+<stat name="PARTIAL_EVADE_MITIGATION_PERCENTAGE" value="250"/>
+</stats>
+</relic>
+<relic name="Bronze Setting of Might" type="SETTING" icon="Bronze_Setting_of_Might-icon.png">
+<stats>
+<stat name="MIGHT" value="1000"/>
+<stat name="VITALITY" value="1000"/>
+</stats>
+</relic>
+<relic name="Bronze Setting of Deftness" type="SETTING" icon="Bronze_Setting_of_Deftness-icon.png">
+<stats>
+<stat name="MIGHT" value="1000"/>
+<stat name="AGILITY" value="1000"/>
+</stats>
+</relic>
+<relic name="Bronze Setting of Endurance" type="SETTING" icon="Bronze_Setting_of_Endurance-icon.png">
+<stats>
+<stat name="AGILITY" value="1000"/>
+<stat name="VITALITY" value="1000"/>
+</stats>
+</relic>
+<relic name="Copper Setting of Whelming" type="SETTING" icon="Copper_Setting_of_Morale-icon.png">
+<stats>
+<stat name="VITALITY" value="1000"/>
+<stat name="CRITICAL_RATING" value="20400"/>
+</stats>
+</relic>
+<relic name="Copper Setting of the Deft Hand" type="SETTING" icon="Copper_Setting_of_Power-icon.png">
+<stats>
+<stat name="AGILITY" value="1000"/>
+<stat name="CRITICAL_RATING" value="20400"/>
+</stats>
+</relic>
+<relic name="Copper Setting of Rage" type="SETTING" icon="Copper_Setting_of_Might-icon.png">
+<stats>
+<stat name="MIGHT" value="1000"/>
+<stat name="CRITICAL_RATING" value="20400"/>
+</stats>
+</relic>
+<relic name="Copper Setting of the Enduring Hand" type="SETTING" icon="Copper_Setting_of_Might-icon.png">
+<stats>
+<stat name="VITALITY" value="1000"/>
+<stat name="CRITICAL_RATING" value="20400"/>
+</stats>
+</relic>
+<relic name="Iron Setting of the Stout Ward" type="SETTING" icon="Steel_Setting_of_Morale-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="20800"/>
+<stat name="PARTIAL_BLOCK_MITIGATION_PERCENTAGE" value="250"/>
+</stats>
+</relic>
+<relic name="Iron Setting of Stout Deflection" type="SETTING" icon="Iron_Setting_of_Stout_Deflection-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="20800"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="250"/>
+</stats>
+</relic>
+<relic name="Iron Setting of the Fleet Hand" type="SETTING" icon="Iron_Setting_of_the_Fleet_Hand-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="20800"/>
+<stat name="PARTIAL_EVADE_MITIGATION_PERCENTAGE" value="250"/>
+</stats>
+</relic>
+<relic name="Steel Setting of Great Might" type="SETTING" icon="Steel_Setting_of_Great_Might-icon.png">
+<stats>
+<stat name="PARTIAL_BLOCK_MITIGATION_PERCENTAGE" value="300"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="300"/>
+</stats>
+</relic>
+<relic name="Steel Setting of Great Rage" type="SETTING" icon="Steel_Setting_of_Great_Rage-icon.png">
+<stats>
+<stat name="AGILITY" value="1200"/>
+<stat name="CRITICAL_RATING" value="21200"/>
+</stats>
+</relic>
+<relic name="Silver Setting of Strength" type="SETTING" icon="Silver_Setting_of_Power-icon.png">
+<stats>
+<stat name="MIGHT" value="1500"/>
+<stat name="CRITICAL_RATING" value="21600"/>
+<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="250"/>
+</stats>
+</relic>
+<relic name="Silver Setting of Longevity" type="SETTING" icon="Silver_Setting_of_Longevity-icon.png">
+<stats>
+<stat name="VITALITY" value="1500"/>
+<stat name="CRITICAL_RATING" value="21600"/>
+<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="250"/>
+</stats>
+</relic>
+<relic name="Gold Setting of Nimbleness" type="SETTING" icon="Iron_Setting_of_Morale-icon.png">
+<stats>
+<stat name="AGILITY" value="1500"/>
+<stat name="CRITICAL_RATING" value="22000"/>
+<stat name="PARTIAL_EVADE_MITIGATION_PERCENTAGE" value="500"/>
+</stats>
+</relic>
+<relic name="Gold Setting of Quickness" type="SETTING" icon="Gold_Setting_of_Quickness-icon.png">
+<stats>
+<stat name="AGILITY" value="1500"/>
+<stat name="CRITICAL_RATING" value="22000"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="500"/>
+</stats>
+</relic>
+<relic name="Platinum Setting of the Bulwark" type="SETTING" icon="Platinum_Setting_of_the_Bulwark-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="23000"/>
+<stat name="PARTIAL_BLOCK_MITIGATION_PERCENTAGE" value="750"/>
+<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="500"/>
+</stats>
+</relic>
+<relic name="Platinum Setting of Hardiness" type="SETTING" icon="Platinum_Setting_of_Hardiness-icon.png">
+<stats>
+<stat name="MIGHT" value="1500"/>
+<stat name="AGILITY" value="1500"/>
+<stat name="VITALITY" value="1500"/>
+</stats>
+</relic>
+<relic name="Ithildin Setting of the Biting Fly" type="SETTING" icon="Ithildn_Setting_of_the_Biting_Fly-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="23000"/>
+<stat name="PARTIAL_EVADE_MITIGATION_PERCENTAGE" value="750"/>
+<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="500"/>
+</stats>
+</relic>
+<relic name="Ithildin Setting of Reflex" type="SETTING" icon="Ithildn_Setting_of_Reflex-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="23000"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="750"/>
+<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="500"/>
+</stats>
+</relic>
+<relic name="Mithril Setting of the Warrior" type="SETTING" icon="Mithril_Setting_of_the_Warrior-icon.png">
+<stats>
+<stat name="MIGHT" value="2000"/>
+<stat name="AGILITY" value="2000"/>
+<stat name="VITALITY" value="2000"/>
+</stats>
+</relic>
+<relic name="Mithril Setting of the Citadel" type="SETTING" icon="Mithril_Setting_of_the_Citadel-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="35000"/>
+<stat name="PARTIAL_BLOCK_MITIGATION_PERCENTAGE" value="1000"/>
+<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="750"/>
+</stats>
+</relic>
+</category>
+<category name="Singular relics (60)">
+<relic name="Singular Setting of Stability" type="SETTING" level="60" icon="Singular_Setting_of_Stability-icon.png">
+<stats>
+<stat name="BLOCK" value="24200"/>
+<stat name="PARRY" value="24200"/>
+<stat name="EVADE" value="24200"/>
+<stat name="ITEM_WEAR_CHANCE_ON_HIT" value="-500"/>
+</stats>
+</relic>
+<relic name="Singular Setting of Beginnings" type="SETTING" level="60" icon="Singular_Setting_of_Beginnings-icon.png">
+<stats>
+<stat name="PHYSICAL_MITIGATION" value="13600"/>
+<stat name="ICPR" value="9900"/>
+</stats>
+</relic>
+<relic name="Singular Setting of Endings" type="SETTING" level="60" icon="Singular_Setting_of_Endings-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="97000"/>
+<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="750"/>
+</stats>
+</relic>
+<relic name="Singular Gem of Faith" type="GEM" level="60" icon="Singular_Gem_of_Faith-icon.png">
+<stats>
+<stat name="BLOCK" value="48500"/>
+<stat name="PARTIAL_BLOCK_MITIGATION_PERCENTAGE" value="400"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="200"/>
+</stats>
+</relic>
+<relic name="Singular Gem of Charity" type="GEM" level="60" icon="Singular_Gem_of_Charity-icon.png">
+<stats>
+<stat name="TACTICAL_MASTERY" value="60600"/>
+<stat name="TACTICAL_MITIGATION" value="13600"/>
+</stats>
+</relic>
+<relic name="Singular Gem of Hope" type="GEM" level="60" icon="Singular_Gem_of_Hope-icon.png">
+<stats>
+<stat name="MORALE" value="19600"/>
+<stat name="CRITICAL_DEFENCE" value="24200"/>
+</stats>
+</relic>
+<relic name="Singular Rune of Courage" type="RUNE" level="60" icon="Singular_Rune_of_Courage-icon.png">
+<stats>
+<stat name="AGILITY" value="2000"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="200"/>
+<stat name="PARTIAL_EVADE_MITIGATION_PERCENTAGE" value="400"/>
+</stats>
+</relic>
+<relic name="Singular Rune of Power" type="RUNE" level="60" icon="Singular_Rune_of_Power-icon.png">
+<stats>
+<stat name="PHYSICAL_MASTERY" value="48500"/>
+<stat name="TACTICAL_MASTERY" value="48500"/>
+<stat name="PHYSICAL_MITIGATION" value="13600"/>
+</stats>
+</relic>
+<relic name="Singular Rune of Wisdom" type="RUNE" level="60" icon="Singular_Rune_of_Wisdom-icon.png">
+<stats>
+<stat name="EVADE" value="48500"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-250"/>
+</stats>
+</relic>
+</category>
+<category name="Tier 1">
+<relic name="Bronze Setting of Will" type="SETTING" icon="Bronze_Setting_of_Will-icon.png">
+<stats>
+<stat name="WILL" value="1500"/>
+<stat name="PHYSICAL_MASTERY" value="40400"/>
+<stat name="TACTICAL_MASTERY" value="40400"/>
+</stats>
+</relic>
+<relic name="Bronze Setting of Might" type="SETTING" icon="Bronze_Setting_of_Might-icon.png">
+<stats>
+<stat name="MIGHT" value="1500"/>
+<stat name="PHYSICAL_MASTERY" value="40400"/>
+<stat name="TACTICAL_MASTERY" value="40400"/>
+</stats>
+</relic>
+<relic name="Bronze Setting of Morale" type="SETTING" icon="Bronze_Setting_of_Morale-icon.png">
+<stats>
+<stat name="MORALE" value="13000"/>
+<stat name="PHYSICAL_MASTERY" value="40400"/>
+<stat name="TACTICAL_MASTERY" value="40400"/>
+</stats>
+</relic>
+<relic name="Bronze Setting of Power" type="SETTING" icon="Bronze_Setting_of_Power-icon.png">
+<stats>
+<stat name="POWER" value="11000"/>
+<stat name="PHYSICAL_MASTERY" value="40400"/>
+<stat name="TACTICAL_MASTERY" value="40400"/>
+</stats>
+</relic>
+<relic name="Agate Gem of Endurance" type="GEM" icon="Agate_Gem_of_Endurance-icon.png">
+<stats>
+<stat name="VITALITY" value="1500"/>
+<stat name="CRITICAL_RATING" value="40400"/>
+</stats>
+</relic>
+<relic name="Agate Gem of Dexterity" type="GEM" icon="Agate_Gem_of_Dexterity-icon.png">
+<stats>
+<stat name="AGILITY" value="1500"/>
+<stat name="CRITICAL_RATING" value="40400"/>
+</stats>
+</relic>
+<relic name="Agate Gem of Fortune" type="GEM" icon="Agate_Gem_of_Fortune-icon.png">
+<stats>
+<stat name="FATE" value="1500"/>
+<stat name="CRITICAL_RATING" value="40400"/>
+</stats>
+</relic>
+<relic name="Early Rune of Defence" type="RUNE" icon="Early_Rune_of_Defence-icon.png">
+<stats>
+<stat name="INCOMING_HEALING" value="80800"/>
+<stat name="BLOCK" value="40400"/>
+</stats>
+</relic>
+<relic name="Early Rune of Deflection" type="RUNE" icon="Early_Rune_of_Deflection-icon.png">
+<stats>
+<stat name="PARRY" value="40400"/>
+<stat name="ICMR" value="7800"/>
+</stats>
+</relic>
+<relic name="Early Rune of Avoidance" type="RUNE" icon="Early_Rune_of_Avoidance-icon.png">
+<stats>
+<stat name="EVADE" value="40400"/>
+<stat name="ICPR" value="7500"/>
+</stats>
+</relic>
+</category>
+<category name="Tier 10">
+<relic name="Eorlingas Setting of Will" type="SETTING" icon="Eorlingas_Setting_of_Will-icon.png">
+<stats>
+<stat name="WILL" value="2800"/>
+<stat name="PHYSICAL_MASTERY" value="62200"/>
+<stat name="TACTICAL_MASTERY" value="62200"/>
+</stats>
+</relic>
+<relic name="Eorlingas Setting of Might" type="SETTING" icon="Eorlingas_Setting_of_Might-icon.png">
+<stats>
+<stat name="MIGHT" value="2800"/>
+<stat name="PHYSICAL_MASTERY" value="62200"/>
+<stat name="TACTICAL_MASTERY" value="62200"/>
+</stats>
+</relic>
+<relic name="Eorlingas Setting of Morale" type="SETTING" icon="Eorlingas_Setting_of_Morale-icon.png">
+<stats>
+<stat name="MORALE" value="31000"/>
+<stat name="PHYSICAL_MASTERY" value="62200"/>
+<stat name="TACTICAL_MASTERY" value="62200"/>
+</stats>
+</relic>
+<relic name="Eorlingas Setting of Power" type="SETTING" icon="Eorlingas_Setting_of_Power-icon.png">
+<stats>
+<stat name="POWER" value="29000"/>
+<stat name="PHYSICAL_MASTERY" value="62200"/>
+<stat name="TACTICAL_MASTERY" value="62200"/>
+</stats>
+</relic>
+<relic name="Emerald Gem of Endurance" type="GEM" icon="Emerald_Gem_of_Endurance_T10-icon.png">
+<stats>
+<stat name="VITALITY" value="2800"/>
+<stat name="CRITICAL_RATING" value="124400"/>
+</stats>
+</relic>
+<relic name="Emerald Gem of Dexterity" type="GEM" icon="Emerald_Gem_of_Dexterity_T10-icon.png">
+<stats>
+<stat name="AGILITY" value="2800"/>
+<stat name="CRITICAL_RATING" value="124400"/>
+</stats>
+</relic>
+<relic name="Emerald Gem of Fortune" type="GEM" icon="Emerald_Gem_of_Fortune_T10-icon.png">
+<stats>
+<stat name="FATE" value="2800"/>
+<stat name="CRITICAL_RATING" value="124400"/>
+</stats>
+</relic>
+<relic name="Insightful Rune of Defence" type="RUNE" icon="Insightful_Rune_of_Defence-icon.png">
+<stats>
+<stat name="INCOMING_HEALING" value="124400"/>
+<stat name="BLOCK" value="62200"/>
+</stats>
+</relic>
+<relic name="Insightful Rune of Deflection" type="RUNE" icon="Insightful_Rune_of_Deflection-icon.png">
+<stats>
+<stat name="PARRY" value="62200"/>
+<stat name="ICMR" value="14800"/>
+</stats>
+</relic>
+<relic name="Insightful Rune of Avoidance" type="RUNE" icon="Insightful_Rune_of_Avoidance-icon.png">
+<stats>
+<stat name="EVADE" value="62200"/>
+<stat name="ICPR" value="14000"/>
+</stats>
+</relic>
+</category>
+<category name="Tier 2">
+<relic name="Copper Setting of Will" type="SETTING" icon="Copper_Setting_of_Will-icon.png">
+<stats>
+<stat name="WILL" value="1600"/>
+<stat name="PHYSICAL_MASTERY" value="42800"/>
+<stat name="TACTICAL_MASTERY" value="42800"/>
+</stats>
+</relic>
+<relic name="Copper Setting of Might" type="SETTING" icon="Copper_Setting_of_Might-icon.png">
+<stats>
+<stat name="MIGHT" value="1600"/>
+<stat name="PHYSICAL_MASTERY" value="42800"/>
+<stat name="TACTICAL_MASTERY" value="42800"/>
+</stats>
+</relic>
+<relic name="Copper Setting of Morale" type="SETTING" icon="Copper_Setting_of_Morale-icon.png">
+<stats>
+<stat name="MORALE" value="15000"/>
+<stat name="PHYSICAL_MASTERY" value="42800"/>
+<stat name="TACTICAL_MASTERY" value="42800"/>
+</stats>
+</relic>
+<relic name="Copper Setting of Power" type="SETTING" icon="Copper_Setting_of_Power-icon.png">
+<stats>
+<stat name="POWER" value="13000"/>
+<stat name="PHYSICAL_MASTERY" value="42800"/>
+<stat name="TACTICAL_MASTERY" value="42800"/>
+</stats>
+</relic>
+<relic name="Amethyst Gem of Endurance" type="GEM" icon="Amethyst_Gem_of_Endurance-icon.png">
+<stats>
+<stat name="VITALITY" value="1600"/>
+<stat name="CRITICAL_RATING" value="42800"/>
+</stats>
+</relic>
+<relic name="Amethyst Gem of Dexterity" type="GEM" icon="Amethyst_Gem_of_Dexterity-icon.png">
+<stats>
+<stat name="AGILITY" value="1600"/>
+<stat name="CRITICAL_RATING" value="42800"/>
+</stats>
+</relic>
+<relic name="Amethyst Gem of Fortune" type="GEM" icon="Amethyst_Gem_of_Fortune-icon.png">
+<stats>
+<stat name="FATE" value="1600"/>
+<stat name="CRITICAL_RATING" value="42800"/>
+</stats>
+</relic>
+<relic name="Aged Rune of Defence" type="RUNE" icon="Aged_Rune_of_Defence-icon.png">
+<stats>
+<stat name="INCOMING_HEALING" value="85600"/>
+<stat name="BLOCK" value="42800"/>
+</stats>
+</relic>
+<relic name="Aged Rune of Deflection" type="RUNE" icon="Aged_Rune_of_Deflection-icon.png">
+<stats>
+<stat name="PARRY" value="42800"/>
+<stat name="ICMR" value="8580"/>
+</stats>
+</relic>
+<relic name="Aged Rune of Avoidance" type="RUNE" icon="Aged_Rune_of_Avoidance-icon.png">
+<stats>
+<stat name="EVADE" value="42800"/>
+<stat name="ICPR" value="8220"/>
+</stats>
+</relic>
+</category>
+<category name="Tier 3">
+<relic name="Iron Setting of Will" type="SETTING" icon="Iron_Setting_of_Will-icon.png">
+<stats>
+<stat name="WILL" value="1800"/>
+<stat name="PHYSICAL_MASTERY" value="45200"/>
+<stat name="TACTICAL_MASTERY" value="45200"/>
+</stats>
+</relic>
+<relic name="Iron Setting of Might" type="SETTING" icon="Iron_Setting_of_Might-icon.png">
+<stats>
+<stat name="MIGHT" value="1800"/>
+<stat name="PHYSICAL_MASTERY" value="45200"/>
+<stat name="TACTICAL_MASTERY" value="45200"/>
+</stats>
+</relic>
+<relic name="Iron Setting of Morale" type="SETTING" icon="Iron_Setting_of_Morale-icon.png">
+<stats>
+<stat name="MORALE" value="17000"/>
+<stat name="PHYSICAL_MASTERY" value="45200"/>
+<stat name="TACTICAL_MASTERY" value="45200"/>
+</stats>
+</relic>
+<relic name="Iron Setting of Power" type="SETTING" icon="Iron_Setting_of_Power-icon.png">
+<stats>
+<stat name="POWER" value="15000"/>
+<stat name="PHYSICAL_MASTERY" value="45200"/>
+<stat name="TACTICAL_MASTERY" value="45200"/>
+</stats>
+</relic>
+<relic name="Bloodstone Gem of Endurance" type="GEM" icon="Ruby_Gem_of_Endurance-icon.png">
+<stats>
+<stat name="VITALITY" value="1800"/>
+<stat name="CRITICAL_RATING" value="45200"/>
+</stats>
+</relic>
+<relic name="Bloodstone Gem of Dexterity" type="GEM" icon="Ruby_Gem_of_Dexterity-icon.png">
+<stats>
+<stat name="AGILITY" value="1800"/>
+<stat name="CRITICAL_RATING" value="45200"/>
+</stats>
+</relic>
+<relic name="Bloodstone Gem of Fortune" type="GEM" icon="Ruby_Gem_of_Fortune-icon.png">
+<stats>
+<stat name="FATE" value="1800"/>
+<stat name="CRITICAL_RATING" value="45200"/>
+</stats>
+</relic>
+<relic name="Profound Rune of Defence" type="RUNE" icon="Profound_Rune_of_Defence-icon.png">
+<stats>
+<stat name="INCOMING_HEALING" value="90500"/>
+<stat name="BLOCK" value="45200"/>
+</stats>
+</relic>
+<relic name="Profound Rune of Deflection" type="RUNE" icon="Profound_Rune_of_Deflection-icon.png">
+<stats>
+<stat name="PARRY" value="45200"/>
+<stat name="ICMR" value="9360"/>
+</stats>
+</relic>
+<relic name="Profound Rune of Avoidance" type="RUNE" icon="Profound_Rune_of_Avoidance-icon.png">
+<stats>
+<stat name="EVADE" value="45200"/>
+<stat name="ICPR" value="8940"/>
+</stats>
+</relic>
+</category>
+<category name="Tier 4">
+<relic name="Steel Setting of Will" type="SETTING" icon="Steel_Setting_of_Will-icon.png">
+<stats>
+<stat name="WILL" value="1900"/>
+<stat name="PHYSICAL_MASTERY" value="47700"/>
+<stat name="TACTICAL_MASTERY" value="47700"/>
+</stats>
+</relic>
+<relic name="Steel Setting of Might" type="SETTING" icon="Steel_Setting_of_Might-icon.png">
+<stats>
+<stat name="MIGHT" value="1900"/>
+<stat name="PHYSICAL_MASTERY" value="47700"/>
+<stat name="TACTICAL_MASTERY" value="47700"/>
+</stats>
+</relic>
+<relic name="Steel Setting of Morale" type="SETTING" icon="Steel_Setting_of_Morale-icon.png">
+<stats>
+<stat name="MORALE" value="19000"/>
+<stat name="PHYSICAL_MASTERY" value="47700"/>
+<stat name="TACTICAL_MASTERY" value="47700"/>
+</stats>
+</relic>
+<relic name="Steel Setting of Power" type="SETTING" icon="Steel_Setting_of_Power-icon.png">
+<stats>
+<stat name="POWER" value="17000"/>
+<stat name="PHYSICAL_MASTERY" value="47700"/>
+<stat name="TACTICAL_MASTERY" value="47700"/>
+</stats>
+</relic>
+<relic name="Sapphire Gem of Endurance" type="GEM" icon="Sapphire_Gem_of_Endurance-icon.png">
+<stats>
+<stat name="VITALITY" value="1900"/>
+<stat name="CRITICAL_RATING" value="47700"/>
+</stats>
+</relic>
+<relic name="Sapphire Gem of Dexterity" type="GEM" icon="Sapphire_Gem_of_Dexterity-icon.png">
+<stats>
+<stat name="AGILITY" value="1900"/>
+<stat name="CRITICAL_RATING" value="47700"/>
+</stats>
+</relic>
+<relic name="Sapphire Gem of Fortune" type="GEM" icon="Sapphire_Gem_of_Fortune-icon.png">
+<stats>
+<stat name="FATE" value="1900"/>
+<stat name="CRITICAL_RATING" value="47700"/>
+</stats>
+</relic>
+<relic name="Deep Rune of Defence" type="RUNE" icon="Deep_Rune_of_Defence-icon.png">
+<stats>
+<stat name="INCOMING_HEALING" value="95300"/>
+<stat name="BLOCK" value="47700"/>
+</stats>
+</relic>
+<relic name="Deep Rune of Deflection" type="RUNE" icon="Deep_Rune_of_Deflection-icon.png">
+<stats>
+<stat name="PARRY" value="47700"/>
+<stat name="ICMR" value="10140"/>
+</stats>
+</relic>
+<relic name="Deep Rune of Avoidance" type="RUNE" icon="Deep_Rune_of_Avoidance-icon.png">
+<stats>
+<stat name="EVADE" value="47700"/>
+<stat name="ICPR" value="9660"/>
+</stats>
+</relic>
+</category>
+<category name="Tier 5">
+<relic name="Silver Setting of Will" type="SETTING" icon="Silver_Setting_of_Will-icon.png">
+<stats>
+<stat name="WILL" value="2100"/>
+<stat name="PHYSICAL_MASTERY" value="50100"/>
+<stat name="TACTICAL_MASTERY" value="50100"/>
+</stats>
+</relic>
+<relic name="Silver Setting of Might" type="SETTING" icon="Silver_Setting_of_Might-icon.png">
+<stats>
+<stat name="MIGHT" value="2100"/>
+<stat name="PHYSICAL_MASTERY" value="50100"/>
+<stat name="TACTICAL_MASTERY" value="50100"/>
+</stats>
+</relic>
+<relic name="Silver Setting of Morale" type="SETTING" icon="Silver_Setting_of_Morale-icon.png">
+<stats>
+<stat name="MORALE" value="21000"/>
+<stat name="PHYSICAL_MASTERY" value="50100"/>
+<stat name="TACTICAL_MASTERY" value="50100"/>
+</stats>
+</relic>
+<relic name="Silver Setting of Power" type="SETTING" icon="Silver_Setting_of_Power-icon.png">
+<stats>
+<stat name="POWER" value="19000"/>
+<stat name="PHYSICAL_MASTERY" value="50100"/>
+<stat name="TACTICAL_MASTERY" value="50100"/>
+</stats>
+</relic>
+<relic name="Moonstone Gem of Endurance" type="GEM" icon="Moonstone_Gem_of_Endurance-icon.png">
+<stats>
+<stat name="VITALITY" value="2100"/>
+<stat name="CRITICAL_RATING" value="50100"/>
+</stats>
+</relic>
+<relic name="Moonstone Gem of Dexterity" type="GEM" icon="Moonstone_Gem_of_Dexterity-icon.png">
+<stats>
+<stat name="AGILITY" value="2100"/>
+<stat name="CRITICAL_RATING" value="50100"/>
+</stats>
+</relic>
+<relic name="Moonstone Gem of Fortune" type="GEM" icon="Moonstone_Gem_of_Fortune-icon.png">
+<stats>
+<stat name="FATE" value="2100"/>
+<stat name="CRITICAL_RATING" value="50100"/>
+</stats>
+</relic>
+<relic name="Ancient Rune of Defence" type="RUNE" icon="Ancient_Rune_of_Defence-icon.png">
+<stats>
+<stat name="INCOMING_HEALING" value="100200"/>
+<stat name="BLOCK" value="50100"/>
+</stats>
+</relic>
+<relic name="Ancient Rune of Deflection" type="RUNE" icon="Ancient_Rune_of_Deflection-icon.png">
+<stats>
+<stat name="PARRY" value="50100"/>
+<stat name="ICMR" value="10920"/>
+</stats>
+</relic>
+<relic name="Ancient Rune of Avoidance" type="RUNE" icon="Ancient_Rune_of_Avoidance-icon.png">
+<stats>
+<stat name="EVADE" value="50100"/>
+<stat name="ICPR" value="10380"/>
+</stats>
+</relic>
+</category>
+<category name="Tier 6">
+<relic name="Gold Setting of Will" type="SETTING" icon="Gold_Setting_of_Will-icon.png">
+<stats>
+<stat name="WILL" value="2200"/>
+<stat name="PHYSICAL_MASTERY" value="52500"/>
+<stat name="TACTICAL_MASTERY" value="52500"/>
+</stats>
+</relic>
+<relic name="Gold Setting of Might" type="SETTING" icon="Gold_Setting_of_Might-icon.png">
+<stats>
+<stat name="MIGHT" value="2200"/>
+<stat name="PHYSICAL_MASTERY" value="52500"/>
+<stat name="TACTICAL_MASTERY" value="52500"/>
+</stats>
+</relic>
+<relic name="Gold Setting of Morale" type="SETTING" icon="Gold_Setting_of_Morale-icon.png">
+<stats>
+<stat name="MORALE" value="23000"/>
+<stat name="PHYSICAL_MASTERY" value="52500"/>
+<stat name="TACTICAL_MASTERY" value="52500"/>
+</stats>
+</relic>
+<relic name="Gold Setting of Power" type="SETTING" icon="Gold_Setting_of_Power-icon.png">
+<stats>
+<stat name="POWER" value="21000"/>
+<stat name="PHYSICAL_MASTERY" value="52500"/>
+<stat name="TACTICAL_MASTERY" value="52500"/>
+</stats>
+</relic>
+<relic name="Ruby Gem of Endurance" type="GEM" icon="Adamant_Gem_of_Endurance-icon.png">
+<stats>
+<stat name="VITALITY" value="2200"/>
+<stat name="CRITICAL_RATING" value="52500"/>
+</stats>
+</relic>
+<relic name="Ruby Gem of Dexterity" type="GEM" icon="Adamant_Gem_of_Dexterity-icon.png">
+<stats>
+<stat name="AGILITY" value="2200"/>
+<stat name="CRITICAL_RATING" value="52500"/>
+</stats>
+</relic>
+<relic name="Ruby Gem of Fortune" type="GEM" icon="Adamant_Gem_of_Fortune-icon.png">
+<stats>
+<stat name="FATE" value="2200"/>
+<stat name="CRITICAL_RATING" value="52500"/>
+</stats>
+</relic>
+<relic name="Subtle Rune of Defence" type="RUNE" icon="Subtle_Rune_of_Defence-icon.png">
+<stats>
+<stat name="INCOMING_HEALING" value="105000"/>
+<stat name="BLOCK" value="52500"/>
+</stats>
+</relic>
+<relic name="Subtle Rune of Deflection" type="RUNE" icon="Subtle_Rune_of_Deflection-icon.png">
+<stats>
+<stat name="PARRY" value="52500"/>
+<stat name="ICMR" value="11700"/>
+</stats>
+</relic>
+<relic name="Subtle Rune of Avoidance" type="RUNE" icon="Subtle_Rune_of_Avoidance-icon.png">
+<stats>
+<stat name="EVADE" value="52500"/>
+<stat name="ICPR" value="11100"/>
+</stats>
+</relic>
+</category>
+<category name="Tier 7">
+<relic name="Platinum Setting of Will" type="SETTING" icon="Platinum_Setting_of_Will-icon.png">
+<stats>
+<stat name="WILL" value="2400"/>
+<stat name="PHYSICAL_MASTERY" value="54900"/>
+<stat name="TACTICAL_MASTERY" value="54900"/>
+</stats>
+</relic>
+<relic name="Platinum Setting of Might" type="SETTING" icon="Platinum_Setting_of_Might-icon.png">
+<stats>
+<stat name="MIGHT" value="2400"/>
+<stat name="PHYSICAL_MASTERY" value="54900"/>
+<stat name="TACTICAL_MASTERY" value="54900"/>
+</stats>
+</relic>
+<relic name="Platinum Setting of Morale" type="SETTING" icon="Platinum_Setting_of_Morale-icon.png">
+<stats>
+<stat name="MORALE" value="25000"/>
+<stat name="PHYSICAL_MASTERY" value="54900"/>
+<stat name="TACTICAL_MASTERY" value="54900"/>
+</stats>
+</relic>
+<relic name="Platinum Setting of Power" type="SETTING" icon="Platinum_Setting_of_Power-icon.png">
+<stats>
+<stat name="POWER" value="23000"/>
+<stat name="PHYSICAL_MASTERY" value="54900"/>
+<stat name="TACTICAL_MASTERY" value="54900"/>
+</stats>
+</relic>
+<relic name="Adamant Gem of Endurance" type="GEM" icon="Emerald_Gem_of_Endurance-icon.png">
+<stats>
+<stat name="VITALITY" value="2400"/>
+<stat name="CRITICAL_RATING" value="54900"/>
+</stats>
+</relic>
+<relic name="Adamant Gem of Dexterity" type="GEM" icon="Emerald_Gem_of_Dexterity-icon.png">
+<stats>
+<stat name="AGILITY" value="2400"/>
+<stat name="CRITICAL_RATING" value="54900"/>
+</stats>
+</relic>
+<relic name="Adamant Gem of Fortune" type="GEM" icon="Emerald_Gem_of_Fortune-icon.png">
+<stats>
+<stat name="FATE" value="2400"/>
+<stat name="CRITICAL_RATING" value="54900"/>
+</stats>
+</relic>
+<relic name="Mysterious Rune of Defence" type="RUNE" icon="Mysterious_Rune_of_Defence-icon.png">
+<stats>
+<stat name="INCOMING_HEALING" value="109900"/>
+<stat name="BLOCK" value="54900"/>
+</stats>
+</relic>
+<relic name="Mysterious Rune of Deflection" type="RUNE" icon="Mysterious_Rune_of_Deflection-icon.png">
+<stats>
+<stat name="PARRY" value="54900"/>
+<stat name="ICMR" value="12480"/>
+</stats>
+</relic>
+<relic name="Mysterious Rune of Avoidance" type="RUNE" icon="Mysterious_Rune_of_Avoidance-icon.png">
+<stats>
+<stat name="EVADE" value="54900"/>
+<stat name="ICPR" value="11820"/>
+</stats>
+</relic>
+</category>
+<category name="Tier 8">
+<relic name="Calenard Setting of Will" type="SETTING" icon="Calenard_Setting_of_Will-icon.png">
+<stats>
+<stat name="WILL" value="2500"/>
+<stat name="PHYSICAL_MASTERY" value="57400"/>
+<stat name="TACTICAL_MASTERY" value="57400"/>
+</stats>
+</relic>
+<relic name="Calenard Setting of Might" type="SETTING" icon="Calenard_Setting_of_Might-icon.png">
+<stats>
+<stat name="MIGHT" value="2500"/>
+<stat name="PHYSICAL_MASTERY" value="57400"/>
+<stat name="TACTICAL_MASTERY" value="57400"/>
+</stats>
+</relic>
+<relic name="Calenard Setting of Morale" type="SETTING" icon="Calenard_Setting_of_Morale-icon.png">
+<stats>
+<stat name="MORALE" value="27000"/>
+<stat name="PHYSICAL_MASTERY" value="57400"/>
+<stat name="TACTICAL_MASTERY" value="57400"/>
+</stats>
+</relic>
+<relic name="Calenard Setting of Power" type="SETTING" icon="Calenard_Setting_of_Power-icon.png">
+<stats>
+<stat name="POWER" value="25000"/>
+<stat name="PHYSICAL_MASTERY" value="57400"/>
+<stat name="TACTICAL_MASTERY" value="57400"/>
+</stats>
+</relic>
+<relic name="Green Garnet Gem of Endurance" type="GEM" icon="Garnet_Gem_of_Endurance-icon.png">
+<stats>
+<stat name="VITALITY" value="2500"/>
+<stat name="CRITICAL_RATING" value="57400"/>
+</stats>
+</relic>
+<relic name="Green Garnet Gem of Dexterity" type="GEM" icon="Garnet_Gem_of_Dexterity-icon.png">
+<stats>
+<stat name="AGILITY" value="2500"/>
+<stat name="CRITICAL_RATING" value="57400"/>
+</stats>
+</relic>
+<relic name="Green Garnet Gem of Fortune" type="GEM" icon="Garnet_Gem_of_Fortune-icon.png">
+<stats>
+<stat name="FATE" value="2500"/>
+<stat name="CRITICAL_RATING" value="57400"/>
+</stats>
+</relic>
+<relic name="Unusual Rune of Defence" type="RUNE" icon="Unusual_Rune_of_Defence-icon.png">
+<stats>
+<stat name="INCOMING_HEALING" value="114700"/>
+<stat name="BLOCK" value="57400"/>
+</stats>
+</relic>
+<relic name="Unusual Rune of Deflection" type="RUNE" icon="Unusual_Rune_of_Deflection-icon.png">
+<stats>
+<stat name="PARRY" value="57400"/>
+<stat name="ICMR" value="13260"/>
+</stats>
+</relic>
+<relic name="Unusual Rune of Avoidance" type="RUNE" icon="Unusual_Rune_of_Avoidance-icon.png">
+<stats>
+<stat name="EVADE" value="57400"/>
+<stat name="ICPR" value="12540"/>
+</stats>
+</relic>
+</category>
+<category name="Tier 9">
+<relic name="Riddermark Setting of Will" type="SETTING" icon="Riddermark_Setting_of_Will-icon.png">
+<stats>
+<stat name="WILL" value="2700"/>
+<stat name="PHYSICAL_MASTERY" value="59800"/>
+<stat name="TACTICAL_MASTERY" value="59800"/>
+</stats>
+</relic>
+<relic name="Riddermark Setting of Might" type="SETTING" icon="Riddermark_Setting_of_Might-icon.png">
+<stats>
+<stat name="MIGHT" value="2700"/>
+<stat name="PHYSICAL_MASTERY" value="59800"/>
+<stat name="TACTICAL_MASTERY" value="59800"/>
+</stats>
+</relic>
+<relic name="Riddermark Setting of Morale" type="SETTING" icon="Riddermark_Setting_of_Morale-icon.png">
+<stats>
+<stat name="MORALE" value="27000"/>
+<stat name="PHYSICAL_MASTERY" value="59800"/>
+<stat name="TACTICAL_MASTERY" value="59800"/>
+</stats>
+</relic>
+<relic name="Riddermark Setting of Power" type="SETTING" icon="Riddermark_Setting_of_Power-icon.png">
+<stats>
+<stat name="POWER" value="25000"/>
+<stat name="PHYSICAL_MASTERY" value="59800"/>
+<stat name="TACTICAL_MASTERY" value="59800"/>
+</stats>
+</relic>
+<relic name="Red Agate Gem of Endurance" type="GEM" icon="Red_Agate_Gem_of_Endurance-icon.png">
+<stats>
+<stat name="VITALITY" value="2700"/>
+<stat name="CRITICAL_RATING" value="59800"/>
+</stats>
+</relic>
+<relic name="Red Agate Gem of Dexterity" type="GEM" icon="Red_Agate_Gem_of_Dexterity-icon.png">
+<stats>
+<stat name="AGILITY" value="2700"/>
+<stat name="CRITICAL_RATING" value="59800"/>
+</stats>
+</relic>
+<relic name="Red Agate Gem of Fortune" type="GEM" icon="Red_Agate_Gem_of_Fortune-icon.png">
+<stats>
+<stat name="FATE" value="2700"/>
+<stat name="CRITICAL_RATING" value="59800"/>
+</stats>
+</relic>
+<relic name="Elder Rune of Defence" type="RUNE" icon="Elder_Rune_of_Defence-icon.png">
+<stats>
+<stat name="INCOMING_HEALING" value="119600"/>
+<stat name="BLOCK" value="59800"/>
+</stats>
+</relic>
+<relic name="Elder Rune of Deflection" type="RUNE" icon="Elder_Rune_of_Deflection-icon.png">
+<stats>
+<stat name="PARRY" value="59800"/>
+<stat name="ICMR" value="14039"/>
+</stats>
+</relic>
+<relic name="Elder Rune of Avoidance" type="RUNE" icon="Elder_Rune_of_Avoidance-icon.png">
+<stats>
+<stat name="EVADE" value="59800"/>
+<stat name="ICPR" value="13260"/>
+</stats>
+</relic>
+</category>
+<category name="Unique relics (55)">
+<relic name="Unique Setting of Stability" type="SETTING" level="55" icon="Unique_Setting_of_Stability-icon.png">
+<stats>
+<stat name="BLOCK" value="22200"/>
+<stat name="PARRY" value="22200"/>
+<stat name="EVADE" value="22200"/>
+<stat name="ITEM_WEAR_CHANCE_ON_HIT" value="-500"/>
+</stats>
+</relic>
+<relic name="Unique Setting of Beginnings" type="SETTING" level="55" icon="Unique_Setting_of_Beginnings-icon.png">
+<stats>
+<stat name="PHYSICAL_MITIGATION" value="12500"/>
+<stat name="ICPR" value="8700"/>
+</stats>
+</relic>
+<relic name="Unique Setting of Endings" type="SETTING" level="55" icon="Unique_Setting_of_Endings-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="88900"/>
+<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="750"/>
+</stats>
+</relic>
+<relic name="Unique Gem of Faith" type="GEM" level="55" icon="Unique_Gem_of_Faith-icon.png">
+<stats>
+<stat name="BLOCK" value="44400"/>
+<stat name="PARTIAL_BLOCK_MITIGATION_PERCENTAGE" value="400"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="200"/>
+</stats>
+</relic>
+<relic name="Unique Gem of Charity" type="GEM" level="55" icon="Unique_Gem_of_Charity-icon.png">
+<stats>
+<stat name="TACTICAL_MASTERY" value="55600"/>
+<stat name="TACTICAL_MITIGATION" value="12500"/>
+</stats>
+</relic>
+<relic name="Unique Gem of Hope" type="GEM" level="55" icon="Unique_Gem_of_Hope-icon.png">
+<stats>
+<stat name="MORALE" value="16300"/>
+<stat name="CRITICAL_DEFENCE" value="22200"/>
+</stats>
+</relic>
+<relic name="Unique Rune of Courage" type="RUNE" level="55" icon="Unique_Rune_of_Courage-icon.png">
+<stats>
+<stat name="AGILITY" value="1700"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="200"/>
+<stat name="PARTIAL_EVADE_MITIGATION_PERCENTAGE" value="400"/>
+</stats>
+</relic>
+<relic name="Unique Rune of Power" type="RUNE" level="55" icon="Unique_Rune_of_Power-icon.png">
+<stats>
+<stat name="PHYSICAL_MASTERY" value="44400"/>
+<stat name="TACTICAL_MASTERY" value="44400"/>
+<stat name="PHYSICAL_MITIGATION" value="12500"/>
+</stats>
+</relic>
+<relic name="Unique Rune of Wisdom" type="RUNE" level="55" icon="Unique_Rune_of_Wisdom-icon.png">
+<stats>
+<stat name="EVADE" value="44400"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-250"/>
+</stats>
+</relic>
+</category>
+<category name="Westemnet Relics (Level 90)">
+<relic name="Westemnet Setting of Stability" type="SETTING" level="90" icon="Eastemnet_Setting_of_Stability-icon.png">
+<stats>
+<stat name="INCOMING_HEALING" value="181800"/>
+<stat name="BLOCK" value="36400"/>
+<stat name="PARRY" value="36400"/>
+<stat name="EVADE" value="36400"/>
+<stat name="ITEM_WEAR_CHANCE_ON_HIT" value="-500"/>
+</stats>
+</relic>
+<relic name="Westemnet Setting of Beginnings" type="SETTING" level="90" icon="Eastemnet_Setting_of_Beginnings-icon.png">
+<stats>
+<stat name="VITALITY" value="3500"/>
+<stat name="PHYSICAL_MITIGATION" value="20500"/>
+<stat name="ICPR" value="17100"/>
+</stats>
+</relic>
+<relic name="Westemnet Setting of Endings" type="SETTING" level="90" icon="Eastemnet_Setting_of_Endings-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="145400"/>
+<stat name="ICMR" value="18200"/>
+<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="750"/>
+</stats>
+</relic>
+<relic name="Westemnet Gem of Faith" type="GEM" level="90" icon="Eastemnet_Gem_of_Faith-icon.png">
+<stats>
+<stat name="MIGHT" value="3500"/>
+<stat name="BLOCK" value="72700"/>
+<stat name="PARTIAL_BLOCK_MITIGATION_PERCENTAGE" value="400"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="200"/>
+</stats>
+</relic>
+<relic name="Westemnet Gem of Charity" type="GEM" level="90" icon="Eastemnet_Gem_of_Charity-icon.png">
+<stats>
+<stat name="POWER" value="37600"/>
+<stat name="TACTICAL_MASTERY" value="90900"/>
+<stat name="TACTICAL_MITIGATION" value="20500"/>
+</stats>
+</relic>
+<relic name="Westemnet Gem of Hope" type="GEM" level="90" icon="Eastemnet_Gem_of_Hope-icon.png">
+<stats>
+<stat name="MORALE" value="39600"/>
+<stat name="POWER" value="37600"/>
+<stat name="CRITICAL_DEFENCE" value="36400"/>
+</stats>
+</relic>
+<relic name="Westemnet Rune of Courage" type="RUNE" level="90" icon="Eastemnet_Rune_of_Courage-icon.png">
+<stats>
+<stat name="AGILITY" value="3500"/>
+<stat name="PARRY" value="72700"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="200"/>
+<stat name="PARTIAL_EVADE_MITIGATION_PERCENTAGE" value="400"/>
+</stats>
+</relic>
+<relic name="Westemnet Rune of Power" type="RUNE" level="90" icon="Eastemnet_Rune_of_Power-icon.png">
+<stats>
+<stat name="FATE" value="3500"/>
+<stat name="PHYSICAL_MASTERY" value="72700"/>
+<stat name="TACTICAL_MASTERY" value="72700"/>
+<stat name="PHYSICAL_MITIGATION" value="20500"/>
+</stats>
+</relic>
+<relic name="Westemnet Rune of Wisdom" type="RUNE" level="90" icon="Eastemnet_Rune_of_Wisdom-icon.png">
+<stats>
+<stat name="WILL" value="3500"/>
+<stat name="EVADE" value="72700"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-250"/>
+</stats>
+</relic>
+</category>
+<category name="Westfold Relics (Level 70)">
+<relic name="Westfold Setting of Stability" type="SETTING" level="70" icon="Westfold_Setting_of_Stability-icon.png">
+<stats>
+<stat name="INCOMING_HEALING" value="141400"/>
+<stat name="BLOCK" value="28300"/>
+<stat name="PARRY" value="28300"/>
+<stat name="EVADE" value="28300"/>
+<stat name="ITEM_WEAR_CHANCE_ON_HIT" value="-500"/>
+</stats>
+</relic>
+<relic name="Westfold Setting of Beginnings" type="SETTING" level="70" icon="Westfold_Setting_of_Beginnings-icon.png">
+<stats>
+<stat name="VITALITY" value="2500"/>
+<stat name="PHYSICAL_MITIGATION" value="15900"/>
+<stat name="ICPR" value="12300"/>
+</stats>
+</relic>
+<relic name="Westfold Setting of Endings" type="SETTING" level="70" icon="Westfold_Setting_of_Endings-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="113100"/>
+<stat name="ICMR" value="13000"/>
+<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="750"/>
+</stats>
+</relic>
+<relic name="Westfold Gem of Faith" type="GEM" level="70" icon="Westfold_Gem_of_Faith-icon.png">
+<stats>
+<stat name="MIGHT" value="2500"/>
+<stat name="BLOCK" value="56600"/>
+<stat name="PARTIAL_BLOCK_MITIGATION_PERCENTAGE" value="400"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="200"/>
+</stats>
+</relic>
+<relic name="Westfold Gem of Charity" type="GEM" level="70" icon="Westfold_Gem_of_Charity-icon.png">
+<stats>
+<stat name="POWER" value="24300"/>
+<stat name="TACTICAL_MASTERY" value="70700"/>
+<stat name="TACTICAL_MITIGATION" value="15900"/>
+</stats>
+</relic>
+<relic name="Westfold Gem of Hope" type="GEM" level="70" icon="Westfold_Gem_of_Hope-icon.png">
+<stats>
+<stat name="MORALE" value="26300"/>
+<stat name="POWER" value="24300"/>
+<stat name="CRITICAL_DEFENCE" value="28300"/>
+</stats>
+</relic>
+<relic name="Westfold Rune of Courage" type="RUNE" level="70" icon="Westfold_Rune_of_Courage-icon.png">
+<stats>
+<stat name="AGILITY" value="2500"/>
+<stat name="PARRY" value="56600"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="200"/>
+<stat name="PARTIAL_EVADE_MITIGATION_PERCENTAGE" value="400"/>
+</stats>
+</relic>
+<relic name="Westfold Rune of Power" type="RUNE" level="70" icon="Westfold_Rune_of_Power-icon.png">
+<stats>
+<stat name="FATE" value="2500"/>
+<stat name="PHYSICAL_MASTERY" value="56600"/>
+<stat name="TACTICAL_MASTERY" value="56600"/>
+<stat name="PHYSICAL_MITIGATION" value="15900"/>
+</stats>
+</relic>
+<relic name="Westfold Rune of Wisdom" type="RUNE" level="70" icon="Westfold_Rune_of_Wisdom-icon.png">
+<stats>
+<stat name="WILL" value="2500"/>
+<stat name="EVADE" value="56600"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-250"/>
+</stats>
+</relic>
+</category>
+<category name="Wildermore Relics (Level 85)">
+<relic name="Wildermore Setting of Stability" type="SETTING" level="85" icon="Eastemnet_Setting_of_Stability-icon.png">
+<stats>
+<stat name="INCOMING_HEALING" value="171700"/>
+<stat name="BLOCK" value="34300"/>
+<stat name="PARRY" value="34300"/>
+<stat name="EVADE" value="34300"/>
+<stat name="ITEM_WEAR_CHANCE_ON_HIT" value="-500"/>
+</stats>
+</relic>
+<relic name="Wildermore Setting of Beginnings" type="SETTING" level="85" icon="Eastemnet_Setting_of_Beginnings-icon.png">
+<stats>
+<stat name="VITALITY" value="3200"/>
+<stat name="PHYSICAL_MITIGATION" value="19300"/>
+<stat name="ICPR" value="15900"/>
+</stats>
+</relic>
+<relic name="Wildermore Setting of Endings" type="SETTING" level="85" icon="Eastemnet_Setting_of_Endings-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="137400"/>
+<stat name="ICMR" value="16900"/>
+<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="750"/>
+</stats>
+</relic>
+<relic name="Wildermore Gem of Faith" type="GEM" level="85" icon="Eastemnet_Gem_of_Faith-icon.png">
+<stats>
+<stat name="MIGHT" value="3200"/>
+<stat name="BLOCK" value="68700"/>
+<stat name="PARTIAL_BLOCK_MITIGATION_PERCENTAGE" value="400"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="200"/>
+</stats>
+</relic>
+<relic name="Wildermore Gem of Charity" type="GEM" level="85" icon="Eastemnet_Gem_of_Charity-icon.png">
+<stats>
+<stat name="POWER" value="34300"/>
+<stat name="TACTICAL_MASTERY" value="85900"/>
+<stat name="TACTICAL_MITIGATION" value="19300"/>
+</stats>
+</relic>
+<relic name="Wildermore Gem of Hope" type="GEM" level="85" icon="Eastemnet_Gem_of_Hope-icon.png">
+<stats>
+<stat name="MORALE" value="36300"/>
+<stat name="POWER" value="34300"/>
+<stat name="CRITICAL_DEFENCE" value="34300"/>
+</stats>
+</relic>
+<relic name="Wildermore Rune of Courage" type="RUNE" level="85" icon="Eastemnet_Rune_of_Courage-icon.png">
+<stats>
+<stat name="AGILITY" value="3200"/>
+<stat name="PARRY" value="68700"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="200"/>
+<stat name="PARTIAL_EVADE_MITIGATION_PERCENTAGE" value="400"/>
+</stats>
+</relic>
+<relic name="Wildermore Rune of Power" type="RUNE" level="85" icon="Eastemnet_Rune_of_Power-icon.png">
+<stats>
+<stat name="FATE" value="3200"/>
+<stat name="PHYSICAL_MASTERY" value="68700"/>
+<stat name="TACTICAL_MASTERY" value="68700"/>
+<stat name="PHYSICAL_MITIGATION" value="19300"/>
+</stats>
+</relic>
+<relic name="Wildermore Rune of Wisdom" type="RUNE" level="85" icon="Eastemnet_Rune_of_Wisdom-icon.png">
+<stats>
+<stat name="WILL" value="3200"/>
+<stat name="EVADE" value="68700"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-250"/>
+</stats>
+</relic>
+</category>
+</relics>
