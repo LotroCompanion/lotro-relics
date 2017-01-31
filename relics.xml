@@ -341,7 +341,7 @@
 <stats>
 <stat name="PHYSICAL_MASTERY" value="64600"/>
 <stat name="TACTICAL_MASTERY" value="64600"/>
-<stat name="ICPR" value="14700"/>
+<stat name="FATE" value="3500"/>
 <stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="750"/>
 </stats>
 </relic>
@@ -1381,7 +1381,7 @@
 <relic name="Sapphire Gem of Endurance" type="GEM" icon="Sapphire_Gem_of_Endurance-icon.png">
 <stats>
 <stat name="VITALITY" value="1900"/>
-<stat name="CRITICAL_RATING" value="47700"/>
+<stat name="CRITICAL_RATING" value="95300"/>
 </stats>
 </relic>
 <relic name="Sapphire Gem of Dexterity" type="GEM" icon="Sapphire_Gem_of_Dexterity-icon.png">
