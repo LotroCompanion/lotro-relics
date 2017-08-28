@@ -547,6 +547,68 @@
 </stats>
 </relic>
 </category>
+<category name="Gorgoroth (Last Alliance) (Level 100)">
+<relic name="Last Alliance Setting of Brutality" type="SETTING" icon="Last_Alliance_Setting_of_Brutality-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="257200"/>
+<stat name="PARRY" value="347200"/>
+<stat name="EVADE" value="231500"/>
+</stats>
+</relic>
+<relic name="Last Alliance Setting of Defense" type="SETTING" icon="Last_Alliance_Setting_of_Defense-icon.png">
+<stats>
+<stat name="BLOCK" value="578700"/>
+<stat name="PARRY" value="578700"/>
+</stats>
+</relic>
+<relic name="Last Alliance Setting of Finesse" type="SETTING" icon="Last_Alliance_Setting_of_Finesse-icon.png">
+<stats>
+<stat name="FINESSE" value="779400"/>
+<stat name="EVADE" value="578700"/>
+</stats>
+</relic>
+<relic name="Last Alliance Setting of Resistance" type="SETTING" icon="Last_Alliance_Setting_of_Resistance-icon.png">
+<stats>
+<stat name="RESISTANCE" value="389900"/>
+<stat name="TACTICAL_MITIGATION" value="578800"/>
+</stats>
+</relic>
+<relic name="Last Alliance Gem of Agility" type="GEM" icon="Last_Alliance_Gem_of_Agility-icon.png">
+<stats>
+<stat name="AGILITY" value="29700"/>
+<stat name="CRITICAL_DEFENCE" value="645200"/>
+</stats>
+</relic>
+<relic name="Last Alliance Gem of Might" type="GEM" icon="Last_Alliance_Gem_of_Might-icon.png">
+<stats>
+<stat name="MIGHT" value="29700"/>
+<stat name="CRITICAL_DEFENCE" value="645200"/>
+</stats>
+</relic>
+<relic name="Last Alliance Gem of Will" type="GEM" icon="Last_Alliance_Gem_of_Will-icon.png">
+<stats>
+<stat name="WILL" value="29700"/>
+<stat name="CRITICAL_DEFENCE" value="645200"/>
+</stats>
+</relic>
+<relic name="Last Alliance Rune of Force" type="RUNE" icon="Last_Alliance_Rune_of_Force-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="154200"/>
+<stat name="PHYSICAL_MASTERY" value="426400"/>
+</stats>
+</relic>
+<relic name="Last Alliance Rune of Healing" type="RUNE" icon="Last_Alliance_Rune_of_Healing-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="154300"/>
+</stats>
+</relic>
+<relic name="Last Alliance Rune of Power" type="RUNE" icon="Eastemnet_Rune_of_Power-icon.png">
+<stats>
+<stat name="CRITICAL_RATING" value="154300"/>
+<stat name="TACTICAL_MASTERY" value="426400"/>
+</stats>
+</relic>
+</category>
 <category name="Great River Relics (Level 75)">
 <relic name="Great River Setting of Stability" type="SETTING" level="75" icon="Great_River_Setting_of_Stability-icon.png">
 <stats>
@@ -995,14 +1057,14 @@
 <stat name="VITALITY" value="1500"/>
 </stats>
 </relic>
-<relic name="Ithildin Setting of the Biting Fly" type="SETTING" icon="Ithildn_Setting_of_the_Biting_Fly-icon.png">
+<relic name="Ithildín Setting of the Biting Fly" type="SETTING" icon="Ithildn_Setting_of_the_Biting_Fly-icon.png">
 <stats>
 <stat name="CRITICAL_RATING" value="23000"/>
 <stat name="PARTIAL_EVADE_MITIGATION_PERCENTAGE" value="750"/>
 <stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="500"/>
 </stats>
 </relic>
-<relic name="Ithildin Setting of Reflex" type="SETTING" icon="Ithildn_Setting_of_Reflex-icon.png">
+<relic name="Ithildín Setting of Reflex" type="SETTING" icon="Ithildn_Setting_of_Reflex-icon.png">
 <stats>
 <stat name="CRITICAL_RATING" value="23000"/>
 <stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="750"/>
