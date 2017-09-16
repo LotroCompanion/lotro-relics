@@ -611,7 +611,7 @@
 </relic>
 <relic name="Last Alliance Rune of Healing" type="RUNE" icon="Last_Alliance_Rune_of_Healing-icon.png">
 <stats>
-<!--<stat name="OUTGOING_HEALING" value="468900"/> -->
+<stat name="OUTGOING_HEALING" value="468900"/>
 <stat name="CRITICAL_RATING" value="154300"/>
 </stats>
 </relic>
