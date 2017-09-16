@@ -591,14 +591,27 @@
 <stat name="CRITICAL_DEFENCE" value="645200"/>
 </stats>
 </relic>
+<relic name="Last Alliance Gem of Fate" type="GEM" icon="Last_Alliance_Gem_of_Fate-icon.png">
+<stats>
+<stat name="FATE" value="29700"/>
+<stat name="CRITICAL_DEFENCE" value="645200"/>
+</stats>
+</relic>
+<relic name="Last Alliance Gem of Vitality" type="GEM" icon="Last_Alliance_Gem_of_Vitality-icon.png">
+<stats>
+<stat name="VITALITY" value="49500"/>
+<stat name="CRITICAL_DEFENCE" value="645200"/>
+</stats>
+</relic>
 <relic name="Last Alliance Rune of Force" type="RUNE" icon="Last_Alliance_Rune_of_Force-icon.png">
 <stats>
-<stat name="CRITICAL_RATING" value="154200"/>
+<stat name="CRITICAL_RATING" value="154300"/>
 <stat name="PHYSICAL_MASTERY" value="426400"/>
 </stats>
 </relic>
 <relic name="Last Alliance Rune of Healing" type="RUNE" icon="Last_Alliance_Rune_of_Healing-icon.png">
 <stats>
+<!--<stat name="OUTGOING_HEALING" value="468900"/> -->
 <stat name="CRITICAL_RATING" value="154300"/>
 </stats>
 </relic>
