@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<relics>
+<?xml version="1.0" encoding="UTF-8"?><relics>
 <category name="Crafted">
 <relic name="Minor Symbol of Morale" type="CRAFTED_RELIC" icon="Minor_Symbol_of_Morale-icon.png">
 <stats>
@@ -339,9 +338,9 @@
 </relic>
 <relic name="True Setting of the Three Hunters" type="SETTING" level="80" icon="True_Setting_of_the_Three_Hunters-icon.png">
 <stats>
+<stat name="FATE" value="3500"/>
 <stat name="PHYSICAL_MASTERY" value="64600"/>
 <stat name="TACTICAL_MASTERY" value="64600"/>
-<stat name="FATE" value="3500"/>
 <stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="750"/>
 </stats>
 </relic>
@@ -579,27 +578,27 @@
 <stat name="CRITICAL_DEFENCE" value="645200"/>
 </stats>
 </relic>
-<relic name="Last Alliance Gem of Might" type="GEM" icon="Last_Alliance_Gem_of_Might-icon.png">
-<stats>
-<stat name="MIGHT" value="29700"/>
-<stat name="CRITICAL_DEFENCE" value="645200"/>
-</stats>
-</relic>
-<relic name="Last Alliance Gem of Will" type="GEM" icon="Last_Alliance_Gem_of_Will-icon.png">
-<stats>
-<stat name="WILL" value="29700"/>
-<stat name="CRITICAL_DEFENCE" value="645200"/>
-</stats>
-</relic>
 <relic name="Last Alliance Gem of Fate" type="GEM" icon="Last_Alliance_Gem_of_Fate-icon.png">
 <stats>
 <stat name="FATE" value="29700"/>
 <stat name="CRITICAL_DEFENCE" value="645200"/>
 </stats>
 </relic>
+<relic name="Last Alliance Gem of Might" type="GEM" icon="Last_Alliance_Gem_of_Might-icon.png">
+<stats>
+<stat name="MIGHT" value="29700"/>
+<stat name="CRITICAL_DEFENCE" value="645200"/>
+</stats>
+</relic>
 <relic name="Last Alliance Gem of Vitality" type="GEM" icon="Last_Alliance_Gem_of_Vitality-icon.png">
 <stats>
 <stat name="VITALITY" value="49500"/>
+<stat name="CRITICAL_DEFENCE" value="645200"/>
+</stats>
+</relic>
+<relic name="Last Alliance Gem of Will" type="GEM" icon="Last_Alliance_Gem_of_Will-icon.png">
+<stats>
+<stat name="WILL" value="29700"/>
 <stat name="CRITICAL_DEFENCE" value="645200"/>
 </stats>
 </relic>
@@ -611,8 +610,8 @@
 </relic>
 <relic name="Last Alliance Rune of Healing" type="RUNE" icon="Last_Alliance_Rune_of_Healing-icon.png">
 <stats>
-<stat name="OUTGOING_HEALING" value="468900"/>
 <stat name="CRITICAL_RATING" value="154300"/>
+<stat name="OUTGOING_HEALING" value="718200"/>
 </stats>
 </relic>
 <relic name="Last Alliance Rune of Power" type="RUNE" icon="Eastemnet_Rune_of_Power-icon.png">
