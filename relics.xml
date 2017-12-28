@@ -546,78 +546,415 @@
 </stats>
 </relic>
 </category>
-<category name="Gorgoroth (Last Alliance) (Level 100)">
-<relic name="Last Alliance Setting of Brutality" type="SETTING" icon="Last_Alliance_Setting_of_Brutality-icon.png">
+<category name="Gorgoroth Relics">
+<relic name="Abyssal Setting of Brutality" type="SETTING" level="337">
+<stats>
+<stat name="CRITICAL_RATING" value="294400"/>
+<stat name="PARRY" value="397500"/>
+<stat name="EVADE" value="265000"/>
+</stats>
+</relic>
+<relic name="Abyssal Setting of Defence" type="SETTING" level="337">
+<stats>
+<stat name="BLOCK" value="662400"/>
+<stat name="PARRY" value="662400"/>
+</stats>
+</relic>
+<relic name="Abyssal Setting of Finesse" type="SETTING" level="337">
+<stats>
+<stat name="FINESSE" value="892200"/>
+<stat name="EVADE" value="662400"/>
+</stats>
+</relic>
+<relic name="Abyssal Setting of Resistance" type="SETTING" level="337">
+<stats>
+<stat name="RESISTANCE" value="446300"/>
+<stat name="TACTICAL_MITIGATION" value="662500"/>
+</stats>
+</relic>
+<relic name="Expedition Setting of Brutality" type="SETTING" level="300">
+<stats>
+<stat name="CRITICAL_RATING" value="169200"/>
+<stat name="PARRY" value="228400"/>
+<stat name="EVADE" value="152300"/>
+</stats>
+</relic>
+<relic name="Expedition Setting of Defence" type="SETTING" level="300">
+<stats>
+<stat name="BLOCK" value="380700"/>
+<stat name="PARRY" value="380700"/>
+</stats>
+</relic>
+<relic name="Expedition Setting of Finesse" type="SETTING" level="300">
+<stats>
+<stat name="FINESSE" value="512800"/>
+<stat name="EVADE" value="380700"/>
+</stats>
+</relic>
+<relic name="Expedition Setting of Resistance" type="SETTING" level="300">
+<stats>
+<stat name="RESISTANCE" value="256500"/>
+<stat name="TACTICAL_MITIGATION" value="380800"/>
+</stats>
+</relic>
+<relic name="Grand Abyssal Setting of Brutality" type="SETTING" level="345">
+<stats>
+<stat name="CRITICAL_RATING" value="321500"/>
+<stat name="PARRY" value="434000"/>
+<stat name="EVADE" value="289300"/>
+</stats>
+</relic>
+<relic name="Grand Abyssal Setting of Defence" type="SETTING" level="345">
+<stats>
+<stat name="BLOCK" value="723300"/>
+<stat name="PARRY" value="723300"/>
+</stats>
+</relic>
+<relic name="Grand Abyssal Setting of Finesse" type="SETTING" level="345">
+<stats>
+<stat name="FINESSE" value="974300"/>
+<stat name="EVADE" value="723300"/>
+</stats>
+</relic>
+<relic name="Grand Abyssal Setting of Resistance" type="SETTING" level="345">
+<stats>
+<stat name="RESISTANCE" value="487400"/>
+<stat name="TACTICAL_MITIGATION" value="723500"/>
+</stats>
+</relic>
+<relic name="Last Alliance Setting of Brutality" type="SETTING" level="326" icon="Last_Alliance_Setting_of_Brutality-icon.png">
 <stats>
 <stat name="CRITICAL_RATING" value="257200"/>
 <stat name="PARRY" value="347200"/>
 <stat name="EVADE" value="231500"/>
 </stats>
 </relic>
-<relic name="Last Alliance Setting of Defense" type="SETTING" icon="Last_Alliance_Setting_of_Defense-icon.png">
+<relic name="Last Alliance Setting of Defence" type="SETTING" level="326" icon="Last_Alliance_Setting_of_Defense-icon.png">
 <stats>
 <stat name="BLOCK" value="578700"/>
 <stat name="PARRY" value="578700"/>
 </stats>
 </relic>
-<relic name="Last Alliance Setting of Finesse" type="SETTING" icon="Last_Alliance_Setting_of_Finesse-icon.png">
+<relic name="Last Alliance Setting of Finesse" type="SETTING" level="326" icon="Last_Alliance_Setting_of_Finesse-icon.png">
 <stats>
 <stat name="FINESSE" value="779400"/>
 <stat name="EVADE" value="578700"/>
 </stats>
 </relic>
-<relic name="Last Alliance Setting of Resistance" type="SETTING" icon="Last_Alliance_Setting_of_Resistance-icon.png">
+<relic name="Last Alliance Setting of Resistance" type="SETTING" level="326" icon="Last_Alliance_Setting_of_Resistance-icon.png">
 <stats>
 <stat name="RESISTANCE" value="389900"/>
 <stat name="TACTICAL_MITIGATION" value="578800"/>
 </stats>
 </relic>
-<relic name="Last Alliance Gem of Agility" type="GEM" icon="Last_Alliance_Gem_of_Agility-icon.png">
+<relic name="Vanguard Setting of Brutality" type="SETTING" level="330">
+<stats>
+<stat name="CRITICAL_RATING" value="270700"/>
+<stat name="PARRY" value="365500"/>
+<stat name="EVADE" value="243600"/>
+</stats>
+</relic>
+<relic name="Vanguard Setting of Defence" type="SETTING" level="330">
+<stats>
+<stat name="BLOCK" value="609100"/>
+<stat name="PARRY" value="609100"/>
+</stats>
+</relic>
+<relic name="Vanguard Setting of Finesse" type="SETTING" level="330">
+<stats>
+<stat name="FINESSE" value="820400"/>
+<stat name="EVADE" value="609100"/>
+</stats>
+</relic>
+<relic name="Vanguard Setting of Resistance" type="SETTING" level="330">
+<stats>
+<stat name="RESISTANCE" value="410400"/>
+<stat name="TACTICAL_MITIGATION" value="609200"/>
+</stats>
+</relic>
+<relic name="Abyssal Gem of Agility" type="GEM" level="337">
+<stats>
+<stat name="AGILITY" value="34000"/>
+<stat name="CRITICAL_DEFENCE" value="738600"/>
+</stats>
+</relic>
+<relic name="Abyssal Gem of Fate" type="GEM" level="337">
+<stats>
+<stat name="FATE" value="34000"/>
+<stat name="CRITICAL_DEFENCE" value="738600"/>
+</stats>
+</relic>
+<relic name="Abyssal Gem of Might" type="GEM" level="337">
+<stats>
+<stat name="MIGHT" value="34000"/>
+<stat name="CRITICAL_DEFENCE" value="738600"/>
+</stats>
+</relic>
+<relic name="Abyssal Gem of Vitality" type="GEM" level="337">
+<stats>
+<stat name="VITALITY" value="56700"/>
+<stat name="CRITICAL_DEFENCE" value="738600"/>
+</stats>
+</relic>
+<relic name="Abyssal Gem of Will" type="GEM" level="337">
+<stats>
+<stat name="WILL" value="34000"/>
+<stat name="CRITICAL_DEFENCE" value="738600"/>
+</stats>
+</relic>
+<relic name="Expedition Gem of Agility" type="GEM" level="300">
+<stats>
+<stat name="AGILITY" value="19500"/>
+<stat name="CRITICAL_DEFENCE" value="424500"/>
+</stats>
+</relic>
+<relic name="Expedition Gem of Fate" type="GEM" level="300">
+<stats>
+<stat name="FATE" value="19500"/>
+<stat name="CRITICAL_DEFENCE" value="424500"/>
+</stats>
+</relic>
+<relic name="Expedition Gem of Might" type="GEM" level="300">
+<stats>
+<stat name="MIGHT" value="19500"/>
+<stat name="CRITICAL_DEFENCE" value="424500"/>
+</stats>
+</relic>
+<relic name="Expedition Gem of Vitality" type="GEM" level="300">
+<stats>
+<stat name="VITALITY" value="32600"/>
+<stat name="CRITICAL_DEFENCE" value="424500"/>
+</stats>
+</relic>
+<relic name="Expedition Gem of Will" type="GEM" level="300">
+<stats>
+<stat name="WILL" value="19500"/>
+<stat name="CRITICAL_DEFENCE" value="424500"/>
+</stats>
+</relic>
+<relic name="Grand Abyssal Gem of Agility" type="GEM" level="345">
+<stats>
+<stat name="AGILITY" value="37100"/>
+<stat name="CRITICAL_DEFENCE" value="806600"/>
+</stats>
+</relic>
+<relic name="Grand Abyssal Gem of Fate" type="GEM" level="345">
+<stats>
+<stat name="FATE" value="37100"/>
+<stat name="CRITICAL_DEFENCE" value="806600"/>
+</stats>
+</relic>
+<relic name="Grand Abyssal Gem of Might" type="GEM" level="345">
+<stats>
+<stat name="MIGHT" value="37100"/>
+<stat name="CRITICAL_DEFENCE" value="806600"/>
+</stats>
+</relic>
+<relic name="Grand Abyssal Gem of Vitality" type="GEM" level="345">
+<stats>
+<stat name="VITALITY" value="61900"/>
+<stat name="CRITICAL_DEFENCE" value="806600"/>
+</stats>
+</relic>
+<relic name="Grand Abyssal Gem of Will" type="GEM" level="345">
+<stats>
+<stat name="WILL" value="37100"/>
+<stat name="CRITICAL_DEFENCE" value="806600"/>
+</stats>
+</relic>
+<relic name="Last Alliance Gem of Agility" type="GEM" level="326" icon="Last_Alliance_Gem_of_Agility-icon.png">
 <stats>
 <stat name="AGILITY" value="29700"/>
 <stat name="CRITICAL_DEFENCE" value="645200"/>
 </stats>
 </relic>
-<relic name="Last Alliance Gem of Fate" type="GEM" icon="Last_Alliance_Gem_of_Fate-icon.png">
+<relic name="Last Alliance Gem of Fate" type="GEM" level="326" icon="Last_Alliance_Gem_of_Fate-icon.png">
 <stats>
 <stat name="FATE" value="29700"/>
 <stat name="CRITICAL_DEFENCE" value="645200"/>
 </stats>
 </relic>
-<relic name="Last Alliance Gem of Might" type="GEM" icon="Last_Alliance_Gem_of_Might-icon.png">
+<relic name="Last Alliance Gem of Might" type="GEM" level="326" icon="Last_Alliance_Gem_of_Might-icon.png">
 <stats>
 <stat name="MIGHT" value="29700"/>
 <stat name="CRITICAL_DEFENCE" value="645200"/>
 </stats>
 </relic>
-<relic name="Last Alliance Gem of Vitality" type="GEM" icon="Last_Alliance_Gem_of_Vitality-icon.png">
+<relic name="Last Alliance Gem of Vitality" type="GEM" level="326" icon="Last_Alliance_Gem_of_Vitality-icon.png">
 <stats>
 <stat name="VITALITY" value="49500"/>
 <stat name="CRITICAL_DEFENCE" value="645200"/>
 </stats>
 </relic>
-<relic name="Last Alliance Gem of Will" type="GEM" icon="Last_Alliance_Gem_of_Will-icon.png">
+<relic name="Last Alliance Gem of Will" type="GEM" level="326" icon="Last_Alliance_Gem_of_Will-icon.png">
 <stats>
 <stat name="WILL" value="29700"/>
 <stat name="CRITICAL_DEFENCE" value="645200"/>
 </stats>
 </relic>
-<relic name="Last Alliance Rune of Force" type="RUNE" icon="Last_Alliance_Rune_of_Force-icon.png">
+<relic name="Vanguard Gem of Agility" type="GEM" level="330">
+<stats>
+<stat name="AGILITY" value="31300"/>
+<stat name="CRITICAL_DEFENCE" value="679200"/>
+</stats>
+</relic>
+<relic name="Vanguard Gem of Fate" type="GEM" level="330">
+<stats>
+<stat name="FATE" value="31300"/>
+<stat name="CRITICAL_DEFENCE" value="679200"/>
+</stats>
+</relic>
+<relic name="Vanguard Gem of Might" type="GEM" level="330">
+<stats>
+<stat name="MIGHT" value="31300"/>
+<stat name="CRITICAL_DEFENCE" value="679200"/>
+</stats>
+</relic>
+<relic name="Vanguard Gem of Vitality" type="GEM" level="330">
+<stats>
+<stat name="VITALITY" value="52200"/>
+<stat name="CRITICAL_DEFENCE" value="679200"/>
+</stats>
+</relic>
+<relic name="Vanguard Gem of Will" type="GEM" level="330">
+<stats>
+<stat name="WILL" value="31300"/>
+<stat name="CRITICAL_DEFENCE" value="679200"/>
+</stats>
+</relic>
+<relic name="Abyssal Rune of Force" type="RUNE" level="337">
+<stats>
+<stat name="CRITICAL_RATING" value="176600"/>
+<stat name="PHYSICAL_MASTERY" value="463600"/>
+</stats>
+</relic>
+<relic name="Abyssal Rune of Healing" type="RUNE" level="337">
+<stats>
+<stat name="CRITICAL_RATING" value="176600"/>
+<stat name="OUTGOING_HEALING" value="294400"/>
+</stats>
+</relic>
+<relic name="Abyssal Rune of Power" type="RUNE" level="337">
+<stats>
+<stat name="CRITICAL_RATING" value="176600"/>
+<stat name="TACTICAL_MASTERY" value="463600"/>
+</stats>
+</relic>
+<relic name="Expedition Rune of Force" type="RUNE" level="300">
+<stats>
+<stat name="CRITICAL_RATING" value="101500"/>
+<stat name="PHYSICAL_MASTERY" value="338400"/>
+</stats>
+</relic>
+<relic name="Expedition Rune of Healing" type="RUNE" level="300">
+<stats>
+<stat name="CRITICAL_RATING" value="101500"/>
+<stat name="OUTGOING_HEALING" value="570000"/>
+</stats>
+</relic>
+<relic name="Expedition Rune of Power" type="RUNE" level="300">
+<stats>
+<stat name="CRITICAL_RATING" value="101500"/>
+<stat name="TACTICAL_MASTERY" value="338400"/>
+</stats>
+</relic>
+<relic name="Grand Abyssal Rune of Binding" type="RUNE" level="345">
+<stats>
+<stat name="CRITICAL_RATING" value="257200"/>
+</stats>
+</relic>
+<relic name="Grand Abyssal Rune of Enchantment" type="RUNE" level="345">
+<stats>
+<stat name="CRITICAL_RATING" value="257200"/>
+</stats>
+</relic>
+<relic name="Grand Abyssal Rune of Striking" type="RUNE" level="345">
+<stats>
+<stat name="CRITICAL_RATING" value="257200"/>
+</stats>
+</relic>
+<relic name="Incomparable Vanguard Rune of Binding" type="RUNE" level="330">
+<stats>
+<stat name="CRITICAL_RATING" value="162400"/>
+</stats>
+</relic>
+<relic name="Incomparable Vanguard Rune of Enchantment" type="RUNE" level="330">
+<stats>
+<stat name="CRITICAL_RATING" value="162400"/>
+</stats>
+</relic>
+<relic name="Incomparable Vanguard Rune of Striking" type="RUNE" level="330">
+<stats>
+<stat name="CRITICAL_RATING" value="162400"/>
+</stats>
+</relic>
+<relic name="Last Alliance Rune of Force" type="RUNE" level="326" icon="Last_Alliance_Rune_of_Force-icon.png">
 <stats>
 <stat name="CRITICAL_RATING" value="154300"/>
 <stat name="PHYSICAL_MASTERY" value="426400"/>
 </stats>
 </relic>
-<relic name="Last Alliance Rune of Healing" type="RUNE" icon="Last_Alliance_Rune_of_Healing-icon.png">
+<relic name="Last Alliance Rune of Healing" type="RUNE" level="326" icon="Last_Alliance_Rune_of_Healing-icon.png">
 <stats>
 <stat name="CRITICAL_RATING" value="154300"/>
 <stat name="OUTGOING_HEALING" value="718200"/>
 </stats>
 </relic>
-<relic name="Last Alliance Rune of Power" type="RUNE" icon="Eastemnet_Rune_of_Power-icon.png">
+<relic name="Last Alliance Rune of Power" type="RUNE" level="326" icon="Eastemnet_Rune_of_Power-icon.png">
 <stats>
 <stat name="CRITICAL_RATING" value="154300"/>
 <stat name="TACTICAL_MASTERY" value="426400"/>
+</stats>
+</relic>
+<relic name="Rare Vanguard Rune of Binding" type="RUNE" level="330">
+<stats>
+<stat name="CRITICAL_RATING" value="162400"/>
+</stats>
+</relic>
+<relic name="Rare Vanguard Rune of Enchantment" type="RUNE" level="330">
+<stats>
+<stat name="CRITICAL_RATING" value="162400"/>
+</stats>
+</relic>
+<relic name="Rare Vanguard Rune of Striking" type="RUNE" level="330">
+<stats>
+<stat name="CRITICAL_RATING" value="162400"/>
+</stats>
+</relic>
+<relic name="TBD T3 Rune of Force" type="RUNE" level="345">
+<stats>
+<stat name="CRITICAL_RATING" value="192900"/>
+<stat name="PHYSICAL_MASTERY" value="490700"/>
+</stats>
+</relic>
+<relic name="TBD T3 Rune of Healing" type="RUNE" level="345">
+<stats>
+<stat name="CRITICAL_RATING" value="192900"/>
+<stat name="OUTGOING_HEALING" value="826500"/>
+</stats>
+</relic>
+<relic name="TBD T3 Rune of Power" type="RUNE" level="345">
+<stats>
+<stat name="CRITICAL_RATING" value="192900"/>
+<stat name="TACTICAL_MASTERY" value="490700"/>
+</stats>
+</relic>
+<relic name="Vanguard Rune of Force" type="RUNE" level="330">
+<stats>
+<stat name="CRITICAL_RATING" value="162400"/>
+<stat name="PHYSICAL_MASTERY" value="439900"/>
+</stats>
+</relic>
+<relic name="Vanguard Rune of Healing" type="RUNE" level="330">
+<stats>
+<stat name="CRITICAL_RATING" value="162400"/>
+<stat name="OUTGOING_HEALING" value="741000"/>
+</stats>
+</relic>
+<relic name="Vanguard Rune of Power" type="RUNE" level="330">
+<stats>
+<stat name="CRITICAL_RATING" value="162400"/>
+<stat name="TACTICAL_MASTERY" value="439900"/>
 </stats>
 </relic>
 </category>
