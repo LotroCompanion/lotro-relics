@@ -477,14 +477,14 @@
 <stats>
 <stat name="PHYSICAL_MASTERY" value="64600"/>
 <stat name="TACTICAL_MASTERY" value="64600"/>
-<stat name="ATTACK_DURATION_PERCENTAGE" value="1500"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
 </relic>
 <relic id="1879253790" name="Bridle Eastemnet Setting of Aggression" type="SETTING" level="80" icon="1091751503-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="64600"/>
 <stat name="TACTICAL_MASTERY" value="64600"/>
-<stat name="ATTACK_DURATION_PERCENTAGE" value="1500"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
 </relic>
 <relic id="1879244608" name="Bridle Eastemnet Setting of Clout" type="SETTING" level="80" icon="1091751517-1091751291.png">
@@ -571,7 +571,7 @@
 </relic>
 <relic id="1879244624" name="Bridle Eastemnet Rune of Tenacity" type="RUNE" level="80" icon="1091751568-1091751290.png">
 <stats>
-<stat name="RESISTANCE" value="63359"/>
+<stat name="RESISTANCE" value="63400"/>
 <stat name="BLOCK" value="32300"/>
 <stat name="PARRY" value="32300"/>
 <stat name="EVADE" value="32300"/>
@@ -581,7 +581,7 @@
 </relic>
 <relic id="1879253795" name="Bridle Eastemnet Rune of Tenacity" type="RUNE" level="80" icon="1091751568-1091751290.png">
 <stats>
-<stat name="RESISTANCE" value="63359"/>
+<stat name="RESISTANCE" value="63400"/>
 <stat name="BLOCK" value="32300"/>
 <stat name="PARRY" value="32300"/>
 <stat name="EVADE" value="32300"/>
@@ -670,16 +670,16 @@
 <stats>
 <stat name="PHYSICAL_MASTERY" value="52500"/>
 <stat name="TACTICAL_MASTERY" value="52500"/>
-<stat name="ICMR" value="12599"/>
-<stat name="ICPR" value="12599"/>
+<stat name="ICMR" value="12600"/>
+<stat name="ICPR" value="12600"/>
 </stats>
 </relic>
 <relic id="1879231965" name="True Gem of the Encircling Seas" type="GEM" level="65" icon="1091644906-1091636664.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="52500"/>
 <stat name="TACTICAL_MASTERY" value="52500"/>
-<stat name="ICMR" value="12599"/>
-<stat name="ICPR" value="12599"/>
+<stat name="ICMR" value="12600"/>
+<stat name="ICPR" value="12600"/>
 </stats>
 </relic>
 <relic id="1879208531" name="True Gem of the Mountain King" type="GEM" level="65" icon="1091644908-1091636664.png">
@@ -688,7 +688,7 @@
 <stat name="BLOCK" value="26300"/>
 <stat name="PARRY" value="26300"/>
 <stat name="EVADE" value="26300"/>
-<stat name="ICMR" value="12599"/>
+<stat name="ICMR" value="12600"/>
 </stats>
 </relic>
 <relic id="1879233109" name="True Gem of the Mountain King" type="GEM" level="65" icon="1091644908-1091636664.png">
@@ -697,7 +697,7 @@
 <stat name="BLOCK" value="26300"/>
 <stat name="PARRY" value="26300"/>
 <stat name="EVADE" value="26300"/>
-<stat name="ICMR" value="12599"/>
+<stat name="ICMR" value="12600"/>
 </stats>
 </relic>
 <relic id="1879205812" name="Extraordinary Rune of Courage" type="RUNE" level="65" icon="1091636028-1091636662.png">
@@ -761,27 +761,27 @@
 <category name="Gorgoroth">
 <relic id="1879351022" name="Abyssal Setting of Brutality" type="SETTING" icon="1091785114-1091636663.png">
 <stats>
-<stat name="CRITICAL_RATING" value="414036"/>
-<stat name="PARRY" value="292261"/>
-<stat name="EVADE" value="194840"/>
+<stat name="CRITICAL_RATING" value="414000"/>
+<stat name="PARRY" value="292300"/>
+<stat name="EVADE" value="194800"/>
 </stats>
 </relic>
 <relic id="1879351010" name="Abyssal Setting of Defence" type="SETTING" icon="1091785119-1091636663.png">
 <stats>
-<stat name="BLOCK" value="487102"/>
-<stat name="PARRY" value="487102"/>
+<stat name="BLOCK" value="487100"/>
+<stat name="PARRY" value="487100"/>
 </stats>
 </relic>
 <relic id="1879351040" name="Abyssal Setting of Finesse" type="SETTING" icon="1091785122-1091636663.png">
 <stats>
-<stat name="FINESSE" value="414036"/>
-<stat name="EVADE" value="487102"/>
+<stat name="FINESSE" value="414000"/>
+<stat name="EVADE" value="487100"/>
 </stats>
 </relic>
 <relic id="1879351011" name="Abyssal Setting of Resistance" type="SETTING" icon="1091785115-1091636663.png">
 <stats>
-<stat name="RESISTANCE" value="487102"/>
-<stat name="TACTICAL_MITIGATION" value="408054"/>
+<stat name="RESISTANCE" value="487100"/>
+<stat name="TACTICAL_MITIGATION" value="408100"/>
 </stats>
 </relic>
 <relic id="1879351033" name="Expedition Setting of Brutality" type="SETTING" icon="1091785114-1091636663.png">
@@ -806,112 +806,112 @@
 <relic id="1879351027" name="Expedition Setting of Resistance" type="SETTING" icon="1091785115-1091636663.png">
 <stats>
 <stat name="RESISTANCE" value="324000"/>
-<stat name="TACTICAL_MITIGATION" value="271421"/>
+<stat name="TACTICAL_MITIGATION" value="271400"/>
 </stats>
 </relic>
 <relic id="1879351032" name="Grand Abyssal Setting of Brutality" type="SETTING" icon="1091785114-1091636663.png">
 <stats>
-<stat name="CRITICAL_RATING" value="444012"/>
-<stat name="PARRY" value="313420"/>
-<stat name="EVADE" value="208946"/>
+<stat name="CRITICAL_RATING" value="444000"/>
+<stat name="PARRY" value="313400"/>
+<stat name="EVADE" value="208900"/>
 </stats>
 </relic>
 <relic id="1879351020" name="Grand Abyssal Setting of Defence" type="SETTING" icon="1091785119-1091636663.png">
 <stats>
-<stat name="BLOCK" value="522367"/>
-<stat name="PARRY" value="522367"/>
+<stat name="BLOCK" value="522400"/>
+<stat name="PARRY" value="522400"/>
 </stats>
 </relic>
 <relic id="1879351051" name="Grand Abyssal Setting of Finesse" type="SETTING" icon="1091785122-1091636663.png">
 <stats>
-<stat name="FINESSE" value="444012"/>
-<stat name="EVADE" value="522367"/>
+<stat name="FINESSE" value="444000"/>
+<stat name="EVADE" value="522400"/>
 </stats>
 </relic>
 <relic id="1879351021" name="Grand Abyssal Setting of Resistance" type="SETTING" icon="1091785115-1091636663.png">
 <stats>
-<stat name="RESISTANCE" value="522367"/>
-<stat name="TACTICAL_MITIGATION" value="437597"/>
+<stat name="RESISTANCE" value="522400"/>
+<stat name="TACTICAL_MITIGATION" value="437600"/>
 </stats>
 </relic>
 <relic id="1879350999" name="Last Alliance Setting of Brutality" type="SETTING" icon="1091785114-1091636663.png">
 <stats>
-<stat name="CRITICAL_RATING" value="372820"/>
-<stat name="PARRY" value="263167"/>
-<stat name="EVADE" value="175444"/>
+<stat name="CRITICAL_RATING" value="372800"/>
+<stat name="PARRY" value="263200"/>
+<stat name="EVADE" value="175400"/>
 </stats>
 </relic>
 <relic id="1879350991" name="Last Alliance Setting of Defence" type="SETTING" icon="1091785119-1091636663.png">
 <stats>
-<stat name="BLOCK" value="438612"/>
-<stat name="PARRY" value="438612"/>
+<stat name="BLOCK" value="438600"/>
+<stat name="PARRY" value="438600"/>
 </stats>
 </relic>
 <relic id="1879350997" name="Last Alliance Setting of Finesse" type="SETTING" icon="1091785122-1091636663.png">
 <stats>
-<stat name="FINESSE" value="372820"/>
-<stat name="EVADE" value="438612"/>
+<stat name="FINESSE" value="372800"/>
+<stat name="EVADE" value="438600"/>
 </stats>
 </relic>
 <relic id="1879350993" name="Last Alliance Setting of Resistance" type="SETTING" icon="1091785115-1091636663.png">
 <stats>
-<stat name="RESISTANCE" value="438612"/>
-<stat name="TACTICAL_MITIGATION" value="367433"/>
+<stat name="RESISTANCE" value="438600"/>
+<stat name="TACTICAL_MITIGATION" value="367400"/>
 </stats>
 </relic>
 <relic id="1879351019" name="Vanguard Setting of Brutality" type="SETTING" icon="1091785114-1091636663.png">
 <stats>
-<stat name="CRITICAL_RATING" value="387808"/>
-<stat name="PARRY" value="273746"/>
-<stat name="EVADE" value="182497"/>
+<stat name="CRITICAL_RATING" value="387800"/>
+<stat name="PARRY" value="273700"/>
+<stat name="EVADE" value="182500"/>
 </stats>
 </relic>
 <relic id="1879351008" name="Vanguard Setting of Defence" type="SETTING" icon="1091785119-1091636663.png">
 <stats>
-<stat name="BLOCK" value="456244"/>
-<stat name="PARRY" value="456244"/>
+<stat name="BLOCK" value="456200"/>
+<stat name="PARRY" value="456200"/>
 </stats>
 </relic>
 <relic id="1879351037" name="Vanguard Setting of Finesse" type="SETTING" icon="1091785122-1091636663.png">
 <stats>
-<stat name="FINESSE" value="387808"/>
-<stat name="EVADE" value="456244"/>
+<stat name="FINESSE" value="387800"/>
+<stat name="EVADE" value="456200"/>
 </stats>
 </relic>
 <relic id="1879351009" name="Vanguard Setting of Resistance" type="SETTING" icon="1091785115-1091636663.png">
 <stats>
-<stat name="RESISTANCE" value="456244"/>
-<stat name="TACTICAL_MITIGATION" value="382205"/>
+<stat name="RESISTANCE" value="456200"/>
+<stat name="TACTICAL_MITIGATION" value="382200"/>
 </stats>
 </relic>
 <relic id="1879351084" name="Abyssal Gem of Agility" type="GEM" icon="1091759285-1091636664.png">
 <stats>
-<stat name="AGILITY" value="40591"/>
-<stat name="CRITICAL_DEFENCE" value="487102"/>
+<stat name="AGILITY" value="40500"/>
+<stat name="CRITICAL_DEFENCE" value="487100"/>
 </stats>
 </relic>
 <relic id="1879351017" name="Abyssal Gem of Fate" type="GEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="FATE" value="40591"/>
-<stat name="CRITICAL_DEFENCE" value="487102"/>
+<stat name="FATE" value="40500"/>
+<stat name="CRITICAL_DEFENCE" value="487100"/>
 </stats>
 </relic>
 <relic id="1879351012" name="Abyssal Gem of Might" type="GEM" icon="1091759288-1091636664.png">
 <stats>
-<stat name="MIGHT" value="40591"/>
-<stat name="CRITICAL_DEFENCE" value="487102"/>
+<stat name="MIGHT" value="40500"/>
+<stat name="CRITICAL_DEFENCE" value="487100"/>
 </stats>
 </relic>
 <relic id="1879351053" name="Abyssal Gem of Vitality" type="GEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="VITALITY" value="50739"/>
-<stat name="CRITICAL_DEFENCE" value="487102"/>
+<stat name="VITALITY" value="50700"/>
+<stat name="CRITICAL_DEFENCE" value="487100"/>
 </stats>
 </relic>
 <relic id="1879351047" name="Abyssal Gem of Will" type="GEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="WILL" value="40591"/>
-<stat name="CRITICAL_DEFENCE" value="487102"/>
+<stat name="WILL" value="40500"/>
+<stat name="CRITICAL_DEFENCE" value="487100"/>
 </stats>
 </relic>
 <relic id="1879351081" name="Expedition Gem of Agility" type="GEM" icon="1091759285-1091636664.png">
@@ -934,7 +934,7 @@
 </relic>
 <relic id="1879351024" name="Expedition Gem of Vitality" type="GEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="VITALITY" value="33750"/>
+<stat name="VITALITY" value="33700"/>
 <stat name="CRITICAL_DEFENCE" value="324000"/>
 </stats>
 </relic>
@@ -946,297 +946,297 @@
 </relic>
 <relic id="1879351083" name="Grand Abyssal Gem of Agility" type="GEM" icon="1091759285-1091636664.png">
 <stats>
-<stat name="AGILITY" value="43530"/>
-<stat name="CRITICAL_DEFENCE" value="522367"/>
+<stat name="AGILITY" value="43500"/>
+<stat name="CRITICAL_DEFENCE" value="522400"/>
 </stats>
 </relic>
 <relic id="1879351031" name="Grand Abyssal Gem of Fate" type="GEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="FATE" value="43530"/>
-<stat name="CRITICAL_DEFENCE" value="522367"/>
+<stat name="FATE" value="43500"/>
+<stat name="CRITICAL_DEFENCE" value="522400"/>
 </stats>
 </relic>
 <relic id="1879351025" name="Grand Abyssal Gem of Might" type="GEM" icon="1091759288-1091636664.png">
 <stats>
-<stat name="MIGHT" value="43530"/>
-<stat name="CRITICAL_DEFENCE" value="522367"/>
+<stat name="MIGHT" value="43500"/>
+<stat name="CRITICAL_DEFENCE" value="522400"/>
 </stats>
 </relic>
 <relic id="1879351018" name="Grand Abyssal Gem of Vitality" type="GEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="VITALITY" value="54413"/>
-<stat name="CRITICAL_DEFENCE" value="522367"/>
+<stat name="VITALITY" value="54400"/>
+<stat name="CRITICAL_DEFENCE" value="522400"/>
 </stats>
 </relic>
 <relic id="1879351052" name="Grand Abyssal Gem of Will" type="GEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="WILL" value="43530"/>
-<stat name="CRITICAL_DEFENCE" value="522367"/>
+<stat name="WILL" value="43500"/>
+<stat name="CRITICAL_DEFENCE" value="522400"/>
 </stats>
 </relic>
 <relic id="1879351082" name="Last Alliance Gem of Agility" type="GEM" icon="1091759285-1091636664.png">
 <stats>
-<stat name="AGILITY" value="36551"/>
-<stat name="CRITICAL_DEFENCE" value="438612"/>
+<stat name="AGILITY" value="36500"/>
+<stat name="CRITICAL_DEFENCE" value="438600"/>
 </stats>
 </relic>
 <relic id="1879350996" name="Last Alliance Gem of Fate" type="GEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="FATE" value="36551"/>
-<stat name="CRITICAL_DEFENCE" value="438612"/>
+<stat name="FATE" value="36500"/>
+<stat name="CRITICAL_DEFENCE" value="438600"/>
 </stats>
 </relic>
 <relic id="1879350994" name="Last Alliance Gem of Might" type="GEM" icon="1091759288-1091636664.png">
 <stats>
-<stat name="MIGHT" value="36551"/>
-<stat name="CRITICAL_DEFENCE" value="438612"/>
+<stat name="MIGHT" value="36500"/>
+<stat name="CRITICAL_DEFENCE" value="438600"/>
 </stats>
 </relic>
 <relic id="1879350998" name="Last Alliance Gem of Vitality" type="GEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="VITALITY" value="45688"/>
-<stat name="CRITICAL_DEFENCE" value="438612"/>
+<stat name="VITALITY" value="45600"/>
+<stat name="CRITICAL_DEFENCE" value="438600"/>
 </stats>
 </relic>
 <relic id="1879350990" name="Last Alliance Gem of Will" type="GEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="WILL" value="36551"/>
-<stat name="CRITICAL_DEFENCE" value="438612"/>
+<stat name="WILL" value="36500"/>
+<stat name="CRITICAL_DEFENCE" value="438600"/>
 </stats>
 </relic>
 <relic id="1879351080" name="Vanguard Gem of Agility" type="GEM" icon="1091759285-1091636664.png">
 <stats>
-<stat name="AGILITY" value="38020"/>
-<stat name="CRITICAL_DEFENCE" value="456244"/>
+<stat name="AGILITY" value="38000"/>
+<stat name="CRITICAL_DEFENCE" value="456200"/>
 </stats>
 </relic>
 <relic id="1879351050" name="Vanguard Gem of Fate" type="GEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="FATE" value="38020"/>
-<stat name="CRITICAL_DEFENCE" value="456244"/>
+<stat name="FATE" value="38000"/>
+<stat name="CRITICAL_DEFENCE" value="456200"/>
 </stats>
 </relic>
 <relic id="1879351049" name="Vanguard Gem of Might" type="GEM" icon="1091759288-1091636664.png">
 <stats>
-<stat name="MIGHT" value="38020"/>
-<stat name="CRITICAL_DEFENCE" value="456244"/>
+<stat name="MIGHT" value="38000"/>
+<stat name="CRITICAL_DEFENCE" value="456200"/>
 </stats>
 </relic>
 <relic id="1879351035" name="Vanguard Gem of Vitality" type="GEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="VITALITY" value="47525"/>
-<stat name="CRITICAL_DEFENCE" value="456244"/>
+<stat name="VITALITY" value="47500"/>
+<stat name="CRITICAL_DEFENCE" value="456200"/>
 </stats>
 </relic>
 <relic id="1879351016" name="Vanguard Gem of Will" type="GEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="WILL" value="38020"/>
-<stat name="CRITICAL_DEFENCE" value="456244"/>
+<stat name="WILL" value="38000"/>
+<stat name="CRITICAL_DEFENCE" value="456200"/>
 </stats>
 </relic>
 <relic id="1879362984" name="Abyssal Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="248422"/>
+<stat name="CRITICAL_RATING" value="248400"/>
 </stats>
 </relic>
 <relic id="1879368320" name="Abyssal Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="248422"/>
+<stat name="CRITICAL_RATING" value="248400"/>
 </stats>
 </relic>
 <relic id="1879362980" name="Abyssal Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="248422"/>
+<stat name="CRITICAL_RATING" value="248400"/>
 </stats>
 </relic>
 <relic id="1879368327" name="Abyssal Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="248422"/>
+<stat name="CRITICAL_RATING" value="248400"/>
 </stats>
 </relic>
 <relic id="1879351028" name="Abyssal Rune of Force" type="RUNE" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="248422"/>
-<stat name="PHYSICAL_MASTERY" value="558949"/>
+<stat name="CRITICAL_RATING" value="248400"/>
+<stat name="PHYSICAL_MASTERY" value="558900"/>
 </stats>
 </relic>
 <relic id="1879351023" name="Abyssal Rune of Healing" type="RUNE" icon="1091785155-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="248422"/>
-<stat name="OUTGOING_HEALING" value="730653"/>
+<stat name="CRITICAL_RATING" value="248400"/>
+<stat name="OUTGOING_HEALING" value="730700"/>
 </stats>
 </relic>
 <relic id="1879351029" name="Abyssal Rune of Power" type="RUNE" icon="1091785154-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="248422"/>
-<stat name="TACTICAL_MASTERY" value="558949"/>
+<stat name="CRITICAL_RATING" value="248400"/>
+<stat name="TACTICAL_MASTERY" value="558900"/>
 </stats>
 </relic>
 <relic id="1879351054" name="Expedition Rune of Force" type="RUNE" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="165240"/>
-<stat name="PHYSICAL_MASTERY" value="371790"/>
+<stat name="CRITICAL_RATING" value="165200"/>
+<stat name="PHYSICAL_MASTERY" value="371800"/>
 </stats>
 </relic>
 <relic id="1879351046" name="Expedition Rune of Healing" type="RUNE" icon="1091785155-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="165240"/>
+<stat name="CRITICAL_RATING" value="165200"/>
 <stat name="OUTGOING_HEALING" value="486000"/>
 </stats>
 </relic>
 <relic id="1879351015" name="Expedition Rune of Power" type="RUNE" icon="1091785154-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="165240"/>
-<stat name="TACTICAL_MASTERY" value="371790"/>
+<stat name="CRITICAL_RATING" value="165200"/>
+<stat name="TACTICAL_MASTERY" value="371800"/>
 </stats>
 </relic>
 <relic id="1879364553" name="Grand Abyssal Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="355209"/>
+<stat name="CRITICAL_RATING" value="355200"/>
 </stats>
 </relic>
 <relic id="1879368322" name="Grand Abyssal Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="355209"/>
+<stat name="CRITICAL_RATING" value="355200"/>
 </stats>
 </relic>
 <relic id="1879364552" name="Grand Abyssal Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="355209"/>
+<stat name="CRITICAL_RATING" value="355200"/>
 </stats>
 </relic>
 <relic id="1879368328" name="Grand Abyssal Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="355209"/>
+<stat name="CRITICAL_RATING" value="355200"/>
 </stats>
 </relic>
 <relic id="1879364551" name="Grand Abyssal Rune of Striking" type="RUNE" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="355209"/>
+<stat name="CRITICAL_RATING" value="355200"/>
 </stats>
 </relic>
 <relic id="1879362971" name="Greater Abyssal Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="331229"/>
+<stat name="CRITICAL_RATING" value="331200"/>
 </stats>
 </relic>
 <relic id="1879368325" name="Greater Abyssal Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="331229"/>
+<stat name="CRITICAL_RATING" value="331200"/>
 </stats>
 </relic>
 <relic id="1879362983" name="Greater Abyssal Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="331229"/>
+<stat name="CRITICAL_RATING" value="331200"/>
 </stats>
 </relic>
 <relic id="1879368321" name="Greater Abyssal Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="331229"/>
+<stat name="CRITICAL_RATING" value="331200"/>
 </stats>
 </relic>
 <relic id="1879361275" name="Incomparable Vanguard Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="232684"/>
+<stat name="CRITICAL_RATING" value="232700"/>
 </stats>
 </relic>
 <relic id="1879368323" name="Incomparable Vanguard Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="232684"/>
+<stat name="CRITICAL_RATING" value="232700"/>
 </stats>
 </relic>
 <relic id="1879361278" name="Incomparable Vanguard Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="232684"/>
+<stat name="CRITICAL_RATING" value="232700"/>
 </stats>
 </relic>
 <relic id="1879368329" name="Incomparable Vanguard Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="232684"/>
+<stat name="CRITICAL_RATING" value="232700"/>
 </stats>
 </relic>
 <relic id="1879361277" name="Incomparable Vanguard Rune of Striking" type="RUNE" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="232684"/>
+<stat name="CRITICAL_RATING" value="232700"/>
 </stats>
 </relic>
 <relic id="1879350989" name="Last Alliance Rune of Force" type="RUNE" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="223692"/>
-<stat name="PHYSICAL_MASTERY" value="503307"/>
+<stat name="CRITICAL_RATING" value="223700"/>
+<stat name="PHYSICAL_MASTERY" value="503300"/>
 </stats>
 </relic>
 <relic id="1879350992" name="Last Alliance Rune of Healing" type="RUNE" icon="1091785155-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="223692"/>
-<stat name="OUTGOING_HEALING" value="657918"/>
+<stat name="CRITICAL_RATING" value="223700"/>
+<stat name="OUTGOING_HEALING" value="657900"/>
 </stats>
 </relic>
 <relic id="1879350995" name="Last Alliance Rune of Power" type="RUNE" icon="1091785154-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="223692"/>
-<stat name="TACTICAL_MASTERY" value="503307"/>
+<stat name="CRITICAL_RATING" value="223700"/>
+<stat name="TACTICAL_MASTERY" value="503300"/>
 </stats>
 </relic>
 <relic id="1879361274" name="Rare Vanguard Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="232684"/>
+<stat name="CRITICAL_RATING" value="232700"/>
 </stats>
 </relic>
 <relic id="1879368326" name="Rare Vanguard Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="232684"/>
+<stat name="CRITICAL_RATING" value="232700"/>
 </stats>
 </relic>
 <relic id="1879361279" name="Rare Vanguard Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="232684"/>
+<stat name="CRITICAL_RATING" value="232700"/>
 </stats>
 </relic>
 <relic id="1879368324" name="Rare Vanguard Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="232684"/>
+<stat name="CRITICAL_RATING" value="232700"/>
 </stats>
 </relic>
 <relic id="1879361276" name="Rare Vanguard Rune of Striking" type="RUNE" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="232684"/>
+<stat name="CRITICAL_RATING" value="232700"/>
 </stats>
 </relic>
 <relic id="1879351041" name="TBD T3 Rune of Force" type="RUNE" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="266407"/>
-<stat name="PHYSICAL_MASTERY" value="599416"/>
+<stat name="CRITICAL_RATING" value="266400"/>
+<stat name="PHYSICAL_MASTERY" value="599400"/>
 </stats>
 </relic>
 <relic id="1879351034" name="TBD T3 Rune of Healing" type="RUNE" icon="1091785155-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="266407"/>
-<stat name="OUTGOING_HEALING" value="783551"/>
+<stat name="CRITICAL_RATING" value="266400"/>
+<stat name="OUTGOING_HEALING" value="783600"/>
 </stats>
 </relic>
 <relic id="1879351042" name="TBD T3 Rune of Power" type="RUNE" icon="1091785154-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="266407"/>
-<stat name="TACTICAL_MASTERY" value="599416"/>
+<stat name="CRITICAL_RATING" value="266400"/>
+<stat name="TACTICAL_MASTERY" value="599400"/>
 </stats>
 </relic>
 <relic id="1879351043" name="Vanguard Rune of Force" type="RUNE" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="232684"/>
-<stat name="PHYSICAL_MASTERY" value="523541"/>
+<stat name="CRITICAL_RATING" value="232700"/>
+<stat name="PHYSICAL_MASTERY" value="523500"/>
 </stats>
 </relic>
 <relic id="1879351036" name="Vanguard Rune of Healing" type="RUNE" icon="1091785155-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="232684"/>
-<stat name="OUTGOING_HEALING" value="684367"/>
+<stat name="CRITICAL_RATING" value="232700"/>
+<stat name="OUTGOING_HEALING" value="684400"/>
 </stats>
 </relic>
 <relic id="1879351045" name="Vanguard Rune of Power" type="RUNE" icon="1091785154-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="232684"/>
-<stat name="TACTICAL_MASTERY" value="523541"/>
+<stat name="CRITICAL_RATING" value="232700"/>
+<stat name="TACTICAL_MASTERY" value="523500"/>
 </stats>
 </relic>
 </category>
@@ -1422,7 +1422,7 @@
 </relic>
 <relic id="1879244635" name="Eastemnet Bridle Emblem of the Rider" type="CRAFTED_RELIC" level="85" icon="1091751510-1091526101.png">
 <stats>
-<stat name="ATTACK_DURATION_PERCENTAGE" value="2500"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-2500"/>
 </stats>
 </relic>
 <relic id="1879278191" name="Westemnet Bridle Emblem of Acceleration" type="CRAFTED_RELIC" level="95" icon="1091812796-1091526101.png">
@@ -1442,7 +1442,7 @@
 </relic>
 <relic id="1879278196" name="Westemnet Bridle Emblem of the Rider" type="CRAFTED_RELIC" level="95" icon="1091812805-1091526101.png">
 <stats>
-<stat name="ATTACK_DURATION_PERCENTAGE" value="2700"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-2700"/>
 </stats>
 </relic>
 <relic id="1879325532" name="Eastemnet Bracing Bridle Insignia" type="INSIGNIA" level="80" icon="1091969885-1091636664.png">
@@ -1631,21 +1631,21 @@
 <stats>
 <stat name="PHYSICAL_MASTERY" value="68700"/>
 <stat name="TACTICAL_MASTERY" value="68700"/>
-<stat name="ATTACK_DURATION_PERCENTAGE" value="1500"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
 </relic>
 <relic id="1879253799" name="Bridle Riddermark Setting of Aggression" type="SETTING" level="85" icon="1091751467-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="68700"/>
 <stat name="TACTICAL_MASTERY" value="68700"/>
-<stat name="ATTACK_DURATION_PERCENTAGE" value="1500"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
 </relic>
 <relic id="1879270084" name="Bridle Riddermark Setting of Aggression" type="SETTING" level="85" icon="1091751467-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="68700"/>
 <stat name="TACTICAL_MASTERY" value="68700"/>
-<stat name="ATTACK_DURATION_PERCENTAGE" value="1500"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
 </relic>
 <relic id="1879244596" name="Bridle Riddermark Setting of Clout" type="SETTING" level="85" icon="1091751477-1091751291.png">
@@ -1773,7 +1773,7 @@
 </relic>
 <relic id="1879244620" name="Bridle Riddermark Rune of Tenacity" type="RUNE" level="85" icon="1091751471-1091751290.png">
 <stats>
-<stat name="RESISTANCE" value="65519"/>
+<stat name="RESISTANCE" value="65500"/>
 <stat name="BLOCK" value="34300"/>
 <stat name="PARRY" value="34300"/>
 <stat name="EVADE" value="34300"/>
@@ -1783,7 +1783,7 @@
 </relic>
 <relic id="1879253793" name="Bridle Riddermark Rune of Tenacity" type="RUNE" level="85" icon="1091751471-1091751290.png">
 <stats>
-<stat name="RESISTANCE" value="65519"/>
+<stat name="RESISTANCE" value="65500"/>
 <stat name="BLOCK" value="34300"/>
 <stat name="PARRY" value="34300"/>
 <stat name="EVADE" value="34300"/>
@@ -1793,7 +1793,7 @@
 </relic>
 <relic id="1879270080" name="Bridle Riddermark Rune of Tenacity" type="RUNE" level="85" icon="1091751471-1091751290.png">
 <stats>
-<stat name="RESISTANCE" value="65519"/>
+<stat name="RESISTANCE" value="65500"/>
 <stat name="BLOCK" value="34300"/>
 <stat name="PARRY" value="34300"/>
 <stat name="EVADE" value="34300"/>
@@ -2044,7 +2044,7 @@
 <relic id="1879262666" name="Insightful Rune of Avoidance" type="RUNE" icon="1091785155-1091526102.png">
 <stats>
 <stat name="EVADE" value="62200"/>
-<stat name="ICPR" value="13979"/>
+<stat name="ICPR" value="14000"/>
 </stats>
 </relic>
 <relic id="1879262663" name="Insightful Rune of Defence" type="RUNE" icon="1091785148-1091526102.png">
@@ -2056,7 +2056,7 @@
 <relic id="1879262649" name="Insightful Rune of Deflection" type="RUNE" icon="1091785154-1091526102.png">
 <stats>
 <stat name="PARRY" value="62200"/>
-<stat name="ICMR" value="14820"/>
+<stat name="ICMR" value="14800"/>
 </stats>
 </relic>
 </category>
@@ -2146,7 +2146,7 @@
 <relic id="1879205227" name="Aged Rune of Avoidance" type="RUNE" icon="1091636008-1091526102.png">
 <stats>
 <stat name="EVADE" value="42800"/>
-<stat name="ICPR" value="8220"/>
+<stat name="ICPR" value="8200"/>
 </stats>
 </relic>
 <relic id="1879205234" name="Aged Rune of Defence" type="RUNE" icon="1091636004-1091526102.png">
@@ -2158,7 +2158,7 @@
 <relic id="1879205230" name="Aged Rune of Deflection" type="RUNE" icon="1091636006-1091526102.png">
 <stats>
 <stat name="PARRY" value="42800"/>
-<stat name="ICMR" value="8580"/>
+<stat name="ICMR" value="8600"/>
 </stats>
 </relic>
 </category>
@@ -2248,7 +2248,7 @@
 <relic id="1879205194" name="Profound Rune of Avoidance" type="RUNE" icon="1091636014-1091526102.png">
 <stats>
 <stat name="EVADE" value="45200"/>
-<stat name="ICPR" value="8940"/>
+<stat name="ICPR" value="8900"/>
 </stats>
 </relic>
 <relic id="1879205201" name="Profound Rune of Defence" type="RUNE" icon="1091636010-1091526102.png">
@@ -2260,7 +2260,7 @@
 <relic id="1879205198" name="Profound Rune of Deflection" type="RUNE" icon="1091636012-1091526102.png">
 <stats>
 <stat name="PARRY" value="45200"/>
-<stat name="ICMR" value="9360"/>
+<stat name="ICMR" value="9400"/>
 </stats>
 </relic>
 </category>
@@ -2338,7 +2338,7 @@
 <relic id="1879205208" name="Deep Rune of Avoidance" type="RUNE" icon="1091636020-1091526102.png">
 <stats>
 <stat name="EVADE" value="47700"/>
-<stat name="ICPR" value="9660"/>
+<stat name="ICPR" value="9700"/>
 </stats>
 </relic>
 <relic id="1879205217" name="Deep Rune of Defence" type="RUNE" icon="1091636016-1091526102.png">
@@ -2350,7 +2350,7 @@
 <relic id="1879205213" name="Deep Rune of Deflection" type="RUNE" icon="1091636018-1091526102.png">
 <stats>
 <stat name="PARRY" value="47700"/>
-<stat name="ICMR" value="10140"/>
+<stat name="ICMR" value="10100"/>
 </stats>
 </relic>
 <relic id="1879114449" name="Early Rune of the Heart" type="RUNE" icon="1091473158-1091526102.png">
@@ -2458,13 +2458,13 @@
 <relic id="1879205197" name="Ancient Rune of Avoidance" type="RUNE" icon="1091636026-1091526102.png">
 <stats>
 <stat name="EVADE" value="50100"/>
-<stat name="ICPR" value="10380"/>
+<stat name="ICPR" value="10400"/>
 </stats>
 </relic>
 <relic id="1879205200" name="Ancient Rune of Deflection" type="RUNE" icon="1091636024-1091526102.png">
 <stats>
 <stat name="PARRY" value="50100"/>
-<stat name="ICMR" value="10920"/>
+<stat name="ICMR" value="10900"/>
 </stats>
 </relic>
 <relic id="1879205204" name="Ancient Rune of the Defence" type="RUNE" icon="1091636022-1091526102.png">
@@ -2758,7 +2758,7 @@
 <relic id="1879219294" name="Mysterious Rune of Avoidance" type="RUNE" icon="1091664852-1091526102.png">
 <stats>
 <stat name="EVADE" value="54900"/>
-<stat name="ICPR" value="11820"/>
+<stat name="ICPR" value="11800"/>
 </stats>
 </relic>
 <relic id="1879219292" name="Mysterious Rune of Defence" type="RUNE" icon="1091664848-1091526102.png">
@@ -2770,7 +2770,7 @@
 <relic id="1879219293" name="Mysterious Rune of Deflection" type="RUNE" icon="1091664850-1091526102.png">
 <stats>
 <stat name="PARRY" value="54900"/>
-<stat name="ICMR" value="12480"/>
+<stat name="ICMR" value="12500"/>
 </stats>
 </relic>
 </category>
@@ -2824,7 +2824,7 @@
 <relic id="1879219304" name="Unusual Rune of Avoidance" type="RUNE" icon="1091664858-1091526102.png">
 <stats>
 <stat name="EVADE" value="57400"/>
-<stat name="ICPR" value="12539"/>
+<stat name="ICPR" value="12500"/>
 </stats>
 </relic>
 <relic id="1879219302" name="Unusual Rune of Defence" type="RUNE" icon="1091664854-1091526102.png">
@@ -2836,7 +2836,7 @@
 <relic id="1879219303" name="Unusual Rune of Deflection" type="RUNE" icon="1091664856-1091526102.png">
 <stats>
 <stat name="PARRY" value="57400"/>
-<stat name="ICMR" value="13260"/>
+<stat name="ICMR" value="13300"/>
 </stats>
 </relic>
 </category>
@@ -2890,7 +2890,7 @@
 <relic id="1879219313" name="Elder Rune of Avoidance" type="RUNE" icon="1091664864-1091526102.png">
 <stats>
 <stat name="EVADE" value="59800"/>
-<stat name="ICPR" value="13260"/>
+<stat name="ICPR" value="13300"/>
 </stats>
 </relic>
 <relic id="1879219311" name="Elder Rune of Defence" type="RUNE" icon="1091664860-1091526102.png">
@@ -2902,7 +2902,7 @@
 <relic id="1879219312" name="Elder Rune of Deflection" type="RUNE" icon="1091664862-1091526102.png">
 <stats>
 <stat name="PARRY" value="59800"/>
-<stat name="ICMR" value="14039"/>
+<stat name="ICMR" value="14000"/>
 </stats>
 </relic>
 </category>
@@ -2972,21 +2972,21 @@
 <stats>
 <stat name="PHYSICAL_MASTERY" value="60600"/>
 <stat name="TACTICAL_MASTERY" value="60600"/>
-<stat name="ATTACK_DURATION_PERCENTAGE" value="1500"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
 </relic>
 <relic id="1879253786" name="Bridle Setting of Aggression" type="SETTING" level="75" icon="1091751452-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="60600"/>
 <stat name="TACTICAL_MASTERY" value="60600"/>
-<stat name="ATTACK_DURATION_PERCENTAGE" value="1500"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
 </relic>
 <relic id="1879254185" name="Bridle Setting of Aggression" type="SETTING" level="75" icon="1091751452-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="60600"/>
 <stat name="TACTICAL_MASTERY" value="60600"/>
-<stat name="ATTACK_DURATION_PERCENTAGE" value="1500"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
 </relic>
 <relic id="1879244591" name="Bridle Setting of Clout" type="SETTING" level="75" icon="1091751462-1091751291.png">
@@ -3141,7 +3141,7 @@
 </relic>
 <relic id="1879244619" name="Bridle Rune of Tenacity" type="RUNE" level="75" icon="1091751456-1091751290.png">
 <stats>
-<stat name="RESISTANCE" value="54695"/>
+<stat name="RESISTANCE" value="54700"/>
 <stat name="BLOCK" value="30300"/>
 <stat name="PARRY" value="30300"/>
 <stat name="EVADE" value="30300"/>
@@ -3151,7 +3151,7 @@
 </relic>
 <relic id="1879253783" name="Bridle Rune of Tenacity" type="RUNE" level="75" icon="1091751456-1091751290.png">
 <stats>
-<stat name="RESISTANCE" value="54695"/>
+<stat name="RESISTANCE" value="54700"/>
 <stat name="BLOCK" value="30300"/>
 <stat name="PARRY" value="30300"/>
 <stat name="EVADE" value="30300"/>
@@ -3161,7 +3161,7 @@
 </relic>
 <relic id="1879254182" name="Bridle Rune of Tenacity" type="RUNE" level="75" icon="1091751456-1091751290.png">
 <stats>
-<stat name="RESISTANCE" value="54695"/>
+<stat name="RESISTANCE" value="54700"/>
 <stat name="BLOCK" value="30300"/>
 <stat name="PARRY" value="30300"/>
 <stat name="EVADE" value="30300"/>
@@ -3245,7 +3245,7 @@
 <stats>
 <stat name="PHYSICAL_MASTERY" value="72700"/>
 <stat name="TACTICAL_MASTERY" value="72700"/>
-<stat name="ATTACK_DURATION_PERCENTAGE" value="1500"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
 </relic>
 <relic id="1879288229" name="Bridle Westemnet Setting of Clout" type="SETTING" level="90" icon="1091751517-1091751291.png">
@@ -3291,7 +3291,7 @@
 </relic>
 <relic id="1879288251" name="Bridle Westemnet Rune of Tenacity" type="RUNE" level="90" icon="1091751568-1091751290.png">
 <stats>
-<stat name="RESISTANCE" value="67680"/>
+<stat name="RESISTANCE" value="67700"/>
 <stat name="BLOCK" value="36400"/>
 <stat name="PARRY" value="36400"/>
 <stat name="EVADE" value="36400"/>
