@@ -343,22 +343,7 @@
 <stat name="INCOMING_HEALING" value="161600"/>
 </stats>
 </relic>
-<relic id="1879250076" name="True Setting of the North" type="SETTING" level="80" icon="1091759299-1091636663.png">
-<stats>
-<stat name="MORALE" value="33000"/>
-<stat name="CRITICAL_RATING" value="129300"/>
-<stat name="INCOMING_HEALING" value="161600"/>
-</stats>
-</relic>
 <relic id="1879249990" name="True Setting of the Three Hunters" type="SETTING" level="80" icon="1091759394-1091636663.png">
-<stats>
-<stat name="FATE" value="3500"/>
-<stat name="PHYSICAL_MASTERY" value="64600"/>
-<stat name="TACTICAL_MASTERY" value="64600"/>
-<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="750"/>
-</stats>
-</relic>
-<relic id="1879249999" name="True Setting of the Three Hunters" type="SETTING" level="80" icon="1091759394-1091636663.png">
 <stats>
 <stat name="FATE" value="3500"/>
 <stat name="PHYSICAL_MASTERY" value="64600"/>
@@ -396,22 +381,7 @@
 <stat name="TACTICAL_MASTERY" value="64600"/>
 </stats>
 </relic>
-<relic id="1879250077" name="True Gem of the Rising Moon" type="GEM" level="80" icon="1091759301-1091636664.png">
-<stats>
-<stat name="VITALITY" value="3500"/>
-<stat name="FATE" value="3500"/>
-<stat name="PHYSICAL_MASTERY" value="64600"/>
-<stat name="TACTICAL_MASTERY" value="64600"/>
-</stats>
-</relic>
 <relic id="1879249986" name="True Gem of the Twilight" type="GEM" level="80" icon="1091751942-1091636664.png">
-<stats>
-<stat name="MORALE" value="33000"/>
-<stat name="CRITICAL_DEFENCE" value="32300"/>
-<stat name="TACTICAL_MITIGATION" value="24200"/>
-</stats>
-</relic>
-<relic id="1879249998" name="True Gem of the Twilight" type="GEM" level="80" icon="1091751942-1091636664.png">
 <stats>
 <stat name="MORALE" value="33000"/>
 <stat name="CRITICAL_DEFENCE" value="32300"/>
@@ -448,22 +418,7 @@
 <stat name="PHYSICAL_MITIGATION" value="24200"/>
 </stats>
 </relic>
-<relic id="1879250078" name="True Rune of the Dark Wood" type="RUNE" level="80" icon="1091759303-1091636662.png">
-<stats>
-<stat name="MORALE" value="33000"/>
-<stat name="POWER" value="31000"/>
-<stat name="PHYSICAL_MITIGATION" value="24200"/>
-</stats>
-</relic>
 <relic id="1879249987" name="True Rune of the White Mountains" type="RUNE" level="80" icon="1091751943-1091636662.png">
-<stats>
-<stat name="AGILITY" value="3500"/>
-<stat name="PHYSICAL_MASTERY" value="64600"/>
-<stat name="TACTICAL_MASTERY" value="64600"/>
-<stat name="ATTACK_DURATION_PERCENTAGE" value="-250"/>
-</stats>
-</relic>
-<relic id="1879249988" name="True Rune of the White Mountains" type="RUNE" level="80" icon="1091751943-1091636662.png">
 <stats>
 <stat name="AGILITY" value="3500"/>
 <stat name="PHYSICAL_MASTERY" value="64600"/>
@@ -480,20 +435,7 @@
 <stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
 </relic>
-<relic id="1879253790" name="Bridle Eastemnet Setting of Aggression" type="SETTING" bridle="true" level="80" icon="1091751503-1091751291.png">
-<stats>
-<stat name="PHYSICAL_MASTERY" value="64600"/>
-<stat name="TACTICAL_MASTERY" value="64600"/>
-<stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
-</stats>
-</relic>
 <relic id="1879244608" name="Bridle Eastemnet Setting of Clout" type="SETTING" bridle="true" level="80" icon="1091751517-1091751291.png">
-<stats>
-<stat name="PHYSICAL_MASTERY" value="64600"/>
-<stat name="TACTICAL_MASTERY" value="64600"/>
-</stats>
-</relic>
-<relic id="1879253804" name="Bridle Eastemnet Setting of Clout" type="SETTING" bridle="true" level="80" icon="1091751517-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="64600"/>
 <stat name="TACTICAL_MASTERY" value="64600"/>
@@ -505,18 +447,7 @@
 <stat name="TACTICAL_MASTERY" value="64600"/>
 </stats>
 </relic>
-<relic id="1879253787" name="Bridle Eastemnet Setting of Savvy" type="SETTING" bridle="true" level="80" icon="1091751475-1091751291.png">
-<stats>
-<stat name="PHYSICAL_MASTERY" value="64600"/>
-<stat name="TACTICAL_MASTERY" value="64600"/>
-</stats>
-</relic>
 <relic id="1879244607" name="Bridle Eastemnet Gem of Acumen" type="GEM" bridle="true" level="80" icon="1091751454-1091751289.png">
-<stats>
-<stat name="CRITICAL_RATING" value="129300"/>
-</stats>
-</relic>
-<relic id="1879253801" name="Bridle Eastemnet Gem of Acumen" type="GEM" bridle="true" level="80" icon="1091751454-1091751289.png">
 <stats>
 <stat name="CRITICAL_RATING" value="129300"/>
 </stats>
@@ -526,29 +457,12 @@
 <stat name="CRITICAL_RATING" value="129300"/>
 </stats>
 </relic>
-<relic id="1879253797" name="Bridle Eastemnet Gem of Alacrity" type="GEM" bridle="true" level="80" icon="1091751556-1091751289.png">
-<stats>
-<stat name="CRITICAL_RATING" value="129300"/>
-</stats>
-</relic>
 <relic id="1879244584" name="Bridle Eastemnet Gem of Haste" type="GEM" bridle="true" level="80" icon="1091751483-1091751289.png">
 <stats>
 <stat name="CRITICAL_RATING" value="129300"/>
 </stats>
 </relic>
-<relic id="1879253800" name="Bridle Eastemnet Gem of Haste" type="GEM" bridle="true" level="80" icon="1091751483-1091751289.png">
-<stats>
-<stat name="CRITICAL_RATING" value="129300"/>
-</stats>
-</relic>
 <relic id="1879244614" name="Bridle Eastemnet Rune of Perseverance" type="RUNE" bridle="true" level="80" icon="1091751534-1091751290.png">
-<stats>
-<stat name="BLOCK" value="32300"/>
-<stat name="PARRY" value="32300"/>
-<stat name="EVADE" value="32300"/>
-</stats>
-</relic>
-<relic id="1879253794" name="Bridle Eastemnet Rune of Perseverance" type="RUNE" bridle="true" level="80" icon="1091751534-1091751290.png">
 <stats>
 <stat name="BLOCK" value="32300"/>
 <stat name="PARRY" value="32300"/>
@@ -562,24 +476,7 @@
 <stat name="EVADE" value="32300"/>
 </stats>
 </relic>
-<relic id="1879253792" name="Bridle Eastemnet Rune of Protection" type="RUNE" bridle="true" level="80" icon="1091751465-1091751290.png">
-<stats>
-<stat name="BLOCK" value="32300"/>
-<stat name="PARRY" value="32300"/>
-<stat name="EVADE" value="32300"/>
-</stats>
-</relic>
 <relic id="1879244624" name="Bridle Eastemnet Rune of Tenacity" type="RUNE" bridle="true" level="80" icon="1091751568-1091751290.png">
-<stats>
-<stat name="RESISTANCE" value="63400"/>
-<stat name="BLOCK" value="32300"/>
-<stat name="PARRY" value="32300"/>
-<stat name="EVADE" value="32300"/>
-<stat name="PHYSICAL_MITIGATION" value="48500"/>
-<stat name="TACTICAL_MITIGATION" value="48500"/>
-</stats>
-</relic>
-<relic id="1879253795" name="Bridle Eastemnet Rune of Tenacity" type="RUNE" bridle="true" level="80" icon="1091751568-1091751290.png">
 <stats>
 <stat name="RESISTANCE" value="63400"/>
 <stat name="BLOCK" value="32300"/>
@@ -621,22 +518,7 @@
 <stat name="INCOMING_HEALING" value="131300"/>
 </stats>
 </relic>
-<relic id="1879233108" name="True Setting of Continuance" type="SETTING" level="65" icon="1091644904-1091636663.png">
-<stats>
-<stat name="MORALE" value="25000"/>
-<stat name="FATE" value="2500"/>
-<stat name="INCOMING_HEALING" value="131300"/>
-</stats>
-</relic>
 <relic id="1879208530" name="True Setting of the Ages" type="SETTING" level="65" icon="1091635963-1091636663.png">
-<stats>
-<stat name="FATE" value="2500"/>
-<stat name="CRITICAL_RATING" value="52500"/>
-<stat name="PHYSICAL_MASTERY" value="52500"/>
-<stat name="TACTICAL_MASTERY" value="52500"/>
-</stats>
-</relic>
-<relic id="1879231964" name="True Setting of the Ages" type="SETTING" level="65" icon="1091635963-1091636663.png">
 <stats>
 <stat name="FATE" value="2500"/>
 <stat name="CRITICAL_RATING" value="52500"/>
@@ -674,24 +556,7 @@
 <stat name="ICPR" value="12600"/>
 </stats>
 </relic>
-<relic id="1879231965" name="True Gem of the Encircling Seas" type="GEM" level="65" icon="1091644906-1091636664.png">
-<stats>
-<stat name="PHYSICAL_MASTERY" value="52500"/>
-<stat name="TACTICAL_MASTERY" value="52500"/>
-<stat name="ICMR" value="12600"/>
-<stat name="ICPR" value="12600"/>
-</stats>
-</relic>
 <relic id="1879208531" name="True Gem of the Mountain King" type="GEM" level="65" icon="1091644908-1091636664.png">
-<stats>
-<stat name="VITALITY" value="2500"/>
-<stat name="BLOCK" value="26300"/>
-<stat name="PARRY" value="26300"/>
-<stat name="EVADE" value="26300"/>
-<stat name="ICMR" value="12600"/>
-</stats>
-</relic>
-<relic id="1879233109" name="True Gem of the Mountain King" type="GEM" level="65" icon="1091644908-1091636664.png">
 <stats>
 <stat name="VITALITY" value="2500"/>
 <stat name="BLOCK" value="26300"/>
@@ -732,24 +597,7 @@
 <stat name="FATE" value="1700"/>
 </stats>
 </relic>
-<relic id="1879233110" name="True Rune of the Dark Watch" type="RUNE" level="65" icon="1091644913-1091636662.png">
-<stats>
-<stat name="MIGHT" value="1700"/>
-<stat name="AGILITY" value="1700"/>
-<stat name="VITALITY" value="1700"/>
-<stat name="WILL" value="1700"/>
-<stat name="FATE" value="1700"/>
-</stats>
-</relic>
 <relic id="1879208527" name="True Rune of the Two Trees" type="RUNE" level="65" icon="1091644911-1091636662.png">
-<stats>
-<stat name="MORALE" value="18000"/>
-<stat name="POWER" value="16000"/>
-<stat name="ICMR" value="9600"/>
-<stat name="ICPR" value="9000"/>
-</stats>
-</relic>
-<relic id="1879231966" name="True Rune of the Two Trees" type="RUNE" level="65" icon="1091644911-1091636662.png">
 <stats>
 <stat name="MORALE" value="18000"/>
 <stat name="POWER" value="16000"/>
@@ -1039,17 +887,7 @@
 <stat name="CRITICAL_RATING" value="248400"/>
 </stats>
 </relic>
-<relic id="1879368320" name="Abyssal Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
-<stats>
-<stat name="CRITICAL_RATING" value="248400"/>
-</stats>
-</relic>
 <relic id="1879362980" name="Abyssal Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
-<stats>
-<stat name="CRITICAL_RATING" value="248400"/>
-</stats>
-</relic>
-<relic id="1879368327" name="Abyssal Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
 <stats>
 <stat name="CRITICAL_RATING" value="248400"/>
 </stats>
@@ -1095,17 +933,7 @@
 <stat name="CRITICAL_RATING" value="355200"/>
 </stats>
 </relic>
-<relic id="1879368322" name="Grand Abyssal Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
-<stats>
-<stat name="CRITICAL_RATING" value="355200"/>
-</stats>
-</relic>
 <relic id="1879364552" name="Grand Abyssal Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
-<stats>
-<stat name="CRITICAL_RATING" value="355200"/>
-</stats>
-</relic>
-<relic id="1879368328" name="Grand Abyssal Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
 <stats>
 <stat name="CRITICAL_RATING" value="355200"/>
 </stats>
@@ -1120,17 +948,7 @@
 <stat name="CRITICAL_RATING" value="331200"/>
 </stats>
 </relic>
-<relic id="1879368325" name="Greater Abyssal Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
-<stats>
-<stat name="CRITICAL_RATING" value="331200"/>
-</stats>
-</relic>
 <relic id="1879362983" name="Greater Abyssal Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
-<stats>
-<stat name="CRITICAL_RATING" value="331200"/>
-</stats>
-</relic>
-<relic id="1879368321" name="Greater Abyssal Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
 <stats>
 <stat name="CRITICAL_RATING" value="331200"/>
 </stats>
@@ -1140,17 +958,7 @@
 <stat name="CRITICAL_RATING" value="232700"/>
 </stats>
 </relic>
-<relic id="1879368323" name="Incomparable Vanguard Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
-<stats>
-<stat name="CRITICAL_RATING" value="232700"/>
-</stats>
-</relic>
 <relic id="1879361278" name="Incomparable Vanguard Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
-<stats>
-<stat name="CRITICAL_RATING" value="232700"/>
-</stats>
-</relic>
-<relic id="1879368329" name="Incomparable Vanguard Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
 <stats>
 <stat name="CRITICAL_RATING" value="232700"/>
 </stats>
@@ -1183,17 +991,7 @@
 <stat name="CRITICAL_RATING" value="232700"/>
 </stats>
 </relic>
-<relic id="1879368326" name="Rare Vanguard Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
-<stats>
-<stat name="CRITICAL_RATING" value="232700"/>
-</stats>
-</relic>
 <relic id="1879361279" name="Rare Vanguard Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
-<stats>
-<stat name="CRITICAL_RATING" value="232700"/>
-</stats>
-</relic>
-<relic id="1879368324" name="Rare Vanguard Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
 <stats>
 <stat name="CRITICAL_RATING" value="232700"/>
 </stats>
@@ -1273,23 +1071,7 @@
 <stat name="PHYSICAL_MITIGATION" value="17000"/>
 </stats>
 </relic>
-<relic id="1879262653" name="True Setting of the Hill-men" type="SETTING" level="75" icon="1091664880-1091636663.png">
-<stats>
-<stat name="INCOMING_HEALING" value="151500"/>
-<stat name="BLOCK" value="30300"/>
-<stat name="PARRY" value="30300"/>
-<stat name="EVADE" value="30300"/>
-<stat name="PHYSICAL_MITIGATION" value="17000"/>
-</stats>
-</relic>
 <relic id="1879262659" name="True Setting of the Long Winter" type="SETTING" level="75" icon="1091785147-1091636663.png">
-<stats>
-<stat name="FATE" value="3000"/>
-<stat name="CRITICAL_RATING" value="121200"/>
-<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="750"/>
-</stats>
-</relic>
-<relic id="1879262673" name="True Setting of the Long Winter" type="SETTING" level="75" icon="1091785147-1091636663.png">
 <stats>
 <stat name="FATE" value="3000"/>
 <stat name="CRITICAL_RATING" value="121200"/>
@@ -1327,23 +1109,7 @@
 <stat name="EVADE" value="30300"/>
 </stats>
 </relic>
-<relic id="1879262664" name="True Gem of the Watchwood" type="GEM" level="75" icon="1091785140-1091636664.png">
-<stats>
-<stat name="VITALITY" value="3000"/>
-<stat name="CRITICAL_DEFENCE" value="30300"/>
-<stat name="BLOCK" value="30300"/>
-<stat name="PARRY" value="30300"/>
-<stat name="EVADE" value="30300"/>
-</stats>
-</relic>
 <relic id="1879262644" name="True Gem of the Wizard's Vale" type="GEM" level="75" icon="1091785138-1091636664.png">
-<stats>
-<stat name="FATE" value="3000"/>
-<stat name="CRITICAL_RATING" value="121200"/>
-<stat name="ICPR" value="9000"/>
-</stats>
-</relic>
-<relic id="1879262654" name="True Gem of the Wizard's Vale" type="GEM" level="75" icon="1091785138-1091636664.png">
 <stats>
 <stat name="FATE" value="3000"/>
 <stat name="CRITICAL_RATING" value="121200"/>
@@ -1381,22 +1147,7 @@
 <stat name="PARTIAL_EVADE_MITIGATION_PERCENTAGE" value="400"/>
 </stats>
 </relic>
-<relic id="1879262668" name="True Rune of the First Battle" type="RUNE" level="75" icon="1091785151-1091636662.png">
-<stats>
-<stat name="PARRY" value="60600"/>
-<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="200"/>
-<stat name="EVADE" value="60600"/>
-<stat name="PARTIAL_EVADE_MITIGATION_PERCENTAGE" value="400"/>
-</stats>
-</relic>
 <relic id="1879262643" name="True Rune of the Swift-light" type="RUNE" level="75" icon="1091785150-1091636662.png">
-<stats>
-<stat name="MORALE" value="29600"/>
-<stat name="POWER" value="27600"/>
-<stat name="ATTACK_DURATION_PERCENTAGE" value="-250"/>
-</stats>
-</relic>
-<relic id="1879262651" name="True Rune of the Swift-light" type="RUNE" level="75" icon="1091785150-1091636662.png">
 <stats>
 <stat name="MORALE" value="29600"/>
 <stat name="POWER" value="27600"/>
@@ -1634,33 +1385,7 @@
 <stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
 </relic>
-<relic id="1879253799" name="Bridle Riddermark Setting of Aggression" type="SETTING" bridle="true" level="85" icon="1091751467-1091751291.png">
-<stats>
-<stat name="PHYSICAL_MASTERY" value="68700"/>
-<stat name="TACTICAL_MASTERY" value="68700"/>
-<stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
-</stats>
-</relic>
-<relic id="1879270084" name="Bridle Riddermark Setting of Aggression" type="SETTING" bridle="true" level="85" icon="1091751467-1091751291.png">
-<stats>
-<stat name="PHYSICAL_MASTERY" value="68700"/>
-<stat name="TACTICAL_MASTERY" value="68700"/>
-<stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
-</stats>
-</relic>
 <relic id="1879244596" name="Bridle Riddermark Setting of Clout" type="SETTING" bridle="true" level="85" icon="1091751477-1091751291.png">
-<stats>
-<stat name="PHYSICAL_MASTERY" value="68700"/>
-<stat name="TACTICAL_MASTERY" value="68700"/>
-</stats>
-</relic>
-<relic id="1879253796" name="Bridle Riddermark Setting of Clout" type="SETTING" bridle="true" level="85" icon="1091751477-1091751291.png">
-<stats>
-<stat name="PHYSICAL_MASTERY" value="68700"/>
-<stat name="TACTICAL_MASTERY" value="68700"/>
-</stats>
-</relic>
-<relic id="1879270082" name="Bridle Riddermark Setting of Clout" type="SETTING" bridle="true" level="85" icon="1091751477-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="68700"/>
 <stat name="TACTICAL_MASTERY" value="68700"/>
@@ -1672,29 +1397,7 @@
 <stat name="TACTICAL_MASTERY" value="68700"/>
 </stats>
 </relic>
-<relic id="1879253798" name="Bridle Riddermark Setting of Savvy" type="SETTING" bridle="true" level="85" icon="1091751559-1091751291.png">
-<stats>
-<stat name="PHYSICAL_MASTERY" value="68700"/>
-<stat name="TACTICAL_MASTERY" value="68700"/>
-</stats>
-</relic>
-<relic id="1879270081" name="Bridle Riddermark Setting of Savvy" type="SETTING" bridle="true" level="85" icon="1091751559-1091751291.png">
-<stats>
-<stat name="PHYSICAL_MASTERY" value="68700"/>
-<stat name="TACTICAL_MASTERY" value="68700"/>
-</stats>
-</relic>
 <relic id="1879244618" name="Bridle Riddermark Gem of Acumen" type="GEM" bridle="true" level="85" icon="1091751478-1091751289.png">
-<stats>
-<stat name="CRITICAL_RATING" value="137400"/>
-</stats>
-</relic>
-<relic id="1879253805" name="Bridle Riddermark Gem of Acumen" type="GEM" bridle="true" level="85" icon="1091751478-1091751289.png">
-<stats>
-<stat name="CRITICAL_RATING" value="137400"/>
-</stats>
-</relic>
-<relic id="1879270088" name="Bridle Riddermark Gem of Acumen" type="GEM" bridle="true" level="85" icon="1091751478-1091751289.png">
 <stats>
 <stat name="CRITICAL_RATING" value="137400"/>
 </stats>
@@ -1704,46 +1407,12 @@
 <stat name="CRITICAL_RATING" value="137400"/>
 </stats>
 </relic>
-<relic id="1879253802" name="Bridle Riddermark Gem of Alacrity" type="GEM" bridle="true" level="85" icon="1091751460-1091751289.png">
-<stats>
-<stat name="CRITICAL_RATING" value="137400"/>
-</stats>
-</relic>
-<relic id="1879270085" name="Bridle Riddermark Gem of Alacrity" type="GEM" bridle="true" level="85" icon="1091751460-1091751289.png">
-<stats>
-<stat name="CRITICAL_RATING" value="137400"/>
-</stats>
-</relic>
 <relic id="1879244593" name="Bridle Riddermark Gem of Haste" type="GEM" bridle="true" level="85" icon="1091751505-1091751289.png">
 <stats>
 <stat name="CRITICAL_RATING" value="137400"/>
 </stats>
 </relic>
-<relic id="1879253803" name="Bridle Riddermark Gem of Haste" type="GEM" bridle="true" level="85" icon="1091751505-1091751289.png">
-<stats>
-<stat name="CRITICAL_RATING" value="137400"/>
-</stats>
-</relic>
-<relic id="1879270083" name="Bridle Riddermark Gem of Haste" type="GEM" bridle="true" level="85" icon="1091751505-1091751289.png">
-<stats>
-<stat name="CRITICAL_RATING" value="137400"/>
-</stats>
-</relic>
 <relic id="1879244602" name="Bridle Riddermark Rune of Perseverance" type="RUNE" bridle="true" level="85" icon="1091751561-1091751290.png">
-<stats>
-<stat name="BLOCK" value="34300"/>
-<stat name="PARRY" value="34300"/>
-<stat name="EVADE" value="34300"/>
-</stats>
-</relic>
-<relic id="1879253807" name="Bridle Riddermark Rune of Perseverance" type="RUNE" bridle="true" level="85" icon="1091751561-1091751290.png">
-<stats>
-<stat name="BLOCK" value="34300"/>
-<stat name="PARRY" value="34300"/>
-<stat name="EVADE" value="34300"/>
-</stats>
-</relic>
-<relic id="1879270086" name="Bridle Riddermark Rune of Perseverance" type="RUNE" bridle="true" level="85" icon="1091751561-1091751290.png">
 <stats>
 <stat name="BLOCK" value="34300"/>
 <stat name="PARRY" value="34300"/>
@@ -1757,41 +1426,7 @@
 <stat name="EVADE" value="34300"/>
 </stats>
 </relic>
-<relic id="1879253806" name="Bridle Riddermark Rune of Protection" type="RUNE" bridle="true" level="85" icon="1091751488-1091751290.png">
-<stats>
-<stat name="BLOCK" value="34300"/>
-<stat name="PARRY" value="34300"/>
-<stat name="EVADE" value="34300"/>
-</stats>
-</relic>
-<relic id="1879270087" name="Bridle Riddermark Rune of Protection" type="RUNE" bridle="true" level="85" icon="1091751488-1091751290.png">
-<stats>
-<stat name="BLOCK" value="34300"/>
-<stat name="PARRY" value="34300"/>
-<stat name="EVADE" value="34300"/>
-</stats>
-</relic>
 <relic id="1879244620" name="Bridle Riddermark Rune of Tenacity" type="RUNE" bridle="true" level="85" icon="1091751471-1091751290.png">
-<stats>
-<stat name="RESISTANCE" value="65500"/>
-<stat name="BLOCK" value="34300"/>
-<stat name="PARRY" value="34300"/>
-<stat name="EVADE" value="34300"/>
-<stat name="PHYSICAL_MITIGATION" value="51500"/>
-<stat name="TACTICAL_MITIGATION" value="51500"/>
-</stats>
-</relic>
-<relic id="1879253793" name="Bridle Riddermark Rune of Tenacity" type="RUNE" bridle="true" level="85" icon="1091751471-1091751290.png">
-<stats>
-<stat name="RESISTANCE" value="65500"/>
-<stat name="BLOCK" value="34300"/>
-<stat name="PARRY" value="34300"/>
-<stat name="EVADE" value="34300"/>
-<stat name="PHYSICAL_MITIGATION" value="51500"/>
-<stat name="TACTICAL_MITIGATION" value="51500"/>
-</stats>
-</relic>
-<relic id="1879270080" name="Bridle Riddermark Rune of Tenacity" type="RUNE" bridle="true" level="85" icon="1091751471-1091751290.png">
 <stats>
 <stat name="RESISTANCE" value="65500"/>
 <stat name="BLOCK" value="34300"/>
@@ -2975,33 +2610,7 @@
 <stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
 </relic>
-<relic id="1879253786" name="Bridle Setting of Aggression" type="SETTING" bridle="true" level="75" icon="1091751452-1091751291.png">
-<stats>
-<stat name="PHYSICAL_MASTERY" value="60600"/>
-<stat name="TACTICAL_MASTERY" value="60600"/>
-<stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
-</stats>
-</relic>
-<relic id="1879254185" name="Bridle Setting of Aggression" type="SETTING" bridle="true" level="75" icon="1091751452-1091751291.png">
-<stats>
-<stat name="PHYSICAL_MASTERY" value="60600"/>
-<stat name="TACTICAL_MASTERY" value="60600"/>
-<stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
-</stats>
-</relic>
 <relic id="1879244591" name="Bridle Setting of Clout" type="SETTING" bridle="true" level="75" icon="1091751462-1091751291.png">
-<stats>
-<stat name="PHYSICAL_MASTERY" value="60600"/>
-<stat name="TACTICAL_MASTERY" value="60600"/>
-</stats>
-</relic>
-<relic id="1879253784" name="Bridle Setting of Clout" type="SETTING" bridle="true" level="75" icon="1091751462-1091751291.png">
-<stats>
-<stat name="PHYSICAL_MASTERY" value="60600"/>
-<stat name="TACTICAL_MASTERY" value="60600"/>
-</stats>
-</relic>
-<relic id="1879254184" name="Bridle Setting of Clout" type="SETTING" bridle="true" level="75" icon="1091751462-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="60600"/>
 <stat name="TACTICAL_MASTERY" value="60600"/>
@@ -3022,44 +2631,12 @@
 <stat name="TACTICAL_MASTERY" value="60600"/>
 </stats>
 </relic>
-<relic id="1879253785" name="Bridle Setting of Savvy" type="SETTING" bridle="true" level="75" icon="1091751540-1091751291.png">
-<stats>
-<stat name="PHYSICAL_MASTERY" value="60600"/>
-<stat name="TACTICAL_MASTERY" value="60600"/>
-</stats>
-</relic>
-<relic id="1879254183" name="Bridle Setting of Savvy" type="SETTING" bridle="true" level="75" icon="1091751540-1091751291.png">
-<stats>
-<stat name="PHYSICAL_MASTERY" value="60600"/>
-<stat name="TACTICAL_MASTERY" value="60600"/>
-</stats>
-</relic>
 <relic id="1879244615" name="Bridle Gem of Acumen" type="GEM" bridle="true" level="75" icon="1091751468-1091751289.png">
 <stats>
 <stat name="CRITICAL_RATING" value="121200"/>
 </stats>
 </relic>
-<relic id="1879253791" name="Bridle Gem of Acumen" type="GEM" bridle="true" level="75" icon="1091751468-1091751289.png">
-<stats>
-<stat name="CRITICAL_RATING" value="121200"/>
-</stats>
-</relic>
-<relic id="1879254180" name="Bridle Gem of Acumen" type="GEM" bridle="true" level="75" icon="1091751468-1091751289.png">
-<stats>
-<stat name="CRITICAL_RATING" value="121200"/>
-</stats>
-</relic>
 <relic id="1879244604" name="Bridle Gem of Alacrity" type="GEM" bridle="true" level="75" icon="1091751569-1091751289.png">
-<stats>
-<stat name="CRITICAL_RATING" value="121200"/>
-</stats>
-</relic>
-<relic id="1879253788" name="Bridle Gem of Alacrity" type="GEM" bridle="true" level="75" icon="1091751569-1091751289.png">
-<stats>
-<stat name="CRITICAL_RATING" value="121200"/>
-</stats>
-</relic>
-<relic id="1879254187" name="Bridle Gem of Alacrity" type="GEM" bridle="true" level="75" icon="1091751569-1091751289.png">
 <stats>
 <stat name="CRITICAL_RATING" value="121200"/>
 </stats>
@@ -3071,16 +2648,6 @@
 <stats/>
 </relic>
 <relic id="1879244590" name="Bridle Gem of Haste" type="GEM" bridle="true" level="75" icon="1091751492-1091751289.png">
-<stats>
-<stat name="CRITICAL_RATING" value="121200"/>
-</stats>
-</relic>
-<relic id="1879253789" name="Bridle Gem of Haste" type="GEM" bridle="true" level="75" icon="1091751492-1091751289.png">
-<stats>
-<stat name="CRITICAL_RATING" value="121200"/>
-</stats>
-</relic>
-<relic id="1879254186" name="Bridle Gem of Haste" type="GEM" bridle="true" level="75" icon="1091751492-1091751289.png">
 <stats>
 <stat name="CRITICAL_RATING" value="121200"/>
 </stats>
@@ -3104,20 +2671,6 @@
 <stat name="EVADE" value="30300"/>
 </stats>
 </relic>
-<relic id="1879253782" name="Bridle Rune of Perseverance" type="RUNE" bridle="true" level="75" icon="1091751548-1091751290.png">
-<stats>
-<stat name="BLOCK" value="30300"/>
-<stat name="PARRY" value="30300"/>
-<stat name="EVADE" value="30300"/>
-</stats>
-</relic>
-<relic id="1879254179" name="Bridle Rune of Perseverance" type="RUNE" bridle="true" level="75" icon="1091751548-1091751290.png">
-<stats>
-<stat name="BLOCK" value="30300"/>
-<stat name="PARRY" value="30300"/>
-<stat name="EVADE" value="30300"/>
-</stats>
-</relic>
 <relic id="1879244612" name="Bridle Rune of Protection" type="RUNE" bridle="true" level="75" icon="1091751476-1091751290.png">
 <stats>
 <stat name="BLOCK" value="30300"/>
@@ -3125,41 +2678,7 @@
 <stat name="EVADE" value="30300"/>
 </stats>
 </relic>
-<relic id="1879253781" name="Bridle Rune of Protection" type="RUNE" bridle="true" level="75" icon="1091751476-1091751290.png">
-<stats>
-<stat name="BLOCK" value="30300"/>
-<stat name="PARRY" value="30300"/>
-<stat name="EVADE" value="30300"/>
-</stats>
-</relic>
-<relic id="1879254181" name="Bridle Rune of Protection" type="RUNE" bridle="true" level="75" icon="1091751476-1091751290.png">
-<stats>
-<stat name="BLOCK" value="30300"/>
-<stat name="PARRY" value="30300"/>
-<stat name="EVADE" value="30300"/>
-</stats>
-</relic>
 <relic id="1879244619" name="Bridle Rune of Tenacity" type="RUNE" bridle="true" level="75" icon="1091751456-1091751290.png">
-<stats>
-<stat name="RESISTANCE" value="54700"/>
-<stat name="BLOCK" value="30300"/>
-<stat name="PARRY" value="30300"/>
-<stat name="EVADE" value="30300"/>
-<stat name="PHYSICAL_MITIGATION" value="45500"/>
-<stat name="TACTICAL_MITIGATION" value="45500"/>
-</stats>
-</relic>
-<relic id="1879253783" name="Bridle Rune of Tenacity" type="RUNE" bridle="true" level="75" icon="1091751456-1091751290.png">
-<stats>
-<stat name="RESISTANCE" value="54700"/>
-<stat name="BLOCK" value="30300"/>
-<stat name="PARRY" value="30300"/>
-<stat name="EVADE" value="30300"/>
-<stat name="PHYSICAL_MITIGATION" value="45500"/>
-<stat name="TACTICAL_MITIGATION" value="45500"/>
-</stats>
-</relic>
-<relic id="1879254182" name="Bridle Rune of Tenacity" type="RUNE" bridle="true" level="75" icon="1091751456-1091751290.png">
 <stats>
 <stat name="RESISTANCE" value="54700"/>
 <stat name="BLOCK" value="30300"/>
