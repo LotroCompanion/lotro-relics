@@ -312,6 +312,53 @@
 </stats>
 </relic>
 </category>
+<category name="Dwarf-holds">
+<relic id="1879384149" name="Greater Winterstith Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="676700"/>
+</stats>
+</relic>
+<relic id="1879384145" name="Greater Winterstith Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="676700"/>
+</stats>
+</relic>
+<relic id="1879384141" name="Greater Winterstith Rune of Striking" type="RUNE" icon="1091785148-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="676700"/>
+</stats>
+</relic>
+<relic id="1879384139" name="Rare Mithrin Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="460300"/>
+</stats>
+</relic>
+<relic id="1879384137" name="Rare Mithrin Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="460300"/>
+</stats>
+</relic>
+<relic id="1879384148" name="Rare Mithrin Rune of Striking" type="RUNE" icon="1091785148-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="460300"/>
+</stats>
+</relic>
+<relic id="1879384151" name="Winterstith Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="507500"/>
+</stats>
+</relic>
+<relic id="1879384147" name="Winterstith Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="507500"/>
+</stats>
+</relic>
+<relic id="1879384143" name="Winterstith Rune of Striking" type="RUNE" icon="1091785148-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="507500"/>
+</stats>
+</relic>
+</category>
 <category name="Eastemnet">
 <relic id="1879250002" name="Eastemnet Setting of Beginnings" type="SETTING" level="80" icon="1091664884-1091636663.png">
 <stats>
