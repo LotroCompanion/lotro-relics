@@ -2,313 +2,394 @@
 <category name="Crafted">
 <relic id="1879249605" name="Eastemnet Device of Accuracy" type="CRAFTED_RELIC" level="85" icon="1091751615-1091526102.png">
 <stats>
-<stat name="AGILITY" value="3000"/>
-<stat name="CRITICAL_RATING" value="64000"/>
-<stat name="PHYSICAL_MASTERY" value="64000"/>
+<stat name="AGILITY" value="9900"/>
+<stat name="CRITICAL_RATING" value="81500"/>
+<stat name="PHYSICAL_MASTERY" value="110200"/>
 </stats>
 </relic>
 <relic id="1879249608" name="Eastemnet Device of Agility" type="CRAFTED_RELIC" level="80" icon="1091751752-1091526101.png">
 <stats>
-<stat name="AGILITY" value="4000"/>
+<stat name="AGILITY" value="9100"/>
 </stats>
 </relic>
 <relic id="1879249609" name="Eastemnet Device of Battle" type="CRAFTED_RELIC" level="85" icon="1091751616-1091526102.png">
 <stats>
-<stat name="MIGHT" value="3000"/>
-<stat name="CRITICAL_RATING" value="64000"/>
-<stat name="PHYSICAL_MASTERY" value="64000"/>
+<stat name="MIGHT" value="9900"/>
+<stat name="CRITICAL_RATING" value="81500"/>
+<stat name="PHYSICAL_MASTERY" value="110200"/>
 </stats>
 </relic>
 <relic id="1879249602" name="Eastemnet Device of Fate" type="CRAFTED_RELIC" level="80" icon="1091751755-1091526101.png">
 <stats>
-<stat name="FATE" value="4000"/>
+<stat name="FATE" value="9100"/>
 </stats>
 </relic>
 <relic id="1879249607" name="Eastemnet Device of Insight" type="CRAFTED_RELIC" level="85" icon="1091751613-1091526102.png">
 <stats>
-<stat name="FATE" value="3000"/>
-<stat name="CRITICAL_RATING" value="64000"/>
-<stat name="TACTICAL_MASTERY" value="64000"/>
+<stat name="FATE" value="9900"/>
+<stat name="CRITICAL_RATING" value="81500"/>
+<stat name="TACTICAL_MASTERY" value="110200"/>
 </stats>
 </relic>
 <relic id="1879249604" name="Eastemnet Device of Might" type="CRAFTED_RELIC" level="80" icon="1091751743-1091526101.png">
 <stats>
-<stat name="MIGHT" value="4000"/>
+<stat name="MIGHT" value="9100"/>
 </stats>
 </relic>
 <relic id="1879249601" name="Eastemnet Device of Morale" type="CRAFTED_RELIC" level="80" icon="1091751746-1091526101.png">
 <stats>
-<stat name="MORALE" value="20000"/>
+<stat name="MORALE" value="36500"/>
 </stats>
 </relic>
 <relic id="1879278155" name="Eastemnet Device of Potency" type="CRAFTED_RELIC" level="85" icon="1091765152-1091526102.png">
 <stats>
-<stat name="FATE" value="3000"/>
-<stat name="CRITICAL_RATING" value="64000"/>
-<stat name="PHYSICAL_MASTERY" value="64000"/>
+<stat name="FATE" value="9900"/>
+<stat name="CRITICAL_RATING" value="81500"/>
+<stat name="PHYSICAL_MASTERY" value="110200"/>
 </stats>
 </relic>
 <relic id="1879249603" name="Eastemnet Device of Power" type="CRAFTED_RELIC" level="80" icon="1091751753-1091526101.png">
 <stats>
-<stat name="POWER" value="20000"/>
+<stat name="POWER" value="9100"/>
 </stats>
 </relic>
 <relic id="1879249606" name="Eastemnet Device of Protection" type="CRAFTED_RELIC" level="85" icon="1091765152-1091526102.png">
 <stats>
-<stat name="CRITICAL_DEFENCE" value="32000"/>
-<stat name="PHYSICAL_MITIGATION" value="64000"/>
-<stat name="TACTICAL_MITIGATION" value="64000"/>
+<stat name="CRITICAL_DEFENCE" value="95900"/>
+<stat name="PHYSICAL_MITIGATION" value="80300"/>
+<stat name="TACTICAL_MITIGATION" value="80300"/>
 </stats>
 </relic>
 <relic id="1879249610" name="Eastemnet Device of Tactics" type="CRAFTED_RELIC" level="85" icon="1091751611-1091526102.png">
 <stats>
-<stat name="WILL" value="3000"/>
-<stat name="CRITICAL_RATING" value="64000"/>
-<stat name="TACTICAL_MASTERY" value="64000"/>
+<stat name="WILL" value="9900"/>
+<stat name="CRITICAL_RATING" value="81500"/>
+<stat name="TACTICAL_MASTERY" value="110200"/>
 </stats>
 </relic>
 <relic id="1879249600" name="Eastemnet Device of Vitality" type="CRAFTED_RELIC" level="80" icon="1091751750-1091526101.png">
 <stats>
-<stat name="VITALITY" value="4000"/>
+<stat name="VITALITY" value="11100"/>
 </stats>
 </relic>
 <relic id="1879249599" name="Eastemnet Device of Will" type="CRAFTED_RELIC" level="80" icon="1091751744-1091526101.png">
 <stats>
-<stat name="WILL" value="4000"/>
+<stat name="WILL" value="9100"/>
 </stats>
 </relic>
 <relic id="1879166118" name="Minor Symbol of Agility" type="CRAFTED_RELIC" icon="1091572883-1091526103.png">
 <stats>
-<stat name="AGILITY" value="1000"/>
+<stat name="AGILITY" value="100"/>
 </stats>
 </relic>
 <relic id="1879166120" name="Minor Symbol of Fate" type="CRAFTED_RELIC" icon="1091572870-1091526103.png">
 <stats>
-<stat name="FATE" value="1000"/>
+<stat name="FATE" value="100"/>
 </stats>
 </relic>
 <relic id="1879166113" name="Minor Symbol of Might" type="CRAFTED_RELIC" icon="1091572852-1091526103.png">
 <stats>
-<stat name="MIGHT" value="1000"/>
+<stat name="MIGHT" value="100"/>
 </stats>
 </relic>
 <relic id="1879166129" name="Minor Symbol of Morale" type="CRAFTED_RELIC" icon="1091572877-1091526103.png">
 <stats>
-<stat name="MORALE" value="5000"/>
+<stat name="MORALE" value="400"/>
 </stats>
 </relic>
 <relic id="1879166159" name="Minor Symbol of Power" type="CRAFTED_RELIC" icon="1091572886-1091526103.png">
 <stats>
-<stat name="POWER" value="5000"/>
+<stat name="POWER" value="100"/>
 </stats>
 </relic>
 <relic id="1879166124" name="Minor Symbol of Vitality" type="CRAFTED_RELIC" icon="1091572881-1091526103.png">
 <stats>
-<stat name="VITALITY" value="1000"/>
+<stat name="VITALITY" value="100"/>
 </stats>
 </relic>
 <relic id="1879166161" name="Minor Symbol of Will" type="CRAFTED_RELIC" icon="1091572898-1091526103.png">
 <stats>
-<stat name="WILL" value="1000"/>
+<stat name="WILL" value="100"/>
 </stats>
 </relic>
 <relic id="1879166122" name="Symbol of Accuracy" type="CRAFTED_RELIC" level="65" icon="1091572876-1091526102.png">
 <stats>
-<stat name="CRITICAL_RATING" value="39000"/>
-<stat name="PHYSICAL_MASTERY" value="39000"/>
+<stat name="AGILITY" value="6400"/>
+<stat name="CRITICAL_RATING" value="52700"/>
+<stat name="PHYSICAL_MASTERY" value="71200"/>
 </stats>
 </relic>
 <relic id="1879166093" name="Symbol of Agility" type="CRAFTED_RELIC" level="61" icon="1091572872-1091526101.png">
 <stats>
-<stat name="AGILITY" value="2000"/>
+<stat name="AGILITY" value="6000"/>
 </stats>
 </relic>
 <relic id="1879166158" name="Symbol of Battle" type="CRAFTED_RELIC" level="65" icon="1091572851-1091526102.png">
 <stats>
-<stat name="CRITICAL_RATING" value="39000"/>
-<stat name="PHYSICAL_MASTERY" value="39000"/>
+<stat name="MIGHT" value="6400"/>
+<stat name="CRITICAL_RATING" value="52700"/>
+<stat name="PHYSICAL_MASTERY" value="71200"/>
 </stats>
 </relic>
 <relic id="1879166126" name="Symbol of Fate" type="CRAFTED_RELIC" level="61" icon="1091572871-1091526101.png">
 <stats>
-<stat name="FATE" value="2000"/>
+<stat name="FATE" value="6000"/>
 </stats>
 </relic>
 <relic id="1879167155" name="Symbol of Insight" type="CRAFTED_RELIC" level="65" icon="1091573437-1091526102.png">
 <stats>
-<stat name="CRITICAL_RATING" value="39000"/>
-<stat name="TACTICAL_MASTERY" value="39000"/>
+<stat name="FATE" value="6400"/>
+<stat name="CRITICAL_RATING" value="52700"/>
+<stat name="TACTICAL_MASTERY" value="71200"/>
 </stats>
 </relic>
 <relic id="1879166137" name="Symbol of Might" type="CRAFTED_RELIC" level="61" icon="1091572894-1091526101.png">
 <stats>
-<stat name="MIGHT" value="2000"/>
+<stat name="MIGHT" value="6000"/>
 </stats>
 </relic>
 <relic id="1879166133" name="Symbol of Morale" type="CRAFTED_RELIC" level="61" icon="1091572867-1091526101.png">
 <stats>
-<stat name="MORALE" value="10000"/>
+<stat name="MORALE" value="25000"/>
 </stats>
 </relic>
 <relic id="1879166087" name="Symbol of Power" type="CRAFTED_RELIC" level="61" icon="1091572869-1091526101.png">
 <stats>
-<stat name="POWER" value="10000"/>
+<stat name="POWER" value="6100"/>
 </stats>
 </relic>
 <relic id="1879166149" name="Symbol of Tactics" type="CRAFTED_RELIC" level="65" icon="1091572888-1091526102.png">
 <stats>
-<stat name="CRITICAL_RATING" value="39000"/>
-<stat name="TACTICAL_MASTERY" value="39000"/>
+<stat name="WILL" value="6400"/>
+<stat name="CRITICAL_RATING" value="52700"/>
+<stat name="TACTICAL_MASTERY" value="71200"/>
 </stats>
 </relic>
 <relic id="1879166144" name="Symbol of Vitality" type="CRAFTED_RELIC" level="61" icon="1091572863-1091526101.png">
 <stats>
-<stat name="VITALITY" value="2000"/>
+<stat name="VITALITY" value="6600"/>
 </stats>
 </relic>
 <relic id="1879166110" name="Symbol of Will" type="CRAFTED_RELIC" level="61" icon="1091572849-1091526101.png">
 <stats>
-<stat name="WILL" value="2000"/>
+<stat name="WILL" value="6000"/>
+</stats>
+</relic>
+<relic id="1879386404" name="Vales Device of Accuracy" type="CRAFTED_RELIC" level="100" icon="1091812631-1091526102.png">
+<stats>
+<stat name="AGILITY" value="97100"/>
+<stat name="CRITICAL_RATING" value="924600"/>
+<stat name="PHYSICAL_MASTERY" value="1248200"/>
+</stats>
+</relic>
+<relic id="1879386412" name="Vales Device of Agility" type="CRAFTED_RELIC" level="100" icon="1091812652-1091526101.png">
+<stats>
+<stat name="AGILITY" value="97100"/>
+</stats>
+</relic>
+<relic id="1879386407" name="Vales Device of Battle" type="CRAFTED_RELIC" level="100" icon="1091812633-1091526102.png">
+<stats>
+<stat name="MIGHT" value="97100"/>
+<stat name="CRITICAL_RATING" value="924600"/>
+<stat name="PHYSICAL_MASTERY" value="1248200"/>
+</stats>
+</relic>
+<relic id="1879386413" name="Vales Device of Fate" type="CRAFTED_RELIC" level="100" icon="1091812654-1091526101.png">
+<stats>
+<stat name="FATE" value="97100"/>
+</stats>
+</relic>
+<relic id="1879386401" name="Vales Device of Insight" type="CRAFTED_RELIC" level="100" icon="1091812639-1091526102.png">
+<stats>
+<stat name="FATE" value="97100"/>
+<stat name="CRITICAL_RATING" value="924600"/>
+<stat name="TACTICAL_MASTERY" value="1248200"/>
+</stats>
+</relic>
+<relic id="1879386409" name="Vales Device of Might" type="CRAFTED_RELIC" level="100" icon="1091812656-1091526101.png">
+<stats>
+<stat name="MIGHT" value="97100"/>
+</stats>
+</relic>
+<relic id="1879386419" name="Vales Device of Morale" type="CRAFTED_RELIC" level="100" icon="1091812645-1091526101.png">
+<stats>
+<stat name="MORALE" value="310000"/>
+</stats>
+</relic>
+<relic id="1879386405" name="Vales Device of Potency" type="CRAFTED_RELIC" level="100" icon="1091812637-1091526102.png">
+<stats>
+<stat name="FATE" value="97100"/>
+<stat name="CRITICAL_RATING" value="924600"/>
+<stat name="PHYSICAL_MASTERY" value="1248200"/>
+</stats>
+</relic>
+<relic id="1879386410" name="Vales Device of Power" type="CRAFTED_RELIC" level="100" icon="1091812649-1091526101.png">
+<stats>
+<stat name="POWER" value="77500"/>
+</stats>
+</relic>
+<relic id="1879386422" name="Vales Device of Protection" type="CRAFTED_RELIC" level="100" icon="1091812637-1091526102.png">
+<stats>
+<stat name="CRITICAL_DEFENCE" value="1087700"/>
+<stat name="PHYSICAL_MITIGATION" value="911200"/>
+<stat name="TACTICAL_MITIGATION" value="911200"/>
+</stats>
+</relic>
+<relic id="1879386402" name="Vales Device of Tactics" type="CRAFTED_RELIC" level="100" icon="1091812635-1091526102.png">
+<stats>
+<stat name="WILL" value="97100"/>
+<stat name="CRITICAL_RATING" value="924600"/>
+<stat name="TACTICAL_MASTERY" value="1248200"/>
+</stats>
+</relic>
+<relic id="1879386406" name="Vales Device of Vitality" type="CRAFTED_RELIC" level="100" icon="1091812650-1091526101.png">
+<stats>
+<stat name="VITALITY" value="96800"/>
+</stats>
+</relic>
+<relic id="1879386415" name="Vales Device of Will" type="CRAFTED_RELIC" level="100" icon="1091812643-1091526101.png">
+<stats>
+<stat name="WILL" value="97100"/>
 </stats>
 </relic>
 <relic id="1879278153" name="Westemnet Device of Accuracy" type="CRAFTED_RELIC" level="95" icon="1091812631-1091526102.png">
 <stats>
-<stat name="AGILITY" value="4000"/>
-<stat name="CRITICAL_RATING" value="74000"/>
-<stat name="PHYSICAL_MASTERY" value="74000"/>
+<stat name="AGILITY" value="13700"/>
+<stat name="CRITICAL_RATING" value="112300"/>
+<stat name="PHYSICAL_MASTERY" value="151600"/>
 </stats>
 </relic>
 <relic id="1879278149" name="Westemnet Device of Agility" type="CRAFTED_RELIC" level="90" icon="1091812652-1091526101.png">
 <stats>
-<stat name="AGILITY" value="5000"/>
+<stat name="AGILITY" value="12600"/>
 </stats>
 </relic>
 <relic id="1879278161" name="Westemnet Device of Battle" type="CRAFTED_RELIC" level="95" icon="1091812633-1091526102.png">
 <stats>
-<stat name="MIGHT" value="4000"/>
-<stat name="CRITICAL_RATING" value="74000"/>
-<stat name="PHYSICAL_MASTERY" value="74000"/>
+<stat name="MIGHT" value="13700"/>
+<stat name="CRITICAL_RATING" value="112300"/>
+<stat name="PHYSICAL_MASTERY" value="151600"/>
 </stats>
 </relic>
 <relic id="1879278160" name="Westemnet Device of Fate" type="CRAFTED_RELIC" level="90" icon="1091812654-1091526101.png">
 <stats>
-<stat name="FATE" value="5000"/>
+<stat name="FATE" value="12600"/>
 </stats>
 </relic>
 <relic id="1879278157" name="Westemnet Device of Insight" type="CRAFTED_RELIC" level="95" icon="1091812639-1091526102.png">
 <stats>
-<stat name="FATE" value="4000"/>
-<stat name="CRITICAL_RATING" value="74000"/>
-<stat name="TACTICAL_MASTERY" value="74000"/>
+<stat name="FATE" value="13700"/>
+<stat name="CRITICAL_RATING" value="112300"/>
+<stat name="TACTICAL_MASTERY" value="151600"/>
 </stats>
 </relic>
 <relic id="1879278158" name="Westemnet Device of Might" type="CRAFTED_RELIC" level="90" icon="1091812656-1091526101.png">
 <stats>
-<stat name="MIGHT" value="5000"/>
+<stat name="MIGHT" value="12600"/>
 </stats>
 </relic>
 <relic id="1879278159" name="Westemnet Device of Morale" type="CRAFTED_RELIC" level="90" icon="1091812645-1091526101.png">
 <stats>
-<stat name="MORALE" value="25000"/>
+<stat name="MORALE" value="50500"/>
 </stats>
 </relic>
 <relic id="1879278150" name="Westemnet Device of Potency" type="CRAFTED_RELIC" level="95" icon="1091812637-1091526102.png">
 <stats>
-<stat name="FATE" value="4000"/>
-<stat name="CRITICAL_RATING" value="74000"/>
-<stat name="PHYSICAL_MASTERY" value="74000"/>
+<stat name="FATE" value="13700"/>
+<stat name="CRITICAL_RATING" value="112300"/>
+<stat name="PHYSICAL_MASTERY" value="151600"/>
 </stats>
 </relic>
 <relic id="1879278151" name="Westemnet Device of Power" type="CRAFTED_RELIC" level="90" icon="1091812649-1091526101.png">
 <stats>
-<stat name="POWER" value="25000"/>
+<stat name="POWER" value="12600"/>
 </stats>
 </relic>
 <relic id="1879278154" name="Westemnet Device of Protection" type="CRAFTED_RELIC" level="95" icon="1091812637-1091526102.png">
 <stats>
-<stat name="CRITICAL_DEFENCE" value="37000"/>
-<stat name="PHYSICAL_MITIGATION" value="74000"/>
-<stat name="TACTICAL_MITIGATION" value="74000"/>
+<stat name="CRITICAL_DEFENCE" value="132100"/>
+<stat name="PHYSICAL_MITIGATION" value="110700"/>
+<stat name="TACTICAL_MITIGATION" value="110700"/>
 </stats>
 </relic>
 <relic id="1879278152" name="Westemnet Device of Tactics" type="CRAFTED_RELIC" level="95" icon="1091812635-1091526102.png">
 <stats>
-<stat name="WILL" value="4000"/>
-<stat name="CRITICAL_RATING" value="74000"/>
-<stat name="TACTICAL_MASTERY" value="74000"/>
+<stat name="WILL" value="13700"/>
+<stat name="CRITICAL_RATING" value="112300"/>
+<stat name="TACTICAL_MASTERY" value="151600"/>
 </stats>
 </relic>
 <relic id="1879278162" name="Westemnet Device of Vitality" type="CRAFTED_RELIC" level="90" icon="1091812650-1091526101.png">
 <stats>
-<stat name="VITALITY" value="5000"/>
+<stat name="VITALITY" value="15600"/>
 </stats>
 </relic>
 <relic id="1879278156" name="Westemnet Device of Will" type="CRAFTED_RELIC" level="90" icon="1091812643-1091526101.png">
 <stats>
-<stat name="WILL" value="5000"/>
+<stat name="WILL" value="12600"/>
 </stats>
 </relic>
 <relic id="1879229897" name="Westfold Device of Accuracy" type="CRAFTED_RELIC" level="75" icon="1091696284-1091526102.png">
 <stats>
-<stat name="AGILITY" value="2000"/>
-<stat name="CRITICAL_RATING" value="54000"/>
-<stat name="PHYSICAL_MASTERY" value="54000"/>
+<stat name="AGILITY" value="8200"/>
+<stat name="CRITICAL_RATING" value="67800"/>
+<stat name="PHYSICAL_MASTERY" value="91600"/>
 </stats>
 </relic>
 <relic id="1879229895" name="Westfold Device of Agility" type="CRAFTED_RELIC" level="70" icon="1091696316-1091526101.png">
 <stats>
-<stat name="AGILITY" value="3000"/>
+<stat name="AGILITY" value="6900"/>
 </stats>
 </relic>
 <relic id="1879229896" name="Westfold Device of Battle" type="CRAFTED_RELIC" level="75" icon="1091696282-1091526102.png">
 <stats>
-<stat name="MIGHT" value="2000"/>
-<stat name="CRITICAL_RATING" value="54000"/>
-<stat name="PHYSICAL_MASTERY" value="54000"/>
+<stat name="MIGHT" value="8200"/>
+<stat name="CRITICAL_RATING" value="67800"/>
+<stat name="PHYSICAL_MASTERY" value="91600"/>
 </stats>
 </relic>
 <relic id="1879229891" name="Westfold Device of Fate" type="CRAFTED_RELIC" level="70" icon="1091696308-1091526101.png">
 <stats>
-<stat name="FATE" value="3000"/>
+<stat name="FATE" value="6900"/>
 </stats>
 </relic>
 <relic id="1879229899" name="Westfold Device of Insight" type="CRAFTED_RELIC" level="75" icon="1091696288-1091526102.png">
 <stats>
-<stat name="FATE" value="2000"/>
-<stat name="CRITICAL_RATING" value="54000"/>
-<stat name="TACTICAL_MASTERY" value="54000"/>
+<stat name="FATE" value="8200"/>
+<stat name="CRITICAL_RATING" value="67800"/>
+<stat name="TACTICAL_MASTERY" value="91600"/>
 </stats>
 </relic>
 <relic id="1879229887" name="Westfold Device of Might" type="CRAFTED_RELIC" level="70" icon="1091696300-1091526101.png">
 <stats>
-<stat name="MIGHT" value="3000"/>
+<stat name="MIGHT" value="6900"/>
 </stats>
 </relic>
 <relic id="1879229883" name="Westfold Device of Morale" type="CRAFTED_RELIC" level="70" icon="1091696292-1091526101.png">
 <stats>
-<stat name="MORALE" value="15000"/>
+<stat name="MORALE" value="29400"/>
 </stats>
 </relic>
 <relic id="1879229889" name="Westfold Device of Power" type="CRAFTED_RELIC" level="70" icon="1091696304-1091526101.png">
 <stats>
-<stat name="POWER" value="15000"/>
+<stat name="POWER" value="6900"/>
 </stats>
 </relic>
 <relic id="1879229898" name="Westfold Device of Tactics" type="CRAFTED_RELIC" level="75" icon="1091696286-1091526102.png">
 <stats>
-<stat name="WILL" value="2000"/>
-<stat name="CRITICAL_RATING" value="54000"/>
-<stat name="TACTICAL_MASTERY" value="54000"/>
+<stat name="WILL" value="8200"/>
+<stat name="CRITICAL_RATING" value="67800"/>
+<stat name="TACTICAL_MASTERY" value="91600"/>
 </stats>
 </relic>
 <relic id="1879229893" name="Westfold Device of Vitality" type="CRAFTED_RELIC" level="70" icon="1091696312-1091526101.png">
 <stats>
-<stat name="VITALITY" value="3000"/>
+<stat name="VITALITY" value="8500"/>
 </stats>
 </relic>
 <relic id="1879229885" name="Westfold Device of Will" type="CRAFTED_RELIC" level="70" icon="1091696296-1091526101.png">
 <stats>
-<stat name="WILL" value="3000"/>
+<stat name="WILL" value="6900"/>
 </stats>
 </relic>
 </category>
@@ -2733,6 +2814,78 @@
 <stat name="EVADE" value="30300"/>
 <stat name="PHYSICAL_MITIGATION" value="45500"/>
 <stat name="TACTICAL_MITIGATION" value="45500"/>
+</stats>
+</relic>
+</category>
+<category name="Vales of Anduin">
+<relic id="1879388188" name="Grand Vales Setting of Brutality" type="SETTING" icon="1091785114-1091636663.png">
+<stats>
+<stat name="CRITICAL_RATING" value="924600"/>
+<stat name="PARRY" value="652600"/>
+<stat name="EVADE" value="435100"/>
+</stats>
+</relic>
+<relic id="1879388194" name="Grand Vales Setting of Defence" type="SETTING" icon="1091785119-1091636663.png">
+<stats>
+<stat name="BLOCK" value="1087700"/>
+<stat name="PARRY" value="1087700"/>
+</stats>
+</relic>
+<relic id="1879388192" name="Grand Vales Setting of Finesse" type="SETTING" icon="1091785122-1091636663.png">
+<stats>
+<stat name="FINESSE" value="924600"/>
+<stat name="EVADE" value="1087700"/>
+</stats>
+</relic>
+<relic id="1879388204" name="Grand Vales Setting of Resistance" type="SETTING" icon="1091785115-1091636663.png">
+<stats>
+<stat name="RESISTANCE" value="1087700"/>
+<stat name="TACTICAL_MITIGATION" value="911200"/>
+</stats>
+</relic>
+<relic id="1879388202" name="Grand Vales Gem of Agility" type="GEM" icon="1091759285-1091636664.png">
+<stats>
+<stat name="AGILITY" value="97100"/>
+<stat name="CRITICAL_DEFENCE" value="1087700"/>
+</stats>
+</relic>
+<relic id="1879388197" name="Grand Vales Gem of Fate" type="GEM" icon="1091759287-1091636664.png">
+<stats>
+<stat name="FATE" value="97100"/>
+<stat name="CRITICAL_DEFENCE" value="1087700"/>
+</stats>
+</relic>
+<relic id="1879388196" name="Grand Vales Gem of Might" type="GEM" icon="1091759288-1091636664.png">
+<stats>
+<stat name="MIGHT" value="97100"/>
+<stat name="CRITICAL_DEFENCE" value="1087700"/>
+</stats>
+</relic>
+<relic id="1879388195" name="Grand Vales Gem of Vitality" type="GEM" icon="1091759287-1091636664.png">
+<stats>
+<stat name="VITALITY" value="96800"/>
+<stat name="CRITICAL_DEFENCE" value="1087700"/>
+</stats>
+</relic>
+<relic id="1879388187" name="Grand Vales Gem of Will" type="GEM" icon="1091759287-1091636664.png">
+<stats>
+<stat name="WILL" value="97100"/>
+<stat name="CRITICAL_DEFENCE" value="1087700"/>
+</stats>
+</relic>
+<relic id="1879388191" name="Vales Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="507500"/>
+</stats>
+</relic>
+<relic id="1879388203" name="Vales Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="507500"/>
+</stats>
+</relic>
+<relic id="1879388198" name="Vales Rune of Striking" type="RUNE" icon="1091785148-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="507500"/>
 </stats>
 </relic>
 </category>
