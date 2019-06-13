@@ -2873,6 +2873,21 @@
 <stat name="CRITICAL_DEFENCE" value="1087700"/>
 </stats>
 </relic>
+<relic id="1879388189" name="Grand Vales Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="739600"/>
+</stats>
+</relic>
+<relic id="1879388200" name="Grand Vales Rune of Enchantment" type="RUNE" icon="1091785154-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="739600"/>
+</stats>
+</relic>
+<relic id="1879388193" name="Grand Vales Rune of Striking" type="RUNE" icon="1091785148-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="739600"/>
+</stats>
+</relic>
 <relic id="1879388191" name="Vales Rune of Binding" type="RUNE" icon="1091785155-1091636662.png">
 <stats>
 <stat name="CRITICAL_RATING" value="507500"/>
