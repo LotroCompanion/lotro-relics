@@ -79,37 +79,37 @@
 </relic>
 <relic id="1879166118" name="Minor Symbol of Agility" type="CRAFTED_RELIC" icon="1091572883-1091526103.png">
 <stats>
-<stat name="AGILITY" value="100"/>
+<stat name="AGILITY" value="5200"/>
 </stats>
 </relic>
 <relic id="1879166120" name="Minor Symbol of Fate" type="CRAFTED_RELIC" icon="1091572870-1091526103.png">
 <stats>
-<stat name="FATE" value="100"/>
+<stat name="FATE" value="5200"/>
 </stats>
 </relic>
 <relic id="1879166113" name="Minor Symbol of Might" type="CRAFTED_RELIC" icon="1091572852-1091526103.png">
 <stats>
-<stat name="MIGHT" value="100"/>
+<stat name="MIGHT" value="5200"/>
 </stats>
 </relic>
 <relic id="1879166129" name="Minor Symbol of Morale" type="CRAFTED_RELIC" icon="1091572877-1091526103.png">
 <stats>
-<stat name="MORALE" value="400"/>
+<stat name="MORALE" value="20500"/>
 </stats>
 </relic>
 <relic id="1879166159" name="Minor Symbol of Power" type="CRAFTED_RELIC" icon="1091572886-1091526103.png">
 <stats>
-<stat name="POWER" value="100"/>
+<stat name="POWER" value="5200"/>
 </stats>
 </relic>
 <relic id="1879166124" name="Minor Symbol of Vitality" type="CRAFTED_RELIC" icon="1091572881-1091526103.png">
 <stats>
-<stat name="VITALITY" value="100"/>
+<stat name="VITALITY" value="4700"/>
 </stats>
 </relic>
 <relic id="1879166161" name="Minor Symbol of Will" type="CRAFTED_RELIC" icon="1091572898-1091526103.png">
 <stats>
-<stat name="WILL" value="100"/>
+<stat name="WILL" value="5200"/>
 </stats>
 </relic>
 <relic id="1879166122" name="Symbol of Accuracy" type="CRAFTED_RELIC" level="65" icon="1091572876-1091526102.png">
