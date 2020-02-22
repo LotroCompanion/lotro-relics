@@ -1439,6 +1439,99 @@
 </stats>
 </relic>
 </category>
+<category code="79" name="Minas Morgul">
+<relic id="1879395829" name="Ithil Setting of Brutality" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785114-1091636663.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1685200"/>
+<stat name="PARRY" value="1070600"/>
+<stat name="EVADE" value="713700"/>
+</stats>
+</relic>
+<relic id="1879395832" name="Ithil Setting of Defence" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785119-1091636663.png">
+<stats>
+<stat name="BLOCK" value="1784300"/>
+<stat name="PARRY" value="1784300"/>
+</stats>
+</relic>
+<relic id="1879395802" name="Ithil Setting of Finesse" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785122-1091636663.png">
+<stats>
+<stat name="FINESSE" value="1685200"/>
+<stat name="EVADE" value="1784300"/>
+</stats>
+</relic>
+<relic id="1879395836" name="Ithil Setting of Resistance" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785115-1091636663.png">
+<stats>
+<stat name="RESISTANCE" value="1784300"/>
+<stat name="TACTICAL_MITIGATION" value="1494800"/>
+</stats>
+</relic>
+<relic id="1879395797" name="Ithil Gem of Agility" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759285-1091636664.png">
+<stats>
+<stat name="AGILITY" value="178400"/>
+<stat name="CRITICAL_DEFENCE" value="1784300"/>
+</stats>
+</relic>
+<relic id="1879395801" name="Ithil Gem of Fate" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759287-1091636664.png">
+<stats>
+<stat name="FATE" value="178400"/>
+<stat name="CRITICAL_DEFENCE" value="1784300"/>
+</stats>
+</relic>
+<relic id="1879395776" name="Ithil Gem of Might" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759288-1091636664.png">
+<stats>
+<stat name="MIGHT" value="178400"/>
+<stat name="CRITICAL_DEFENCE" value="1784300"/>
+</stats>
+</relic>
+<relic id="1879395780" name="Ithil Gem of Vitality" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759287-1091636664.png">
+<stats>
+<stat name="VITALITY" value="148300"/>
+<stat name="CRITICAL_DEFENCE" value="1784300"/>
+</stats>
+</relic>
+<relic id="1879395813" name="Ithil Gem of Will" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759287-1091636664.png">
+<stats>
+<stat name="WILL" value="178400"/>
+<stat name="CRITICAL_DEFENCE" value="1784300"/>
+</stats>
+</relic>
+<relic id="1879395792" name="Ithil Rune of Binding" types="RUNE" slots="CLASS_SLOT" minLevel="100" icon="1091785155-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1011100"/>
+<stat name="Combat_TacticalHPS_Modifier" value="15000"/>
+</stats>
+</relic>
+<relic id="1879395837" name="Ithil Rune of Enchantment" types="RUNE" slots="MAIN_HAND" minLevel="100" icon="1091785154-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1011100"/>
+<stat name="Combat_TacticalDPS_Modifier" value="22500"/>
+</stats>
+</relic>
+<relic id="1879395822" name="Ithil Rune of Force" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785148-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1011100"/>
+<stat name="PHYSICAL_MASTERY" value="1605900"/>
+</stats>
+</relic>
+<relic id="1879395833" name="Ithil Rune of Healing" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785155-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1011100"/>
+<stat name="OUTGOING_HEALING" value="3965100"/>
+</stats>
+</relic>
+<relic id="1879395818" name="Ithil Rune of Power" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785154-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1011100"/>
+<stat name="TACTICAL_MASTERY" value="1605900"/>
+</stats>
+</relic>
+<relic id="1879395803" name="Ithil Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785148-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1011100"/>
+<stat name="Combat_Damage_Mod" value="30000"/>
+</stats>
+</relic>
+</category>
 <category code="71" name="Mounted Skill">
 <relic id="1879325532" name="Eastemnet Bracing Bridle Insignia" types="SETTING,GEM,RUNE,CRAFTED_RELIC" slots="BRIDLE" minLevel="80" requiredClass="Beorning" icon="1091969885-1091636664.png">
 <stats>
