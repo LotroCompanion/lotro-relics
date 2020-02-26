@@ -490,7 +490,22 @@
 <stat name="INCOMING_HEALING" value="161600"/>
 </stats>
 </relic>
+<relic id="1879250076" name="True Setting of the North" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="80" icon="1091759299-1091636663.png">
+<stats>
+<stat name="MORALE" value="33000"/>
+<stat name="CRITICAL_RATING" value="129300"/>
+<stat name="INCOMING_HEALING" value="161600"/>
+</stats>
+</relic>
 <relic id="1879249990" name="True Setting of the Three Hunters" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="80" icon="1091759394-1091636663.png">
+<stats>
+<stat name="FATE" value="3500"/>
+<stat name="PHYSICAL_MASTERY" value="64600"/>
+<stat name="TACTICAL_MASTERY" value="64600"/>
+<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="750"/>
+</stats>
+</relic>
+<relic id="1879249999" name="True Setting of the Three Hunters" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="80" icon="1091759394-1091636663.png">
 <stats>
 <stat name="FATE" value="3500"/>
 <stat name="PHYSICAL_MASTERY" value="64600"/>
@@ -528,7 +543,22 @@
 <stat name="TACTICAL_MASTERY" value="64600"/>
 </stats>
 </relic>
+<relic id="1879250077" name="True Gem of the Rising Moon" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="80" icon="1091759301-1091636664.png">
+<stats>
+<stat name="VITALITY" value="3500"/>
+<stat name="FATE" value="3500"/>
+<stat name="PHYSICAL_MASTERY" value="64600"/>
+<stat name="TACTICAL_MASTERY" value="64600"/>
+</stats>
+</relic>
 <relic id="1879249986" name="True Gem of the Twilight" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="80" icon="1091751942-1091636664.png">
+<stats>
+<stat name="MORALE" value="33000"/>
+<stat name="CRITICAL_DEFENCE" value="32300"/>
+<stat name="TACTICAL_MITIGATION" value="24200"/>
+</stats>
+</relic>
+<relic id="1879249998" name="True Gem of the Twilight" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="80" icon="1091751942-1091636664.png">
 <stats>
 <stat name="MORALE" value="33000"/>
 <stat name="CRITICAL_DEFENCE" value="32300"/>
@@ -565,7 +595,22 @@
 <stat name="PHYSICAL_MITIGATION" value="24200"/>
 </stats>
 </relic>
+<relic id="1879250078" name="True Rune of the Dark Wood" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="80" icon="1091759303-1091636662.png">
+<stats>
+<stat name="MORALE" value="33000"/>
+<stat name="POWER" value="31000"/>
+<stat name="PHYSICAL_MITIGATION" value="24200"/>
+</stats>
+</relic>
 <relic id="1879249987" name="True Rune of the White Mountains" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="80" icon="1091751943-1091636662.png">
+<stats>
+<stat name="AGILITY" value="3500"/>
+<stat name="PHYSICAL_MASTERY" value="64600"/>
+<stat name="TACTICAL_MASTERY" value="64600"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-250"/>
+</stats>
+</relic>
+<relic id="1879249988" name="True Rune of the White Mountains" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="80" icon="1091751943-1091636662.png">
 <stats>
 <stat name="AGILITY" value="3500"/>
 <stat name="PHYSICAL_MASTERY" value="64600"/>
@@ -583,7 +628,23 @@
 <stat name="WARSTEED_STRENGTH" value="2000"/>
 </stats>
 </relic>
+<relic id="1879253790" name="Bridle Eastemnet Setting of Aggression" types="SETTING" slots="BRIDLE" minLevel="80" icon="1091751503-1091751291.png">
+<stats>
+<stat name="PHYSICAL_MASTERY" value="64600"/>
+<stat name="TACTICAL_MASTERY" value="64600"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
+<stat name="WARSTEED_STRENGTH" value="2000"/>
+</stats>
+</relic>
 <relic id="1879244608" name="Bridle Eastemnet Setting of Clout" types="SETTING" slots="BRIDLE" minLevel="80" icon="1091751517-1091751291.png">
+<stats>
+<stat name="PHYSICAL_MASTERY" value="64600"/>
+<stat name="TACTICAL_MASTERY" value="64600"/>
+<stat name="WARSTEED_ENDURANCE" value="60000"/>
+<stat name="WARSTEED_STRENGTH" value="2000"/>
+</stats>
+</relic>
+<relic id="1879253804" name="Bridle Eastemnet Setting of Clout" types="SETTING" slots="BRIDLE" minLevel="80" icon="1091751517-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="64600"/>
 <stat name="TACTICAL_MASTERY" value="64600"/>
@@ -599,7 +660,22 @@
 <stat name="Vital_MountEnduranceCombatRegenAddMod" value="300"/>
 </stats>
 </relic>
+<relic id="1879253787" name="Bridle Eastemnet Setting of Savvy" types="SETTING" slots="BRIDLE" minLevel="80" icon="1091751475-1091751291.png">
+<stats>
+<stat name="PHYSICAL_MASTERY" value="64600"/>
+<stat name="TACTICAL_MASTERY" value="64600"/>
+<stat name="Skill_RangedAttack_MaxRangeMod" value="500"/>
+<stat name="Vital_MountEnduranceCombatRegenAddMod" value="300"/>
+</stats>
+</relic>
 <relic id="1879244607" name="Bridle Eastemnet Gem of Acumen" types="GEM" slots="BRIDLE" minLevel="80" icon="1091751454-1091751289.png">
+<stats>
+<stat name="CRITICAL_RATING" value="129300"/>
+<stat name="Trait_Mount_PowerCost_SteedSkills" value="-1500"/>
+<stat name="Trait_Mounted_Critical_Multiplier" value="2500"/>
+</stats>
+</relic>
+<relic id="1879253801" name="Bridle Eastemnet Gem of Acumen" types="GEM" slots="BRIDLE" minLevel="80" icon="1091751454-1091751289.png">
 <stats>
 <stat name="CRITICAL_RATING" value="129300"/>
 <stat name="Trait_Mount_PowerCost_SteedSkills" value="-1500"/>
@@ -613,6 +689,13 @@
 <stat name="WARSTEED_AGILITY" value="2000"/>
 </stats>
 </relic>
+<relic id="1879253797" name="Bridle Eastemnet Gem of Alacrity" types="GEM" slots="BRIDLE" minLevel="80" icon="1091751556-1091751289.png">
+<stats>
+<stat name="CRITICAL_RATING" value="129300"/>
+<stat name="WARSTEED_POWER" value="49500"/>
+<stat name="WARSTEED_AGILITY" value="2000"/>
+</stats>
+</relic>
 <relic id="1879244584" name="Bridle Eastemnet Gem of Haste" types="GEM" slots="BRIDLE" minLevel="80" icon="1091751483-1091751289.png">
 <stats>
 <stat name="CRITICAL_RATING" value="129300"/>
@@ -620,7 +703,23 @@
 <stat name="Vital_MountPowerCombatRegenAddMod" value="300"/>
 </stats>
 </relic>
+<relic id="1879253800" name="Bridle Eastemnet Gem of Haste" types="GEM" slots="BRIDLE" minLevel="80" icon="1091751483-1091751289.png">
+<stats>
+<stat name="CRITICAL_RATING" value="129300"/>
+<stat name="WARSTEED_AGILITY" value="2000"/>
+<stat name="Vital_MountPowerCombatRegenAddMod" value="300"/>
+</stats>
+</relic>
 <relic id="1879244614" name="Bridle Eastemnet Rune of Perseverance" types="RUNE" slots="BRIDLE" minLevel="80" icon="1091751534-1091751290.png">
+<stats>
+<stat name="BLOCK" value="32300"/>
+<stat name="PARRY" value="32300"/>
+<stat name="EVADE" value="32300"/>
+<stat name="Mount_Movement_Acceleration" value="400"/>
+<stat name="Mount_Combat_EvadePoints_Modifier" value="37500"/>
+</stats>
+</relic>
+<relic id="1879253794" name="Bridle Eastemnet Rune of Perseverance" types="RUNE" slots="BRIDLE" minLevel="80" icon="1091751534-1091751290.png">
 <stats>
 <stat name="BLOCK" value="32300"/>
 <stat name="PARRY" value="32300"/>
@@ -638,7 +737,26 @@
 <stat name="Mount_Movement_Turn_Rate" value="400"/>
 </stats>
 </relic>
+<relic id="1879253792" name="Bridle Eastemnet Rune of Protection" types="RUNE" slots="BRIDLE" minLevel="80" icon="1091751465-1091751290.png">
+<stats>
+<stat name="BLOCK" value="32300"/>
+<stat name="PARRY" value="32300"/>
+<stat name="EVADE" value="32300"/>
+<stat name="Combat_Agent_MountArmor_Value_Float" value="30000"/>
+<stat name="Mount_Movement_Turn_Rate" value="400"/>
+</stats>
+</relic>
 <relic id="1879244624" name="Bridle Eastemnet Rune of Tenacity" types="RUNE" slots="BRIDLE" minLevel="80" icon="1091751568-1091751290.png">
+<stats>
+<stat name="RESISTANCE" value="57000"/>
+<stat name="BLOCK" value="32300"/>
+<stat name="PARRY" value="32300"/>
+<stat name="EVADE" value="32300"/>
+<stat name="PHYSICAL_MITIGATION" value="48500"/>
+<stat name="TACTICAL_MITIGATION" value="48500"/>
+</stats>
+</relic>
+<relic id="1879253795" name="Bridle Eastemnet Rune of Tenacity" types="RUNE" slots="BRIDLE" minLevel="80" icon="1091751568-1091751290.png">
 <stats>
 <stat name="RESISTANCE" value="57000"/>
 <stat name="BLOCK" value="32300"/>
@@ -680,7 +798,22 @@
 <stat name="INCOMING_HEALING" value="131300"/>
 </stats>
 </relic>
+<relic id="1879233108" name="True Setting of Continuance" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="65" icon="1091644904-1091636663.png">
+<stats>
+<stat name="MORALE" value="25000"/>
+<stat name="FATE" value="2500"/>
+<stat name="INCOMING_HEALING" value="131300"/>
+</stats>
+</relic>
 <relic id="1879208530" name="True Setting of the Ages" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="65" icon="1091635963-1091636663.png">
+<stats>
+<stat name="FATE" value="2500"/>
+<stat name="CRITICAL_RATING" value="52500"/>
+<stat name="PHYSICAL_MASTERY" value="52500"/>
+<stat name="TACTICAL_MASTERY" value="52500"/>
+</stats>
+</relic>
+<relic id="1879231964" name="True Setting of the Ages" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="65" icon="1091635963-1091636663.png">
 <stats>
 <stat name="FATE" value="2500"/>
 <stat name="CRITICAL_RATING" value="52500"/>
@@ -718,7 +851,24 @@
 <stat name="ICPR" value="12600"/>
 </stats>
 </relic>
+<relic id="1879231965" name="True Gem of the Encircling Seas" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="65" icon="1091644906-1091636664.png">
+<stats>
+<stat name="PHYSICAL_MASTERY" value="52500"/>
+<stat name="TACTICAL_MASTERY" value="52500"/>
+<stat name="ICMR" value="12600"/>
+<stat name="ICPR" value="12600"/>
+</stats>
+</relic>
 <relic id="1879208531" name="True Gem of the Mountain King" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="65" icon="1091644908-1091636664.png">
+<stats>
+<stat name="VITALITY" value="2500"/>
+<stat name="BLOCK" value="26300"/>
+<stat name="PARRY" value="26300"/>
+<stat name="EVADE" value="26300"/>
+<stat name="ICMR" value="12600"/>
+</stats>
+</relic>
+<relic id="1879233109" name="True Gem of the Mountain King" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="65" icon="1091644908-1091636664.png">
 <stats>
 <stat name="VITALITY" value="2500"/>
 <stat name="BLOCK" value="26300"/>
@@ -759,7 +909,24 @@
 <stat name="FATE" value="1700"/>
 </stats>
 </relic>
+<relic id="1879233110" name="True Rune of the Dark Watch" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="65" icon="1091644913-1091636662.png">
+<stats>
+<stat name="MIGHT" value="1700"/>
+<stat name="AGILITY" value="1700"/>
+<stat name="VITALITY" value="1700"/>
+<stat name="WILL" value="1700"/>
+<stat name="FATE" value="1700"/>
+</stats>
+</relic>
 <relic id="1879208527" name="True Rune of the Two Trees" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="65" icon="1091644911-1091636662.png">
+<stats>
+<stat name="MORALE" value="18000"/>
+<stat name="POWER" value="16000"/>
+<stat name="ICMR" value="9600"/>
+<stat name="ICPR" value="9000"/>
+</stats>
+</relic>
+<relic id="1879231966" name="True Rune of the Two Trees" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="65" icon="1091644911-1091636662.png">
 <stats>
 <stat name="MORALE" value="18000"/>
 <stat name="POWER" value="16000"/>
@@ -1177,7 +1344,19 @@
 <stat name="Combat_TacticalHPS_Modifier" value="8300"/>
 </stats>
 </relic>
+<relic id="1879368325" name="Greater Abyssal Rune of Binding" types="RUNE" slots="CLASS_SLOT" icon="1091785155-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="346200"/>
+<stat name="Combat_TacticalHPS_Modifier" value="8300"/>
+</stats>
+</relic>
 <relic id="1879362983" name="Greater Abyssal Rune of Enchantment" types="RUNE" slots="MAIN_HAND" icon="1091785154-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="346200"/>
+<stat name="Combat_TacticalDPS_Modifier" value="12500"/>
+</stats>
+</relic>
+<relic id="1879368321" name="Greater Abyssal Rune of Enchantment" types="RUNE" slots="MAIN_HAND" icon="1091785154-1091636662.png">
 <stats>
 <stat name="CRITICAL_RATING" value="346200"/>
 <stat name="Combat_TacticalDPS_Modifier" value="12500"/>
@@ -1273,7 +1452,19 @@
 <stat name="Combat_TacticalHPS_Modifier" value="7500"/>
 </stats>
 </relic>
+<relic id="1879368326" name="Rare Vanguard Rune of Binding" types="RUNE" slots="CLASS_SLOT" icon="1091785155-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="232700"/>
+<stat name="Combat_TacticalHPS_Modifier" value="7500"/>
+</stats>
+</relic>
 <relic id="1879361279" name="Rare Vanguard Rune of Enchantment" types="RUNE" slots="MAIN_HAND" icon="1091785154-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="232700"/>
+<stat name="Combat_TacticalDPS_Modifier" value="11200"/>
+</stats>
+</relic>
+<relic id="1879368324" name="Rare Vanguard Rune of Enchantment" types="RUNE" slots="MAIN_HAND" icon="1091785154-1091636662.png">
 <stats>
 <stat name="CRITICAL_RATING" value="232700"/>
 <stat name="Combat_TacticalDPS_Modifier" value="11200"/>
@@ -1355,7 +1546,23 @@
 <stat name="PHYSICAL_MITIGATION" value="17000"/>
 </stats>
 </relic>
+<relic id="1879262653" name="True Setting of the Hill-men" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="75" icon="1091664880-1091636663.png">
+<stats>
+<stat name="INCOMING_HEALING" value="151500"/>
+<stat name="BLOCK" value="30300"/>
+<stat name="PARRY" value="30300"/>
+<stat name="EVADE" value="30300"/>
+<stat name="PHYSICAL_MITIGATION" value="17000"/>
+</stats>
+</relic>
 <relic id="1879262659" name="True Setting of the Long Winter" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="75" icon="1091785147-1091636663.png">
+<stats>
+<stat name="FATE" value="3000"/>
+<stat name="CRITICAL_RATING" value="121200"/>
+<stat name="DEVASTATE_MAGNITUDE_PERCENTAGE" value="750"/>
+</stats>
+</relic>
+<relic id="1879262673" name="True Setting of the Long Winter" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="75" icon="1091785147-1091636663.png">
 <stats>
 <stat name="FATE" value="3000"/>
 <stat name="CRITICAL_RATING" value="121200"/>
@@ -1393,7 +1600,23 @@
 <stat name="EVADE" value="30300"/>
 </stats>
 </relic>
+<relic id="1879262664" name="True Gem of the Watchwood" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="75" icon="1091785140-1091636664.png">
+<stats>
+<stat name="VITALITY" value="3000"/>
+<stat name="CRITICAL_DEFENCE" value="30300"/>
+<stat name="BLOCK" value="30300"/>
+<stat name="PARRY" value="30300"/>
+<stat name="EVADE" value="30300"/>
+</stats>
+</relic>
 <relic id="1879262644" name="True Gem of the Wizard's Vale" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="75" icon="1091785138-1091636664.png">
+<stats>
+<stat name="FATE" value="3000"/>
+<stat name="CRITICAL_RATING" value="121200"/>
+<stat name="ICPR" value="9000"/>
+</stats>
+</relic>
+<relic id="1879262654" name="True Gem of the Wizard's Vale" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="75" icon="1091785138-1091636664.png">
 <stats>
 <stat name="FATE" value="3000"/>
 <stat name="CRITICAL_RATING" value="121200"/>
@@ -1431,7 +1654,22 @@
 <stat name="PARTIAL_EVADE_MITIGATION_PERCENTAGE" value="400"/>
 </stats>
 </relic>
+<relic id="1879262668" name="True Rune of the First Battle" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="75" icon="1091785151-1091636662.png">
+<stats>
+<stat name="PARRY" value="60600"/>
+<stat name="PARTIAL_PARRY_MITIGATION_PERCENTAGE" value="200"/>
+<stat name="EVADE" value="60600"/>
+<stat name="PARTIAL_EVADE_MITIGATION_PERCENTAGE" value="400"/>
+</stats>
+</relic>
 <relic id="1879262643" name="True Rune of the Swift-light" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="75" icon="1091785150-1091636662.png">
+<stats>
+<stat name="MORALE" value="29600"/>
+<stat name="POWER" value="27600"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-250"/>
+</stats>
+</relic>
+<relic id="1879262651" name="True Rune of the Swift-light" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="75" icon="1091785150-1091636662.png">
 <stats>
 <stat name="MORALE" value="29600"/>
 <stat name="POWER" value="27600"/>
@@ -1936,7 +2174,39 @@
 <stat name="WARSTEED_STRENGTH" value="3000"/>
 </stats>
 </relic>
+<relic id="1879253799" name="Bridle Riddermark Setting of Aggression" types="SETTING" slots="BRIDLE" minLevel="85" icon="1091751467-1091751291.png">
+<stats>
+<stat name="PHYSICAL_MASTERY" value="68700"/>
+<stat name="TACTICAL_MASTERY" value="68700"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
+<stat name="WARSTEED_STRENGTH" value="3000"/>
+</stats>
+</relic>
+<relic id="1879270084" name="Bridle Riddermark Setting of Aggression" types="SETTING" slots="BRIDLE" minLevel="85" icon="1091751467-1091751291.png">
+<stats>
+<stat name="PHYSICAL_MASTERY" value="68700"/>
+<stat name="TACTICAL_MASTERY" value="68700"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
+<stat name="WARSTEED_STRENGTH" value="3000"/>
+</stats>
+</relic>
 <relic id="1879244596" name="Bridle Riddermark Setting of Clout" types="SETTING" slots="BRIDLE" minLevel="85" icon="1091751477-1091751291.png">
+<stats>
+<stat name="PHYSICAL_MASTERY" value="68700"/>
+<stat name="TACTICAL_MASTERY" value="68700"/>
+<stat name="WARSTEED_ENDURANCE" value="60000"/>
+<stat name="WARSTEED_STRENGTH" value="3000"/>
+</stats>
+</relic>
+<relic id="1879253796" name="Bridle Riddermark Setting of Clout" types="SETTING" slots="BRIDLE" minLevel="85" icon="1091751477-1091751291.png">
+<stats>
+<stat name="PHYSICAL_MASTERY" value="68700"/>
+<stat name="TACTICAL_MASTERY" value="68700"/>
+<stat name="WARSTEED_ENDURANCE" value="60000"/>
+<stat name="WARSTEED_STRENGTH" value="3000"/>
+</stats>
+</relic>
+<relic id="1879270082" name="Bridle Riddermark Setting of Clout" types="SETTING" slots="BRIDLE" minLevel="85" icon="1091751477-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="68700"/>
 <stat name="TACTICAL_MASTERY" value="68700"/>
@@ -1952,7 +2222,37 @@
 <stat name="Vital_MountEnduranceCombatRegenAddMod" value="300"/>
 </stats>
 </relic>
+<relic id="1879253798" name="Bridle Riddermark Setting of Savvy" types="SETTING" slots="BRIDLE" minLevel="85" icon="1091751559-1091751291.png">
+<stats>
+<stat name="PHYSICAL_MASTERY" value="68700"/>
+<stat name="TACTICAL_MASTERY" value="68700"/>
+<stat name="Skill_RangedAttack_MaxRangeMod" value="500"/>
+<stat name="Vital_MountEnduranceCombatRegenAddMod" value="300"/>
+</stats>
+</relic>
+<relic id="1879270081" name="Bridle Riddermark Setting of Savvy" types="SETTING" slots="BRIDLE" minLevel="85" icon="1091751559-1091751291.png">
+<stats>
+<stat name="PHYSICAL_MASTERY" value="68700"/>
+<stat name="TACTICAL_MASTERY" value="68700"/>
+<stat name="Skill_RangedAttack_MaxRangeMod" value="500"/>
+<stat name="Vital_MountEnduranceCombatRegenAddMod" value="300"/>
+</stats>
+</relic>
 <relic id="1879244618" name="Bridle Riddermark Gem of Acumen" types="GEM" slots="BRIDLE" minLevel="85" icon="1091751478-1091751289.png">
+<stats>
+<stat name="CRITICAL_RATING" value="137400"/>
+<stat name="Trait_Mount_PowerCost_SteedSkills" value="-1500"/>
+<stat name="Trait_Mounted_Critical_Multiplier" value="2500"/>
+</stats>
+</relic>
+<relic id="1879253805" name="Bridle Riddermark Gem of Acumen" types="GEM" slots="BRIDLE" minLevel="85" icon="1091751478-1091751289.png">
+<stats>
+<stat name="CRITICAL_RATING" value="137400"/>
+<stat name="Trait_Mount_PowerCost_SteedSkills" value="-1500"/>
+<stat name="Trait_Mounted_Critical_Multiplier" value="2500"/>
+</stats>
+</relic>
+<relic id="1879270088" name="Bridle Riddermark Gem of Acumen" types="GEM" slots="BRIDLE" minLevel="85" icon="1091751478-1091751289.png">
 <stats>
 <stat name="CRITICAL_RATING" value="137400"/>
 <stat name="Trait_Mount_PowerCost_SteedSkills" value="-1500"/>
@@ -1966,6 +2266,20 @@
 <stat name="WARSTEED_AGILITY" value="3000"/>
 </stats>
 </relic>
+<relic id="1879253802" name="Bridle Riddermark Gem of Alacrity" types="GEM" slots="BRIDLE" minLevel="85" icon="1091751460-1091751289.png">
+<stats>
+<stat name="CRITICAL_RATING" value="137400"/>
+<stat name="WARSTEED_POWER" value="49500"/>
+<stat name="WARSTEED_AGILITY" value="3000"/>
+</stats>
+</relic>
+<relic id="1879270085" name="Bridle Riddermark Gem of Alacrity" types="GEM" slots="BRIDLE" minLevel="85" icon="1091751460-1091751289.png">
+<stats>
+<stat name="CRITICAL_RATING" value="137400"/>
+<stat name="WARSTEED_POWER" value="49500"/>
+<stat name="WARSTEED_AGILITY" value="3000"/>
+</stats>
+</relic>
 <relic id="1879244593" name="Bridle Riddermark Gem of Haste" types="GEM" slots="BRIDLE" minLevel="85" icon="1091751505-1091751289.png">
 <stats>
 <stat name="CRITICAL_RATING" value="137400"/>
@@ -1973,7 +2287,39 @@
 <stat name="Vital_MountPowerCombatRegenAddMod" value="300"/>
 </stats>
 </relic>
+<relic id="1879253803" name="Bridle Riddermark Gem of Haste" types="GEM" slots="BRIDLE" minLevel="85" icon="1091751505-1091751289.png">
+<stats>
+<stat name="CRITICAL_RATING" value="137400"/>
+<stat name="WARSTEED_AGILITY" value="3000"/>
+<stat name="Vital_MountPowerCombatRegenAddMod" value="300"/>
+</stats>
+</relic>
+<relic id="1879270083" name="Bridle Riddermark Gem of Haste" types="GEM" slots="BRIDLE" minLevel="85" icon="1091751505-1091751289.png">
+<stats>
+<stat name="CRITICAL_RATING" value="137400"/>
+<stat name="WARSTEED_AGILITY" value="3000"/>
+<stat name="Vital_MountPowerCombatRegenAddMod" value="300"/>
+</stats>
+</relic>
 <relic id="1879244602" name="Bridle Riddermark Rune of Perseverance" types="RUNE" slots="BRIDLE" minLevel="85" icon="1091751561-1091751290.png">
+<stats>
+<stat name="BLOCK" value="34300"/>
+<stat name="PARRY" value="34300"/>
+<stat name="EVADE" value="34300"/>
+<stat name="Mount_Movement_Acceleration" value="600"/>
+<stat name="Mount_Combat_EvadePoints_Modifier" value="37500"/>
+</stats>
+</relic>
+<relic id="1879253807" name="Bridle Riddermark Rune of Perseverance" types="RUNE" slots="BRIDLE" minLevel="85" icon="1091751561-1091751290.png">
+<stats>
+<stat name="BLOCK" value="34300"/>
+<stat name="PARRY" value="34300"/>
+<stat name="EVADE" value="34300"/>
+<stat name="Mount_Movement_Acceleration" value="600"/>
+<stat name="Mount_Combat_EvadePoints_Modifier" value="37500"/>
+</stats>
+</relic>
+<relic id="1879270086" name="Bridle Riddermark Rune of Perseverance" types="RUNE" slots="BRIDLE" minLevel="85" icon="1091751561-1091751290.png">
 <stats>
 <stat name="BLOCK" value="34300"/>
 <stat name="PARRY" value="34300"/>
@@ -1991,7 +2337,45 @@
 <stat name="Mount_Movement_Turn_Rate" value="600"/>
 </stats>
 </relic>
+<relic id="1879253806" name="Bridle Riddermark Rune of Protection" types="RUNE" slots="BRIDLE" minLevel="85" icon="1091751488-1091751290.png">
+<stats>
+<stat name="BLOCK" value="34300"/>
+<stat name="PARRY" value="34300"/>
+<stat name="EVADE" value="34300"/>
+<stat name="Combat_Agent_MountArmor_Value_Float" value="30000"/>
+<stat name="Mount_Movement_Turn_Rate" value="600"/>
+</stats>
+</relic>
+<relic id="1879270087" name="Bridle Riddermark Rune of Protection" types="RUNE" slots="BRIDLE" minLevel="85" icon="1091751488-1091751290.png">
+<stats>
+<stat name="BLOCK" value="34300"/>
+<stat name="PARRY" value="34300"/>
+<stat name="EVADE" value="34300"/>
+<stat name="Combat_Agent_MountArmor_Value_Float" value="30000"/>
+<stat name="Mount_Movement_Turn_Rate" value="600"/>
+</stats>
+</relic>
 <relic id="1879244620" name="Bridle Riddermark Rune of Tenacity" types="RUNE" slots="BRIDLE" minLevel="85" icon="1091751471-1091751290.png">
+<stats>
+<stat name="RESISTANCE" value="59000"/>
+<stat name="BLOCK" value="34300"/>
+<stat name="PARRY" value="34300"/>
+<stat name="EVADE" value="34300"/>
+<stat name="PHYSICAL_MITIGATION" value="51500"/>
+<stat name="TACTICAL_MITIGATION" value="51500"/>
+</stats>
+</relic>
+<relic id="1879253793" name="Bridle Riddermark Rune of Tenacity" types="RUNE" slots="BRIDLE" minLevel="85" icon="1091751471-1091751290.png">
+<stats>
+<stat name="RESISTANCE" value="59000"/>
+<stat name="BLOCK" value="34300"/>
+<stat name="PARRY" value="34300"/>
+<stat name="EVADE" value="34300"/>
+<stat name="PHYSICAL_MITIGATION" value="51500"/>
+<stat name="TACTICAL_MITIGATION" value="51500"/>
+</stats>
+</relic>
+<relic id="1879270080" name="Bridle Riddermark Rune of Tenacity" types="RUNE" slots="BRIDLE" minLevel="85" icon="1091751471-1091751290.png">
 <stats>
 <stat name="RESISTANCE" value="59000"/>
 <stat name="BLOCK" value="34300"/>
@@ -3194,7 +3578,39 @@
 <stat name="WARSTEED_STRENGTH" value="1000"/>
 </stats>
 </relic>
+<relic id="1879253786" name="Bridle Setting of Aggression" types="SETTING" slots="BRIDLE" minLevel="75" icon="1091751452-1091751291.png">
+<stats>
+<stat name="PHYSICAL_MASTERY" value="60600"/>
+<stat name="TACTICAL_MASTERY" value="60600"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
+<stat name="WARSTEED_STRENGTH" value="1000"/>
+</stats>
+</relic>
+<relic id="1879254185" name="Bridle Setting of Aggression" types="SETTING" slots="BRIDLE" minLevel="75" icon="1091751452-1091751291.png">
+<stats>
+<stat name="PHYSICAL_MASTERY" value="60600"/>
+<stat name="TACTICAL_MASTERY" value="60600"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
+<stat name="WARSTEED_STRENGTH" value="1000"/>
+</stats>
+</relic>
 <relic id="1879244591" name="Bridle Setting of Clout" types="SETTING" slots="BRIDLE" minLevel="75" icon="1091751462-1091751291.png">
+<stats>
+<stat name="PHYSICAL_MASTERY" value="60600"/>
+<stat name="TACTICAL_MASTERY" value="60600"/>
+<stat name="WARSTEED_ENDURANCE" value="40000"/>
+<stat name="WARSTEED_STRENGTH" value="1000"/>
+</stats>
+</relic>
+<relic id="1879253784" name="Bridle Setting of Clout" types="SETTING" slots="BRIDLE" minLevel="75" icon="1091751462-1091751291.png">
+<stats>
+<stat name="PHYSICAL_MASTERY" value="60600"/>
+<stat name="TACTICAL_MASTERY" value="60600"/>
+<stat name="WARSTEED_ENDURANCE" value="40000"/>
+<stat name="WARSTEED_STRENGTH" value="1000"/>
+</stats>
+</relic>
+<relic id="1879254184" name="Bridle Setting of Clout" types="SETTING" slots="BRIDLE" minLevel="75" icon="1091751462-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="60600"/>
 <stat name="TACTICAL_MASTERY" value="60600"/>
@@ -3225,6 +3641,22 @@
 <stat name="Vital_MountEnduranceCombatRegenAddMod" value="300"/>
 </stats>
 </relic>
+<relic id="1879253785" name="Bridle Setting of Savvy" types="SETTING" slots="BRIDLE" minLevel="75" icon="1091751540-1091751291.png">
+<stats>
+<stat name="PHYSICAL_MASTERY" value="60600"/>
+<stat name="TACTICAL_MASTERY" value="60600"/>
+<stat name="Skill_RangedAttack_MaxRangeMod" value="500"/>
+<stat name="Vital_MountEnduranceCombatRegenAddMod" value="300"/>
+</stats>
+</relic>
+<relic id="1879254183" name="Bridle Setting of Savvy" types="SETTING" slots="BRIDLE" minLevel="75" icon="1091751540-1091751291.png">
+<stats>
+<stat name="PHYSICAL_MASTERY" value="60600"/>
+<stat name="TACTICAL_MASTERY" value="60600"/>
+<stat name="Skill_RangedAttack_MaxRangeMod" value="500"/>
+<stat name="Vital_MountEnduranceCombatRegenAddMod" value="300"/>
+</stats>
+</relic>
 <relic id="1879244615" name="Bridle Gem of Acumen" types="GEM" slots="BRIDLE" minLevel="75" icon="1091751468-1091751289.png">
 <stats>
 <stat name="CRITICAL_RATING" value="121200"/>
@@ -3232,7 +3664,35 @@
 <stat name="Trait_Mounted_Critical_Multiplier" value="2500"/>
 </stats>
 </relic>
+<relic id="1879253791" name="Bridle Gem of Acumen" types="GEM" slots="BRIDLE" minLevel="75" icon="1091751468-1091751289.png">
+<stats>
+<stat name="CRITICAL_RATING" value="121200"/>
+<stat name="Trait_Mount_PowerCost_SteedSkills" value="-1500"/>
+<stat name="Trait_Mounted_Critical_Multiplier" value="2500"/>
+</stats>
+</relic>
+<relic id="1879254180" name="Bridle Gem of Acumen" types="GEM" slots="BRIDLE" minLevel="75" icon="1091751468-1091751289.png">
+<stats>
+<stat name="CRITICAL_RATING" value="121200"/>
+<stat name="Trait_Mount_PowerCost_SteedSkills" value="-1500"/>
+<stat name="Trait_Mounted_Critical_Multiplier" value="2500"/>
+</stats>
+</relic>
 <relic id="1879244604" name="Bridle Gem of Alacrity" types="GEM" slots="BRIDLE" minLevel="75" icon="1091751569-1091751289.png">
+<stats>
+<stat name="CRITICAL_RATING" value="121200"/>
+<stat name="WARSTEED_POWER" value="33000"/>
+<stat name="WARSTEED_AGILITY" value="1000"/>
+</stats>
+</relic>
+<relic id="1879253788" name="Bridle Gem of Alacrity" types="GEM" slots="BRIDLE" minLevel="75" icon="1091751569-1091751289.png">
+<stats>
+<stat name="CRITICAL_RATING" value="121200"/>
+<stat name="WARSTEED_POWER" value="33000"/>
+<stat name="WARSTEED_AGILITY" value="1000"/>
+</stats>
+</relic>
+<relic id="1879254187" name="Bridle Gem of Alacrity" types="GEM" slots="BRIDLE" minLevel="75" icon="1091751569-1091751289.png">
 <stats>
 <stat name="CRITICAL_RATING" value="121200"/>
 <stat name="WARSTEED_POWER" value="33000"/>
@@ -3250,6 +3710,20 @@
 </stats>
 </relic>
 <relic id="1879244590" name="Bridle Gem of Haste" types="GEM" slots="BRIDLE" minLevel="75" icon="1091751492-1091751289.png">
+<stats>
+<stat name="CRITICAL_RATING" value="121200"/>
+<stat name="WARSTEED_AGILITY" value="1000"/>
+<stat name="Vital_MountPowerCombatRegenAddMod" value="200"/>
+</stats>
+</relic>
+<relic id="1879253789" name="Bridle Gem of Haste" types="GEM" slots="BRIDLE" minLevel="75" icon="1091751492-1091751289.png">
+<stats>
+<stat name="CRITICAL_RATING" value="121200"/>
+<stat name="WARSTEED_AGILITY" value="1000"/>
+<stat name="Vital_MountPowerCombatRegenAddMod" value="200"/>
+</stats>
+</relic>
+<relic id="1879254186" name="Bridle Gem of Haste" types="GEM" slots="BRIDLE" minLevel="75" icon="1091751492-1091751289.png">
 <stats>
 <stat name="CRITICAL_RATING" value="121200"/>
 <stat name="WARSTEED_AGILITY" value="1000"/>
@@ -3285,6 +3759,24 @@
 <stat name="Mount_Combat_EvadePoints_Modifier" value="25000"/>
 </stats>
 </relic>
+<relic id="1879253782" name="Bridle Rune of Perseverance" types="RUNE" slots="BRIDLE" minLevel="75" icon="1091751548-1091751290.png">
+<stats>
+<stat name="BLOCK" value="30300"/>
+<stat name="PARRY" value="30300"/>
+<stat name="EVADE" value="30300"/>
+<stat name="Mount_Movement_Acceleration" value="200"/>
+<stat name="Mount_Combat_EvadePoints_Modifier" value="25000"/>
+</stats>
+</relic>
+<relic id="1879254179" name="Bridle Rune of Perseverance" types="RUNE" slots="BRIDLE" minLevel="75" icon="1091751548-1091751290.png">
+<stats>
+<stat name="BLOCK" value="30300"/>
+<stat name="PARRY" value="30300"/>
+<stat name="EVADE" value="30300"/>
+<stat name="Mount_Movement_Acceleration" value="200"/>
+<stat name="Mount_Combat_EvadePoints_Modifier" value="25000"/>
+</stats>
+</relic>
 <relic id="1879244612" name="Bridle Rune of Protection" types="RUNE" slots="BRIDLE" minLevel="75" icon="1091751476-1091751290.png">
 <stats>
 <stat name="BLOCK" value="30300"/>
@@ -3294,7 +3786,45 @@
 <stat name="Mount_Movement_Turn_Rate" value="200"/>
 </stats>
 </relic>
+<relic id="1879253781" name="Bridle Rune of Protection" types="RUNE" slots="BRIDLE" minLevel="75" icon="1091751476-1091751290.png">
+<stats>
+<stat name="BLOCK" value="30300"/>
+<stat name="PARRY" value="30300"/>
+<stat name="EVADE" value="30300"/>
+<stat name="Combat_Agent_MountArmor_Value_Float" value="20000"/>
+<stat name="Mount_Movement_Turn_Rate" value="200"/>
+</stats>
+</relic>
+<relic id="1879254181" name="Bridle Rune of Protection" types="RUNE" slots="BRIDLE" minLevel="75" icon="1091751476-1091751290.png">
+<stats>
+<stat name="BLOCK" value="30300"/>
+<stat name="PARRY" value="30300"/>
+<stat name="EVADE" value="30300"/>
+<stat name="Combat_Agent_MountArmor_Value_Float" value="20000"/>
+<stat name="Mount_Movement_Turn_Rate" value="200"/>
+</stats>
+</relic>
 <relic id="1879244619" name="Bridle Rune of Tenacity" types="RUNE" slots="BRIDLE" minLevel="75" icon="1091751456-1091751290.png">
+<stats>
+<stat name="RESISTANCE" value="49200"/>
+<stat name="BLOCK" value="30300"/>
+<stat name="PARRY" value="30300"/>
+<stat name="EVADE" value="30300"/>
+<stat name="PHYSICAL_MITIGATION" value="45500"/>
+<stat name="TACTICAL_MITIGATION" value="45500"/>
+</stats>
+</relic>
+<relic id="1879253783" name="Bridle Rune of Tenacity" types="RUNE" slots="BRIDLE" minLevel="75" icon="1091751456-1091751290.png">
+<stats>
+<stat name="RESISTANCE" value="49200"/>
+<stat name="BLOCK" value="30300"/>
+<stat name="PARRY" value="30300"/>
+<stat name="EVADE" value="30300"/>
+<stat name="PHYSICAL_MITIGATION" value="45500"/>
+<stat name="TACTICAL_MITIGATION" value="45500"/>
+</stats>
+</relic>
+<relic id="1879254182" name="Bridle Rune of Tenacity" types="RUNE" slots="BRIDLE" minLevel="75" icon="1091751456-1091751290.png">
 <stats>
 <stat name="RESISTANCE" value="49200"/>
 <stat name="BLOCK" value="30300"/>
