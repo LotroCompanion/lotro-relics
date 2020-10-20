@@ -77,6 +77,48 @@
 <stat name="WILL" value="7900"/>
 </stats>
 </relic>
+<relic id="1879411500" name="Elderslade Device of Accuracy" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812631-1091526102.png">
+<stats>
+<stat name="AGILITY" value="239500"/>
+<stat name="CRITICAL_RATING" value="2262200"/>
+<stat name="PHYSICAL_MASTERY" value="2155800"/>
+</stats>
+</relic>
+<relic id="1879411496" name="Elderslade Device of Battle" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812633-1091526102.png">
+<stats>
+<stat name="MIGHT" value="239500"/>
+<stat name="CRITICAL_RATING" value="2262200"/>
+<stat name="PHYSICAL_MASTERY" value="2155800"/>
+</stats>
+</relic>
+<relic id="1879411497" name="Elderslade Device of Insight" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812639-1091526102.png">
+<stats>
+<stat name="FATE" value="239500"/>
+<stat name="CRITICAL_RATING" value="2262200"/>
+<stat name="TACTICAL_MASTERY" value="2155800"/>
+</stats>
+</relic>
+<relic id="1879411488" name="Elderslade Device of Potency" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812637-1091526102.png">
+<stats>
+<stat name="FATE" value="239500"/>
+<stat name="CRITICAL_RATING" value="2262200"/>
+<stat name="PHYSICAL_MASTERY" value="2155800"/>
+</stats>
+</relic>
+<relic id="1879411499" name="Elderslade Device of Protection" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812637-1091526102.png">
+<stats>
+<stat name="CRITICAL_DEFENCE" value="2661400"/>
+<stat name="PHYSICAL_MITIGATION" value="3228000"/>
+<stat name="TACTICAL_MITIGATION" value="1783600"/>
+</stats>
+</relic>
+<relic id="1879411501" name="Elderslade Device of Tactics" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812635-1091526102.png">
+<stats>
+<stat name="WILL" value="239500"/>
+<stat name="CRITICAL_RATING" value="2262200"/>
+<stat name="TACTICAL_MASTERY" value="2155800"/>
+</stats>
+</relic>
 <relic id="1879393634" name="Imbued Device of Vitality" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812650-1091526101.png">
 <stats>
 <stat name="VITALITY" value="98100"/>
@@ -764,6 +806,126 @@
 <stat name="EVADE" value="32300"/>
 <stat name="PHYSICAL_MITIGATION" value="48500"/>
 <stat name="TACTICAL_MITIGATION" value="48500"/>
+</stats>
+</relic>
+</category>
+<category code="80" name="Elderslade">
+<relic id="1879411495" name="Setting of the Three Peaks" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785119-1091636663.png">
+<stats>
+<stat name="MORALE" value="528200"/>
+<stat name="RESISTANCE" value="1504300"/>
+<stat name="PARRY" value="1002900"/>
+<stat name="EVADE" value="1504300"/>
+<stat name="TACTICAL_MITIGATION" value="672100"/>
+</stats>
+</relic>
+<relic id="1879411498" name="Gem of the Three Peaks" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759287-1091636664.png">
+<stats>
+<stat name="MIGHT" value="225600"/>
+<stat name="AGILITY" value="225600"/>
+<stat name="VITALITY" value="181200"/>
+<stat name="WILL" value="225600"/>
+<stat name="FATE" value="90200"/>
+<stat name="CRITICAL_DEFENCE" value="1504300"/>
+</stats>
+</relic>
+<relic id="1879410051" name="Brilliant Elderslade Rune of Binding" types="RUNE" slots="CLASS_SLOT" minLevel="100" icon="1091785155-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1499000"/>
+<stat name="Combat_TacticalHPS_Modifier" value="21100"/>
+</stats>
+</relic>
+<relic id="1879410049" name="Brilliant Elderslade Rune of Enchantment" types="RUNE" slots="MAIN_HAND" minLevel="100" icon="1091785154-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1499000"/>
+<stat name="Combat_TacticalDPS_Modifier" value="31600"/>
+</stats>
+</relic>
+<relic id="1879410050" name="Brilliant Elderslade Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785148-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1499000"/>
+<stat name="Combat_Damage_Mod" value="42100"/>
+</stats>
+</relic>
+<relic id="1879410048" name="Elderslade Rune of Binding" types="RUNE" slots="CLASS_SLOT" minLevel="100" icon="1091785155-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1436000"/>
+<stat name="Combat_TacticalHPS_Modifier" value="20300"/>
+</stats>
+</relic>
+<relic id="1879410053" name="Elderslade Rune of Enchantment" types="RUNE" slots="MAIN_HAND" minLevel="100" icon="1091785154-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1436000"/>
+<stat name="Combat_TacticalDPS_Modifier" value="30400"/>
+</stats>
+</relic>
+<relic id="1879410055" name="Elderslade Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785148-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1436000"/>
+<stat name="Combat_Damage_Mod" value="40600"/>
+</stats>
+</relic>
+<relic id="1879412343" name="Greater Threshold Rune of Binding" types="RUNE" slots="CLASS_SLOT" minLevel="100" icon="1091785155-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1719300"/>
+<stat name="Combat_TacticalHPS_Modifier" value="23800"/>
+</stats>
+</relic>
+<relic id="1879412341" name="Greater Threshold Rune of Enchantment" types="RUNE" slots="MAIN_HAND" minLevel="100" icon="1091785154-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1719300"/>
+<stat name="Combat_TacticalDPS_Modifier" value="35700"/>
+</stats>
+</relic>
+<relic id="1879412342" name="Greater Threshold Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785148-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1719300"/>
+<stat name="Combat_Damage_Mod" value="47600"/>
+</stats>
+</relic>
+<relic id="1879411489" name="Rune of the Three Peaks" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785155-1091636662.png">
+<stats>
+<stat name="POWER" value="60900"/>
+<stat name="CRITICAL_RATING" value="1278600"/>
+<stat name="FINESSE" value="1504300"/>
+<stat name="PHYSICAL_MASTERY" value="2030800"/>
+<stat name="TACTICAL_MASTERY" value="2030800"/>
+</stats>
+</relic>
+<relic id="1879411492" name="Three Peaks Rune of Binding" types="RUNE" slots="CLASS_SLOT" minLevel="100" icon="1091785155-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1914700"/>
+<stat name="Combat_TacticalHPS_Modifier" value="20300"/>
+</stats>
+</relic>
+<relic id="1879411494" name="Three Peaks Rune of Enchantment" types="RUNE" slots="MAIN_HAND" minLevel="100" icon="1091785154-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1914700"/>
+<stat name="Combat_TacticalDPS_Modifier" value="30400"/>
+</stats>
+</relic>
+<relic id="1879411491" name="Three Peaks Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785148-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1914700"/>
+<stat name="Combat_Damage_Mod" value="40600"/>
+</stats>
+</relic>
+<relic id="1879411493" name="Threshold Rune of Binding" types="RUNE" slots="CLASS_SLOT" minLevel="100" icon="1091785155-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1593400"/>
+<stat name="Combat_TacticalHPS_Modifier" value="22200"/>
+</stats>
+</relic>
+<relic id="1879411490" name="Threshold Rune of Enchantment" types="RUNE" slots="MAIN_HAND" minLevel="100" icon="1091785154-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1593400"/>
+<stat name="Combat_TacticalDPS_Modifier" value="33400"/>
+</stats>
+</relic>
+<relic id="1879411502" name="Threshold Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785148-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="1593400"/>
+<stat name="Combat_Damage_Mod" value="44500"/>
 </stats>
 </relic>
 </category>
