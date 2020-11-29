@@ -520,8 +520,8 @@
 <stats>
 <stat name="ITEM_WEAR_CHANCE_ON_HIT" value="-500"/>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="32300"/>
-<stat name="EVADE" value="32300"/>
-<stat name="PARRY" value="32300"/>
+<stat name="EVADE" descriptionOverride="-" value="32300"/>
+<stat name="PARRY" descriptionOverride="-" value="32300"/>
 <stat name="INCOMING_HEALING" value="161600"/>
 </stats>
 </relic>
@@ -665,7 +665,7 @@
 <relic id="1879244617" name="Bridle Eastemnet Setting of Aggression" types="SETTING" slots="BRIDLE" minLevel="80" icon="1091751503-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="64600"/>
-<stat name="TACTICAL_MASTERY" value="64600"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="64600"/>
 <stat name="WARSTEED_STRENGTH" value="2000"/>
 <stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
@@ -673,7 +673,7 @@
 <relic id="1879253790" name="Bridle Eastemnet Setting of Aggression" types="SETTING" slots="BRIDLE" minLevel="80" icon="1091751503-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="64600"/>
-<stat name="TACTICAL_MASTERY" value="64600"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="64600"/>
 <stat name="WARSTEED_STRENGTH" value="2000"/>
 <stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
@@ -681,7 +681,7 @@
 <relic id="1879244608" name="Bridle Eastemnet Setting of Clout" types="SETTING" slots="BRIDLE" minLevel="80" icon="1091751517-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="64600"/>
-<stat name="TACTICAL_MASTERY" value="64600"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="64600"/>
 <stat name="WARSTEED_STRENGTH" value="2000"/>
 <stat name="WARSTEED_ENDURANCE" value="60000"/>
 </stats>
@@ -689,7 +689,7 @@
 <relic id="1879253804" name="Bridle Eastemnet Setting of Clout" types="SETTING" slots="BRIDLE" minLevel="80" icon="1091751517-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="64600"/>
-<stat name="TACTICAL_MASTERY" value="64600"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="64600"/>
 <stat name="WARSTEED_STRENGTH" value="2000"/>
 <stat name="WARSTEED_ENDURANCE" value="60000"/>
 </stats>
@@ -697,7 +697,7 @@
 <relic id="1879244592" name="Bridle Eastemnet Setting of Savvy" types="SETTING" slots="BRIDLE" minLevel="80" icon="1091751475-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="64600"/>
-<stat name="TACTICAL_MASTERY" value="64600"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="64600"/>
 <stat name="Vital_MountEnduranceCombatRegenAddMod" value="300"/>
 <stat name="Skill_RangedAttack_MaxRangeMod" descriptionOverride="+{***}m Max distance of ranged skills" value="500"/>
 </stats>
@@ -705,7 +705,7 @@
 <relic id="1879253787" name="Bridle Eastemnet Setting of Savvy" types="SETTING" slots="BRIDLE" minLevel="80" icon="1091751475-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="64600"/>
-<stat name="TACTICAL_MASTERY" value="64600"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="64600"/>
 <stat name="Vital_MountEnduranceCombatRegenAddMod" value="300"/>
 <stat name="Skill_RangedAttack_MaxRangeMod" descriptionOverride="+{***}m Max distance of ranged skills" value="500"/>
 </stats>
@@ -755,8 +755,8 @@
 <relic id="1879244614" name="Bridle Eastemnet Rune of Perseverance" types="RUNE" slots="BRIDLE" minLevel="80" icon="1091751534-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="32300"/>
-<stat name="EVADE" value="32300"/>
-<stat name="PARRY" value="32300"/>
+<stat name="EVADE" descriptionOverride="-" value="32300"/>
+<stat name="PARRY" descriptionOverride="-" value="32300"/>
 <stat name="Mount_Combat_EvadePoints_Modifier" value="37500"/>
 <stat name="Mount_Movement_Acceleration" value="400"/>
 </stats>
@@ -764,8 +764,8 @@
 <relic id="1879253794" name="Bridle Eastemnet Rune of Perseverance" types="RUNE" slots="BRIDLE" minLevel="80" icon="1091751534-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="32300"/>
-<stat name="EVADE" value="32300"/>
-<stat name="PARRY" value="32300"/>
+<stat name="EVADE" descriptionOverride="-" value="32300"/>
+<stat name="PARRY" descriptionOverride="-" value="32300"/>
 <stat name="Mount_Combat_EvadePoints_Modifier" value="37500"/>
 <stat name="Mount_Movement_Acceleration" value="400"/>
 </stats>
@@ -773,8 +773,8 @@
 <relic id="1879244622" name="Bridle Eastemnet Rune of Protection" types="RUNE" slots="BRIDLE" minLevel="80" icon="1091751465-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="32300"/>
-<stat name="EVADE" value="32300"/>
-<stat name="PARRY" value="32300"/>
+<stat name="EVADE" descriptionOverride="-" value="32300"/>
+<stat name="PARRY" descriptionOverride="-" value="32300"/>
 <stat name="Combat_Agent_MountArmor_Value_Float" value="30000"/>
 <stat name="Mount_Movement_Turn_Rate" value="400"/>
 </stats>
@@ -782,8 +782,8 @@
 <relic id="1879253792" name="Bridle Eastemnet Rune of Protection" types="RUNE" slots="BRIDLE" minLevel="80" icon="1091751465-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="32300"/>
-<stat name="EVADE" value="32300"/>
-<stat name="PARRY" value="32300"/>
+<stat name="EVADE" descriptionOverride="-" value="32300"/>
+<stat name="PARRY" descriptionOverride="-" value="32300"/>
 <stat name="Combat_Agent_MountArmor_Value_Float" value="30000"/>
 <stat name="Mount_Movement_Turn_Rate" value="400"/>
 </stats>
@@ -791,21 +791,21 @@
 <relic id="1879244624" name="Bridle Eastemnet Rune of Tenacity" types="RUNE" slots="BRIDLE" minLevel="80" icon="1091751568-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="32300"/>
-<stat name="EVADE" value="32300"/>
-<stat name="PARRY" value="32300"/>
+<stat name="EVADE" descriptionOverride="-" value="32300"/>
+<stat name="PARRY" descriptionOverride="-" value="32300"/>
 <stat name="RESISTANCE" value="63400"/>
 <stat name="PHYSICAL_MITIGATION" descriptionOverride="+{***} Physical and Tactical Mitigation" value="48500"/>
-<stat name="TACTICAL_MITIGATION" value="48500"/>
+<stat name="TACTICAL_MITIGATION" descriptionOverride="-" value="48500"/>
 </stats>
 </relic>
 <relic id="1879253795" name="Bridle Eastemnet Rune of Tenacity" types="RUNE" slots="BRIDLE" minLevel="80" icon="1091751568-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="32300"/>
-<stat name="EVADE" value="32300"/>
-<stat name="PARRY" value="32300"/>
+<stat name="EVADE" descriptionOverride="-" value="32300"/>
+<stat name="PARRY" descriptionOverride="-" value="32300"/>
 <stat name="RESISTANCE" value="63400"/>
 <stat name="PHYSICAL_MITIGATION" descriptionOverride="+{***} Physical and Tactical Mitigation" value="48500"/>
-<stat name="TACTICAL_MITIGATION" value="48500"/>
+<stat name="TACTICAL_MITIGATION" descriptionOverride="-" value="48500"/>
 </stats>
 </relic>
 </category>
@@ -948,8 +948,8 @@
 <stats>
 <stat name="ITEM_WEAR_CHANCE_ON_HIT" value="-500"/>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="26300"/>
-<stat name="EVADE" value="26300"/>
-<stat name="PARRY" value="26300"/>
+<stat name="EVADE" descriptionOverride="-" value="26300"/>
+<stat name="PARRY" descriptionOverride="-" value="26300"/>
 <stat name="INCOMING_HEALING" value="131300"/>
 </stats>
 </relic>
@@ -1025,8 +1025,8 @@
 <stats>
 <stat name="VITALITY" value="2500"/>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="26300"/>
-<stat name="EVADE" value="26300"/>
-<stat name="PARRY" value="26300"/>
+<stat name="EVADE" descriptionOverride="-" value="26300"/>
+<stat name="PARRY" descriptionOverride="-" value="26300"/>
 <stat name="ICMR" value="12600"/>
 </stats>
 </relic>
@@ -1034,8 +1034,8 @@
 <stats>
 <stat name="VITALITY" value="2500"/>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="26300"/>
-<stat name="EVADE" value="26300"/>
-<stat name="PARRY" value="26300"/>
+<stat name="EVADE" descriptionOverride="-" value="26300"/>
+<stat name="PARRY" descriptionOverride="-" value="26300"/>
 <stat name="ICMR" value="12600"/>
 </stats>
 </relic>
@@ -1694,8 +1694,8 @@
 <stats>
 <stat name="ITEM_WEAR_CHANCE_ON_HIT" value="-500"/>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="30300"/>
-<stat name="EVADE" value="30300"/>
-<stat name="PARRY" value="30300"/>
+<stat name="EVADE" descriptionOverride="-" value="30300"/>
+<stat name="PARRY" descriptionOverride="-" value="30300"/>
 <stat name="INCOMING_HEALING" value="151500"/>
 </stats>
 </relic>
@@ -1703,8 +1703,8 @@
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="17000"/>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="30300"/>
-<stat name="EVADE" value="30300"/>
-<stat name="PARRY" value="30300"/>
+<stat name="EVADE" descriptionOverride="-" value="30300"/>
+<stat name="PARRY" descriptionOverride="-" value="30300"/>
 <stat name="INCOMING_HEALING" value="151500"/>
 </stats>
 </relic>
@@ -1712,8 +1712,8 @@
 <stats>
 <stat name="PHYSICAL_MITIGATION" value="17000"/>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="30300"/>
-<stat name="EVADE" value="30300"/>
-<stat name="PARRY" value="30300"/>
+<stat name="EVADE" descriptionOverride="-" value="30300"/>
+<stat name="PARRY" descriptionOverride="-" value="30300"/>
 <stat name="INCOMING_HEALING" value="151500"/>
 </stats>
 </relic>
@@ -1757,8 +1757,8 @@
 <stats>
 <stat name="CRITICAL_DEFENCE" value="30300"/>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="30300"/>
-<stat name="EVADE" value="30300"/>
-<stat name="PARRY" value="30300"/>
+<stat name="EVADE" descriptionOverride="-" value="30300"/>
+<stat name="PARRY" descriptionOverride="-" value="30300"/>
 <stat name="VITALITY" value="3000"/>
 </stats>
 </relic>
@@ -1766,8 +1766,8 @@
 <stats>
 <stat name="CRITICAL_DEFENCE" value="30300"/>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="30300"/>
-<stat name="EVADE" value="30300"/>
-<stat name="PARRY" value="30300"/>
+<stat name="EVADE" descriptionOverride="-" value="30300"/>
+<stat name="PARRY" descriptionOverride="-" value="30300"/>
 <stat name="VITALITY" value="3000"/>
 </stats>
 </relic>
@@ -2508,7 +2508,7 @@
 <relic id="1879244606" name="Bridle Riddermark Setting of Aggression" types="SETTING" slots="BRIDLE" minLevel="85" icon="1091751467-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="68700"/>
-<stat name="TACTICAL_MASTERY" value="68700"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="68700"/>
 <stat name="WARSTEED_STRENGTH" value="3000"/>
 <stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
@@ -2516,7 +2516,7 @@
 <relic id="1879253799" name="Bridle Riddermark Setting of Aggression" types="SETTING" slots="BRIDLE" minLevel="85" icon="1091751467-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="68700"/>
-<stat name="TACTICAL_MASTERY" value="68700"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="68700"/>
 <stat name="WARSTEED_STRENGTH" value="3000"/>
 <stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
@@ -2524,7 +2524,7 @@
 <relic id="1879270084" name="Bridle Riddermark Setting of Aggression" types="SETTING" slots="BRIDLE" minLevel="85" icon="1091751467-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="68700"/>
-<stat name="TACTICAL_MASTERY" value="68700"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="68700"/>
 <stat name="WARSTEED_STRENGTH" value="3000"/>
 <stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
@@ -2532,7 +2532,7 @@
 <relic id="1879244596" name="Bridle Riddermark Setting of Clout" types="SETTING" slots="BRIDLE" minLevel="85" icon="1091751477-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="68700"/>
-<stat name="TACTICAL_MASTERY" value="68700"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="68700"/>
 <stat name="WARSTEED_STRENGTH" value="3000"/>
 <stat name="WARSTEED_ENDURANCE" value="60000"/>
 </stats>
@@ -2540,7 +2540,7 @@
 <relic id="1879253796" name="Bridle Riddermark Setting of Clout" types="SETTING" slots="BRIDLE" minLevel="85" icon="1091751477-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="68700"/>
-<stat name="TACTICAL_MASTERY" value="68700"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="68700"/>
 <stat name="WARSTEED_STRENGTH" value="3000"/>
 <stat name="WARSTEED_ENDURANCE" value="60000"/>
 </stats>
@@ -2548,7 +2548,7 @@
 <relic id="1879270082" name="Bridle Riddermark Setting of Clout" types="SETTING" slots="BRIDLE" minLevel="85" icon="1091751477-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="68700"/>
-<stat name="TACTICAL_MASTERY" value="68700"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="68700"/>
 <stat name="WARSTEED_STRENGTH" value="3000"/>
 <stat name="WARSTEED_ENDURANCE" value="60000"/>
 </stats>
@@ -2556,7 +2556,7 @@
 <relic id="1879244585" name="Bridle Riddermark Setting of Savvy" types="SETTING" slots="BRIDLE" minLevel="85" icon="1091751559-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="68700"/>
-<stat name="TACTICAL_MASTERY" value="68700"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="68700"/>
 <stat name="Vital_MountEnduranceCombatRegenAddMod" value="300"/>
 <stat name="Skill_RangedAttack_MaxRangeMod" descriptionOverride="+{***}m Max distance of ranged skills" value="500"/>
 </stats>
@@ -2564,7 +2564,7 @@
 <relic id="1879253798" name="Bridle Riddermark Setting of Savvy" types="SETTING" slots="BRIDLE" minLevel="85" icon="1091751559-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="68700"/>
-<stat name="TACTICAL_MASTERY" value="68700"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="68700"/>
 <stat name="Vital_MountEnduranceCombatRegenAddMod" value="300"/>
 <stat name="Skill_RangedAttack_MaxRangeMod" descriptionOverride="+{***}m Max distance of ranged skills" value="500"/>
 </stats>
@@ -2572,7 +2572,7 @@
 <relic id="1879270081" name="Bridle Riddermark Setting of Savvy" types="SETTING" slots="BRIDLE" minLevel="85" icon="1091751559-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="68700"/>
-<stat name="TACTICAL_MASTERY" value="68700"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="68700"/>
 <stat name="Vital_MountEnduranceCombatRegenAddMod" value="300"/>
 <stat name="Skill_RangedAttack_MaxRangeMod" descriptionOverride="+{***}m Max distance of ranged skills" value="500"/>
 </stats>
@@ -2643,8 +2643,8 @@
 <relic id="1879244602" name="Bridle Riddermark Rune of Perseverance" types="RUNE" slots="BRIDLE" minLevel="85" icon="1091751561-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="34300"/>
-<stat name="EVADE" value="34300"/>
-<stat name="PARRY" value="34300"/>
+<stat name="EVADE" descriptionOverride="-" value="34300"/>
+<stat name="PARRY" descriptionOverride="-" value="34300"/>
 <stat name="Mount_Combat_EvadePoints_Modifier" value="37500"/>
 <stat name="Mount_Movement_Acceleration" value="600"/>
 </stats>
@@ -2652,8 +2652,8 @@
 <relic id="1879253807" name="Bridle Riddermark Rune of Perseverance" types="RUNE" slots="BRIDLE" minLevel="85" icon="1091751561-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="34300"/>
-<stat name="EVADE" value="34300"/>
-<stat name="PARRY" value="34300"/>
+<stat name="EVADE" descriptionOverride="-" value="34300"/>
+<stat name="PARRY" descriptionOverride="-" value="34300"/>
 <stat name="Mount_Combat_EvadePoints_Modifier" value="37500"/>
 <stat name="Mount_Movement_Acceleration" value="600"/>
 </stats>
@@ -2661,8 +2661,8 @@
 <relic id="1879270086" name="Bridle Riddermark Rune of Perseverance" types="RUNE" slots="BRIDLE" minLevel="85" icon="1091751561-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="34300"/>
-<stat name="EVADE" value="34300"/>
-<stat name="PARRY" value="34300"/>
+<stat name="EVADE" descriptionOverride="-" value="34300"/>
+<stat name="PARRY" descriptionOverride="-" value="34300"/>
 <stat name="Mount_Combat_EvadePoints_Modifier" value="37500"/>
 <stat name="Mount_Movement_Acceleration" value="600"/>
 </stats>
@@ -2670,8 +2670,8 @@
 <relic id="1879244616" name="Bridle Riddermark Rune of Protection" types="RUNE" slots="BRIDLE" minLevel="85" icon="1091751488-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="34300"/>
-<stat name="EVADE" value="34300"/>
-<stat name="PARRY" value="34300"/>
+<stat name="EVADE" descriptionOverride="-" value="34300"/>
+<stat name="PARRY" descriptionOverride="-" value="34300"/>
 <stat name="Combat_Agent_MountArmor_Value_Float" value="30000"/>
 <stat name="Mount_Movement_Turn_Rate" value="600"/>
 </stats>
@@ -2679,8 +2679,8 @@
 <relic id="1879253806" name="Bridle Riddermark Rune of Protection" types="RUNE" slots="BRIDLE" minLevel="85" icon="1091751488-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="34300"/>
-<stat name="EVADE" value="34300"/>
-<stat name="PARRY" value="34300"/>
+<stat name="EVADE" descriptionOverride="-" value="34300"/>
+<stat name="PARRY" descriptionOverride="-" value="34300"/>
 <stat name="Combat_Agent_MountArmor_Value_Float" value="30000"/>
 <stat name="Mount_Movement_Turn_Rate" value="600"/>
 </stats>
@@ -2688,8 +2688,8 @@
 <relic id="1879270087" name="Bridle Riddermark Rune of Protection" types="RUNE" slots="BRIDLE" minLevel="85" icon="1091751488-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="34300"/>
-<stat name="EVADE" value="34300"/>
-<stat name="PARRY" value="34300"/>
+<stat name="EVADE" descriptionOverride="-" value="34300"/>
+<stat name="PARRY" descriptionOverride="-" value="34300"/>
 <stat name="Combat_Agent_MountArmor_Value_Float" value="30000"/>
 <stat name="Mount_Movement_Turn_Rate" value="600"/>
 </stats>
@@ -2697,31 +2697,31 @@
 <relic id="1879244620" name="Bridle Riddermark Rune of Tenacity" types="RUNE" slots="BRIDLE" minLevel="85" icon="1091751471-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="34300"/>
-<stat name="EVADE" value="34300"/>
-<stat name="PARRY" value="34300"/>
+<stat name="EVADE" descriptionOverride="-" value="34300"/>
+<stat name="PARRY" descriptionOverride="-" value="34300"/>
 <stat name="RESISTANCE" value="65500"/>
 <stat name="PHYSICAL_MITIGATION" descriptionOverride="+{***} Physical and Tactical Mitigation" value="51500"/>
-<stat name="TACTICAL_MITIGATION" value="51500"/>
+<stat name="TACTICAL_MITIGATION" descriptionOverride="-" value="51500"/>
 </stats>
 </relic>
 <relic id="1879253793" name="Bridle Riddermark Rune of Tenacity" types="RUNE" slots="BRIDLE" minLevel="85" icon="1091751471-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="34300"/>
-<stat name="EVADE" value="34300"/>
-<stat name="PARRY" value="34300"/>
+<stat name="EVADE" descriptionOverride="-" value="34300"/>
+<stat name="PARRY" descriptionOverride="-" value="34300"/>
 <stat name="RESISTANCE" value="65500"/>
 <stat name="PHYSICAL_MITIGATION" descriptionOverride="+{***} Physical and Tactical Mitigation" value="51500"/>
-<stat name="TACTICAL_MITIGATION" value="51500"/>
+<stat name="TACTICAL_MITIGATION" descriptionOverride="-" value="51500"/>
 </stats>
 </relic>
 <relic id="1879270080" name="Bridle Riddermark Rune of Tenacity" types="RUNE" slots="BRIDLE" minLevel="85" icon="1091751471-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="34300"/>
-<stat name="EVADE" value="34300"/>
-<stat name="PARRY" value="34300"/>
+<stat name="EVADE" descriptionOverride="-" value="34300"/>
+<stat name="PARRY" descriptionOverride="-" value="34300"/>
 <stat name="RESISTANCE" value="65500"/>
 <stat name="PHYSICAL_MITIGATION" descriptionOverride="+{***} Physical and Tactical Mitigation" value="51500"/>
-<stat name="TACTICAL_MITIGATION" value="51500"/>
+<stat name="TACTICAL_MITIGATION" descriptionOverride="-" value="51500"/>
 </stats>
 </relic>
 </category>
@@ -2742,8 +2742,8 @@
 <stats>
 <stat name="ITEM_WEAR_CHANCE_ON_HIT" value="-500"/>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="24200"/>
-<stat name="EVADE" value="24200"/>
-<stat name="PARRY" value="24200"/>
+<stat name="EVADE" descriptionOverride="-" value="24200"/>
+<stat name="PARRY" descriptionOverride="-" value="24200"/>
 </stats>
 </relic>
 <relic id="1879205821" name="Singular Gem of Charity" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="60" icon="1091635984-1091636664.png">
@@ -3864,8 +3864,8 @@
 <stats>
 <stat name="ITEM_WEAR_CHANCE_ON_HIT" value="-500"/>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="22200"/>
-<stat name="EVADE" value="22200"/>
-<stat name="PARRY" value="22200"/>
+<stat name="EVADE" descriptionOverride="-" value="22200"/>
+<stat name="PARRY" descriptionOverride="-" value="22200"/>
 </stats>
 </relic>
 <relic id="1879205805" name="Unique Gem of Charity" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="55" icon="1091635970-1091636664.png">
@@ -3912,7 +3912,7 @@
 <relic id="1879244603" name="Bridle Setting of Aggression" types="SETTING" slots="BRIDLE" minLevel="75" icon="1091751452-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="60600"/>
-<stat name="TACTICAL_MASTERY" value="60600"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="60600"/>
 <stat name="WARSTEED_STRENGTH" value="1000"/>
 <stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
@@ -3920,7 +3920,7 @@
 <relic id="1879253786" name="Bridle Setting of Aggression" types="SETTING" slots="BRIDLE" minLevel="75" icon="1091751452-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="60600"/>
-<stat name="TACTICAL_MASTERY" value="60600"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="60600"/>
 <stat name="WARSTEED_STRENGTH" value="1000"/>
 <stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
@@ -3928,7 +3928,7 @@
 <relic id="1879254185" name="Bridle Setting of Aggression" types="SETTING" slots="BRIDLE" minLevel="75" icon="1091751452-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="60600"/>
-<stat name="TACTICAL_MASTERY" value="60600"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="60600"/>
 <stat name="WARSTEED_STRENGTH" value="1000"/>
 <stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
@@ -3936,7 +3936,7 @@
 <relic id="1879244591" name="Bridle Setting of Clout" types="SETTING" slots="BRIDLE" minLevel="75" icon="1091751462-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="60600"/>
-<stat name="TACTICAL_MASTERY" value="60600"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="60600"/>
 <stat name="WARSTEED_STRENGTH" value="1000"/>
 <stat name="WARSTEED_ENDURANCE" value="40000"/>
 </stats>
@@ -3944,7 +3944,7 @@
 <relic id="1879253784" name="Bridle Setting of Clout" types="SETTING" slots="BRIDLE" minLevel="75" icon="1091751462-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="60600"/>
-<stat name="TACTICAL_MASTERY" value="60600"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="60600"/>
 <stat name="WARSTEED_STRENGTH" value="1000"/>
 <stat name="WARSTEED_ENDURANCE" value="40000"/>
 </stats>
@@ -3952,7 +3952,7 @@
 <relic id="1879254184" name="Bridle Setting of Clout" types="SETTING" slots="BRIDLE" minLevel="75" icon="1091751462-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="60600"/>
-<stat name="TACTICAL_MASTERY" value="60600"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="60600"/>
 <stat name="WARSTEED_STRENGTH" value="1000"/>
 <stat name="WARSTEED_ENDURANCE" value="40000"/>
 </stats>
@@ -3975,7 +3975,7 @@
 <relic id="1879244582" name="Bridle Setting of Savvy" types="SETTING" slots="BRIDLE" minLevel="75" icon="1091751540-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="60600"/>
-<stat name="TACTICAL_MASTERY" value="60600"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="60600"/>
 <stat name="Vital_MountEnduranceCombatRegenAddMod" value="300"/>
 <stat name="Skill_RangedAttack_MaxRangeMod" descriptionOverride="+{***}m Max distance of ranged skills" value="500"/>
 </stats>
@@ -3983,7 +3983,7 @@
 <relic id="1879253785" name="Bridle Setting of Savvy" types="SETTING" slots="BRIDLE" minLevel="75" icon="1091751540-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="60600"/>
-<stat name="TACTICAL_MASTERY" value="60600"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="60600"/>
 <stat name="Vital_MountEnduranceCombatRegenAddMod" value="300"/>
 <stat name="Skill_RangedAttack_MaxRangeMod" descriptionOverride="+{***}m Max distance of ranged skills" value="500"/>
 </stats>
@@ -3991,7 +3991,7 @@
 <relic id="1879254183" name="Bridle Setting of Savvy" types="SETTING" slots="BRIDLE" minLevel="75" icon="1091751540-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="60600"/>
-<stat name="TACTICAL_MASTERY" value="60600"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="60600"/>
 <stat name="Vital_MountEnduranceCombatRegenAddMod" value="300"/>
 <stat name="Skill_RangedAttack_MaxRangeMod" descriptionOverride="+{***}m Max distance of ranged skills" value="500"/>
 </stats>
@@ -4092,8 +4092,8 @@
 <relic id="1879244597" name="Bridle Rune of Perseverance" types="RUNE" slots="BRIDLE" minLevel="75" icon="1091751548-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="30300"/>
-<stat name="EVADE" value="30300"/>
-<stat name="PARRY" value="30300"/>
+<stat name="EVADE" descriptionOverride="-" value="30300"/>
+<stat name="PARRY" descriptionOverride="-" value="30300"/>
 <stat name="Mount_Combat_EvadePoints_Modifier" value="25000"/>
 <stat name="Mount_Movement_Acceleration" value="200"/>
 </stats>
@@ -4101,8 +4101,8 @@
 <relic id="1879253782" name="Bridle Rune of Perseverance" types="RUNE" slots="BRIDLE" minLevel="75" icon="1091751548-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="30300"/>
-<stat name="EVADE" value="30300"/>
-<stat name="PARRY" value="30300"/>
+<stat name="EVADE" descriptionOverride="-" value="30300"/>
+<stat name="PARRY" descriptionOverride="-" value="30300"/>
 <stat name="Mount_Combat_EvadePoints_Modifier" value="25000"/>
 <stat name="Mount_Movement_Acceleration" value="200"/>
 </stats>
@@ -4110,8 +4110,8 @@
 <relic id="1879254179" name="Bridle Rune of Perseverance" types="RUNE" slots="BRIDLE" minLevel="75" icon="1091751548-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="30300"/>
-<stat name="EVADE" value="30300"/>
-<stat name="PARRY" value="30300"/>
+<stat name="EVADE" descriptionOverride="-" value="30300"/>
+<stat name="PARRY" descriptionOverride="-" value="30300"/>
 <stat name="Mount_Combat_EvadePoints_Modifier" value="25000"/>
 <stat name="Mount_Movement_Acceleration" value="200"/>
 </stats>
@@ -4119,8 +4119,8 @@
 <relic id="1879244612" name="Bridle Rune of Protection" types="RUNE" slots="BRIDLE" minLevel="75" icon="1091751476-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="30300"/>
-<stat name="EVADE" value="30300"/>
-<stat name="PARRY" value="30300"/>
+<stat name="EVADE" descriptionOverride="-" value="30300"/>
+<stat name="PARRY" descriptionOverride="-" value="30300"/>
 <stat name="Combat_Agent_MountArmor_Value_Float" value="20000"/>
 <stat name="Mount_Movement_Turn_Rate" value="200"/>
 </stats>
@@ -4128,8 +4128,8 @@
 <relic id="1879253781" name="Bridle Rune of Protection" types="RUNE" slots="BRIDLE" minLevel="75" icon="1091751476-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="30300"/>
-<stat name="EVADE" value="30300"/>
-<stat name="PARRY" value="30300"/>
+<stat name="EVADE" descriptionOverride="-" value="30300"/>
+<stat name="PARRY" descriptionOverride="-" value="30300"/>
 <stat name="Combat_Agent_MountArmor_Value_Float" value="20000"/>
 <stat name="Mount_Movement_Turn_Rate" value="200"/>
 </stats>
@@ -4137,8 +4137,8 @@
 <relic id="1879254181" name="Bridle Rune of Protection" types="RUNE" slots="BRIDLE" minLevel="75" icon="1091751476-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="30300"/>
-<stat name="EVADE" value="30300"/>
-<stat name="PARRY" value="30300"/>
+<stat name="EVADE" descriptionOverride="-" value="30300"/>
+<stat name="PARRY" descriptionOverride="-" value="30300"/>
 <stat name="Combat_Agent_MountArmor_Value_Float" value="20000"/>
 <stat name="Mount_Movement_Turn_Rate" value="200"/>
 </stats>
@@ -4146,31 +4146,31 @@
 <relic id="1879244619" name="Bridle Rune of Tenacity" types="RUNE" slots="BRIDLE" minLevel="75" icon="1091751456-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="30300"/>
-<stat name="EVADE" value="30300"/>
-<stat name="PARRY" value="30300"/>
+<stat name="EVADE" descriptionOverride="-" value="30300"/>
+<stat name="PARRY" descriptionOverride="-" value="30300"/>
 <stat name="RESISTANCE" value="54200"/>
 <stat name="PHYSICAL_MITIGATION" descriptionOverride="+{***} Physical and Tactical Mitigation" value="45500"/>
-<stat name="TACTICAL_MITIGATION" value="45500"/>
+<stat name="TACTICAL_MITIGATION" descriptionOverride="-" value="45500"/>
 </stats>
 </relic>
 <relic id="1879253783" name="Bridle Rune of Tenacity" types="RUNE" slots="BRIDLE" minLevel="75" icon="1091751456-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="30300"/>
-<stat name="EVADE" value="30300"/>
-<stat name="PARRY" value="30300"/>
+<stat name="EVADE" descriptionOverride="-" value="30300"/>
+<stat name="PARRY" descriptionOverride="-" value="30300"/>
 <stat name="RESISTANCE" value="54200"/>
 <stat name="PHYSICAL_MITIGATION" descriptionOverride="+{***} Physical and Tactical Mitigation" value="45500"/>
-<stat name="TACTICAL_MITIGATION" value="45500"/>
+<stat name="TACTICAL_MITIGATION" descriptionOverride="-" value="45500"/>
 </stats>
 </relic>
 <relic id="1879254182" name="Bridle Rune of Tenacity" types="RUNE" slots="BRIDLE" minLevel="75" icon="1091751456-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="30300"/>
-<stat name="EVADE" value="30300"/>
-<stat name="PARRY" value="30300"/>
+<stat name="EVADE" descriptionOverride="-" value="30300"/>
+<stat name="PARRY" descriptionOverride="-" value="30300"/>
 <stat name="RESISTANCE" value="54200"/>
 <stat name="PHYSICAL_MITIGATION" descriptionOverride="+{***} Physical and Tactical Mitigation" value="45500"/>
-<stat name="TACTICAL_MITIGATION" value="45500"/>
+<stat name="TACTICAL_MITIGATION" descriptionOverride="-" value="45500"/>
 </stats>
 </relic>
 </category>
@@ -4369,8 +4369,8 @@
 <stats>
 <stat name="ITEM_WEAR_CHANCE_ON_HIT" value="-500"/>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="36400"/>
-<stat name="EVADE" value="36400"/>
-<stat name="PARRY" value="36400"/>
+<stat name="EVADE" descriptionOverride="-" value="36400"/>
+<stat name="PARRY" descriptionOverride="-" value="36400"/>
 <stat name="INCOMING_HEALING" value="181800"/>
 </stats>
 </relic>
@@ -4424,7 +4424,7 @@
 <relic id="1879288235" name="Bridle Westemnet Setting of Aggression" types="SETTING" slots="BRIDLE" minLevel="90" icon="1091751503-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="72700"/>
-<stat name="TACTICAL_MASTERY" value="72700"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="72700"/>
 <stat name="WARSTEED_STRENGTH" value="2000"/>
 <stat name="ATTACK_DURATION_PERCENTAGE" value="-1500"/>
 </stats>
@@ -4432,7 +4432,7 @@
 <relic id="1879288229" name="Bridle Westemnet Setting of Clout" types="SETTING" slots="BRIDLE" minLevel="90" icon="1091751517-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="72700"/>
-<stat name="TACTICAL_MASTERY" value="72700"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="72700"/>
 <stat name="WARSTEED_STRENGTH" value="2000"/>
 <stat name="WARSTEED_ENDURANCE" value="60000"/>
 </stats>
@@ -4440,7 +4440,7 @@
 <relic id="1879288222" name="Bridle Westemnet Setting of Savvy" types="SETTING" slots="BRIDLE" minLevel="90" icon="1091751475-1091751291.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" descriptionOverride="+{***} Physical and Tactical Mastery" value="72700"/>
-<stat name="TACTICAL_MASTERY" value="72700"/>
+<stat name="TACTICAL_MASTERY" descriptionOverride="-" value="72700"/>
 <stat name="Vital_MountEnduranceCombatRegenAddMod" value="300"/>
 <stat name="Skill_RangedAttack_MaxRangeMod" descriptionOverride="+{***}m Max distance of ranged skills" value="500"/>
 </stats>
@@ -4469,8 +4469,8 @@
 <relic id="1879288233" name="Bridle Westemnet Rune of Perseverance" types="RUNE" slots="BRIDLE" minLevel="90" icon="1091751534-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="36400"/>
-<stat name="EVADE" value="36400"/>
-<stat name="PARRY" value="36400"/>
+<stat name="EVADE" descriptionOverride="-" value="36400"/>
+<stat name="PARRY" descriptionOverride="-" value="36400"/>
 <stat name="Mount_Combat_EvadePoints_Modifier" value="37500"/>
 <stat name="Mount_Movement_Acceleration" value="400"/>
 </stats>
@@ -4478,8 +4478,8 @@
 <relic id="1879288243" name="Bridle Westemnet Rune of Protection" types="RUNE" slots="BRIDLE" minLevel="90" icon="1091751465-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="36400"/>
-<stat name="EVADE" value="36400"/>
-<stat name="PARRY" value="36400"/>
+<stat name="EVADE" descriptionOverride="-" value="36400"/>
+<stat name="PARRY" descriptionOverride="-" value="36400"/>
 <stat name="Combat_Agent_MountArmor_Value_Float" value="30000"/>
 <stat name="Mount_Movement_Turn_Rate" value="400"/>
 </stats>
@@ -4487,11 +4487,11 @@
 <relic id="1879288251" name="Bridle Westemnet Rune of Tenacity" types="RUNE" slots="BRIDLE" minLevel="90" icon="1091751568-1091751290.png">
 <stats>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="36400"/>
-<stat name="EVADE" value="36400"/>
-<stat name="PARRY" value="36400"/>
+<stat name="EVADE" descriptionOverride="-" value="36400"/>
+<stat name="PARRY" descriptionOverride="-" value="36400"/>
 <stat name="RESISTANCE" value="67700"/>
 <stat name="PHYSICAL_MITIGATION" descriptionOverride="+{***} Physical and Tactical Mitigation" value="54500"/>
-<stat name="TACTICAL_MITIGATION" value="54500"/>
+<stat name="TACTICAL_MITIGATION" descriptionOverride="-" value="54500"/>
 </stats>
 </relic>
 </category>
@@ -4514,8 +4514,8 @@
 <stats>
 <stat name="ITEM_WEAR_CHANCE_ON_HIT" value="-500"/>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="28300"/>
-<stat name="EVADE" value="28300"/>
-<stat name="PARRY" value="28300"/>
+<stat name="EVADE" descriptionOverride="-" value="28300"/>
+<stat name="PARRY" descriptionOverride="-" value="28300"/>
 <stat name="INCOMING_HEALING" value="141400"/>
 </stats>
 </relic>
@@ -4584,8 +4584,8 @@
 <stats>
 <stat name="ITEM_WEAR_CHANCE_ON_HIT" value="-500"/>
 <stat name="BLOCK" descriptionOverride="+{***} Block, Parry and Evade" value="34300"/>
-<stat name="EVADE" value="34300"/>
-<stat name="PARRY" value="34300"/>
+<stat name="EVADE" descriptionOverride="-" value="34300"/>
+<stat name="PARRY" descriptionOverride="-" value="34300"/>
 <stat name="INCOMING_HEALING" value="171700"/>
 </stats>
 </relic>
