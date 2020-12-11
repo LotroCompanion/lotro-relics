@@ -241,7 +241,7 @@
 </relic>
 <relic id="1879386407" name="Vales Device of Battle" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812633-1091526102.png">
 <stats>
-<stat name="MIGHT" value="97800"/>
+<stat name="MIGHT" value="97900"/>
 <stat name="CRITICAL_RATING" value="924600"/>
 <stat name="PHYSICAL_MASTERY" value="881000"/>
 </stats>
@@ -260,7 +260,7 @@
 </relic>
 <relic id="1879386409" name="Vales Device of Might" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812656-1091526101.png">
 <stats>
-<stat name="MIGHT" value="97800"/>
+<stat name="MIGHT" value="97900"/>
 </stats>
 </relic>
 <relic id="1879386419" name="Vales Device of Morale" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812645-1091526101.png">
@@ -318,7 +318,7 @@
 </relic>
 <relic id="1879278161" name="Westemnet Device of Battle" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="95" icon="1091812633-1091526102.png">
 <stats>
-<stat name="MIGHT" value="11800"/>
+<stat name="MIGHT" value="11900"/>
 <stat name="CRITICAL_RATING" value="112300"/>
 <stat name="PHYSICAL_MASTERY" value="107000"/>
 </stats>
@@ -395,7 +395,7 @@
 </relic>
 <relic id="1879229896" name="Westfold Device of Battle" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="75" icon="1091696282-1091526102.png">
 <stats>
-<stat name="MIGHT" value="7100"/>
+<stat name="MIGHT" value="7200"/>
 <stat name="CRITICAL_RATING" value="67800"/>
 <stat name="PHYSICAL_MASTERY" value="64700"/>
 </stats>
@@ -1286,7 +1286,7 @@
 </relic>
 <relic id="1879351007" name="Expedition Gem of Might" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091759288-1091636664.png">
 <stats>
-<stat name="MIGHT" value="29100"/>
+<stat name="MIGHT" value="29200"/>
 <stat name="CRITICAL_DEFENCE" value="324000"/>
 </stats>
 </relic>
@@ -4252,7 +4252,7 @@
 </relic>
 <relic id="1879388196" name="Grand Vales Gem of Might" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091759288-1091636664.png">
 <stats>
-<stat name="MIGHT" value="97800"/>
+<stat name="MIGHT" value="97900"/>
 <stat name="CRITICAL_DEFENCE" value="1087700"/>
 </stats>
 </relic>
