@@ -3,8 +3,8 @@
 <relic id="1879249605" name="Eastemnet Device of Accuracy" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="85" icon="1091751615-1091526102.png">
 <stats>
 <stat name="AGILITY" value="8600"/>
-<stat name="CRITICAL_RATING" value="81500"/>
-<stat name="PHYSICAL_MASTERY" value="77800"/>
+<stat name="CRITICAL_RATING" value="81800"/>
+<stat name="PHYSICAL_MASTERY" value="77900"/>
 </stats>
 </relic>
 <relic id="1879249608" name="Eastemnet Device of Agility" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="80" icon="1091751752-1091526101.png">
@@ -15,8 +15,8 @@
 <relic id="1879249609" name="Eastemnet Device of Battle" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="85" icon="1091751616-1091526102.png">
 <stats>
 <stat name="MIGHT" value="8600"/>
-<stat name="CRITICAL_RATING" value="81500"/>
-<stat name="PHYSICAL_MASTERY" value="77800"/>
+<stat name="CRITICAL_RATING" value="81800"/>
+<stat name="PHYSICAL_MASTERY" value="77900"/>
 </stats>
 </relic>
 <relic id="1879249602" name="Eastemnet Device of Fate" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="80" icon="1091751755-1091526101.png">
@@ -27,8 +27,8 @@
 <relic id="1879249607" name="Eastemnet Device of Insight" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="85" icon="1091751613-1091526102.png">
 <stats>
 <stat name="FATE" value="8600"/>
-<stat name="CRITICAL_RATING" value="81500"/>
-<stat name="TACTICAL_MASTERY" value="77800"/>
+<stat name="CRITICAL_RATING" value="81800"/>
+<stat name="TACTICAL_MASTERY" value="77900"/>
 </stats>
 </relic>
 <relic id="1879249604" name="Eastemnet Device of Might" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="80" icon="1091751743-1091526101.png">
@@ -38,14 +38,14 @@
 </relic>
 <relic id="1879249601" name="Eastemnet Device of Morale" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="80" icon="1091751746-1091526101.png">
 <stats>
-<stat name="MORALE" value="36500"/>
+<stat name="MORALE" value="36600"/>
 </stats>
 </relic>
 <relic id="1879278155" name="Eastemnet Device of Potency" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="85" icon="1091765152-1091526102.png">
 <stats>
 <stat name="FATE" value="8600"/>
-<stat name="CRITICAL_RATING" value="81500"/>
-<stat name="PHYSICAL_MASTERY" value="77800"/>
+<stat name="CRITICAL_RATING" value="81800"/>
+<stat name="PHYSICAL_MASTERY" value="77900"/>
 </stats>
 </relic>
 <relic id="1879249603" name="Eastemnet Device of Power" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="80" icon="1091751753-1091526101.png">
@@ -56,15 +56,15 @@
 <relic id="1879249606" name="Eastemnet Device of Protection" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="85" icon="1091765152-1091526102.png">
 <stats>
 <stat name="CRITICAL_DEFENCE" value="95900"/>
-<stat name="PHYSICAL_MITIGATION" value="132200"/>
-<stat name="TACTICAL_MITIGATION" value="64300"/>
+<stat name="PHYSICAL_MITIGATION" value="132400"/>
+<stat name="TACTICAL_MITIGATION" value="88500"/>
 </stats>
 </relic>
 <relic id="1879249610" name="Eastemnet Device of Tactics" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="85" icon="1091751611-1091526102.png">
 <stats>
 <stat name="WILL" value="8600"/>
-<stat name="CRITICAL_RATING" value="81500"/>
-<stat name="TACTICAL_MASTERY" value="77800"/>
+<stat name="CRITICAL_RATING" value="81800"/>
+<stat name="TACTICAL_MASTERY" value="77900"/>
 </stats>
 </relic>
 <relic id="1879249600" name="Eastemnet Device of Vitality" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="80" icon="1091751750-1091526101.png">
@@ -79,54 +79,54 @@
 </relic>
 <relic id="1879411500" name="Elderslade Device of Accuracy" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812631-1091526102.png">
 <stats>
-<stat name="AGILITY" value="239500"/>
-<stat name="CRITICAL_RATING" value="2262200"/>
-<stat name="PHYSICAL_MASTERY" value="2155800"/>
+<stat name="AGILITY" value="240300"/>
+<stat name="CRITICAL_RATING" value="2268200"/>
+<stat name="PHYSICAL_MASTERY" value="2162400"/>
 </stats>
 </relic>
 <relic id="1879411496" name="Elderslade Device of Battle" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812633-1091526102.png">
 <stats>
-<stat name="MIGHT" value="239500"/>
-<stat name="CRITICAL_RATING" value="2262200"/>
-<stat name="PHYSICAL_MASTERY" value="2155800"/>
+<stat name="MIGHT" value="240300"/>
+<stat name="CRITICAL_RATING" value="2268200"/>
+<stat name="PHYSICAL_MASTERY" value="2162400"/>
 </stats>
 </relic>
 <relic id="1879411497" name="Elderslade Device of Insight" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812639-1091526102.png">
 <stats>
-<stat name="FATE" value="239500"/>
-<stat name="CRITICAL_RATING" value="2262200"/>
-<stat name="TACTICAL_MASTERY" value="2155800"/>
+<stat name="FATE" value="240300"/>
+<stat name="CRITICAL_RATING" value="2268200"/>
+<stat name="TACTICAL_MASTERY" value="2162400"/>
 </stats>
 </relic>
 <relic id="1879411488" name="Elderslade Device of Potency" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812637-1091526102.png">
 <stats>
-<stat name="FATE" value="239500"/>
-<stat name="CRITICAL_RATING" value="2262200"/>
-<stat name="PHYSICAL_MASTERY" value="2155800"/>
+<stat name="FATE" value="240300"/>
+<stat name="CRITICAL_RATING" value="2268200"/>
+<stat name="PHYSICAL_MASTERY" value="2162400"/>
 </stats>
 </relic>
 <relic id="1879411499" name="Elderslade Device of Protection" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812637-1091526102.png">
 <stats>
-<stat name="CRITICAL_DEFENCE" value="2661400"/>
-<stat name="PHYSICAL_MITIGATION" value="3228000"/>
-<stat name="TACTICAL_MITIGATION" value="1783600"/>
+<stat name="CRITICAL_DEFENCE" value="2665500"/>
+<stat name="PHYSICAL_MITIGATION" value="3231800"/>
+<stat name="TACTICAL_MITIGATION" value="2459200"/>
 </stats>
 </relic>
 <relic id="1879411501" name="Elderslade Device of Tactics" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812635-1091526102.png">
 <stats>
-<stat name="WILL" value="239500"/>
-<stat name="CRITICAL_RATING" value="2262200"/>
-<stat name="TACTICAL_MASTERY" value="2155800"/>
+<stat name="WILL" value="240300"/>
+<stat name="CRITICAL_RATING" value="2268200"/>
+<stat name="TACTICAL_MASTERY" value="2162400"/>
 </stats>
 </relic>
 <relic id="1879393634" name="Imbued Device of Vitality" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812650-1091526101.png">
 <stats>
-<stat name="VITALITY" value="98100"/>
+<stat name="VITALITY" value="98300"/>
 </stats>
 </relic>
 <relic id="1879393635" name="Imbued Device of Will" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812643-1091526101.png">
 <stats>
-<stat name="WILL" value="97800"/>
+<stat name="WILL" value="98200"/>
 </stats>
 </relic>
 <relic id="1879166118" name="Minor Symbol of Agility" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091572883-1091526103.png">
@@ -156,7 +156,7 @@
 </relic>
 <relic id="1879166124" name="Minor Symbol of Vitality" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091572881-1091526103.png">
 <stats>
-<stat name="VITALITY" value="4700"/>
+<stat name="VITALITY" value="4800"/>
 </stats>
 </relic>
 <relic id="1879166161" name="Minor Symbol of Will" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091572898-1091526103.png">
@@ -168,7 +168,7 @@
 <stats>
 <stat name="AGILITY" value="5400"/>
 <stat name="CRITICAL_RATING" value="51300"/>
-<stat name="PHYSICAL_MASTERY" value="48900"/>
+<stat name="PHYSICAL_MASTERY" value="49000"/>
 </stats>
 </relic>
 <relic id="1879166093" name="Symbol of Agility" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="61" icon="1091572872-1091526101.png">
@@ -180,7 +180,7 @@
 <stats>
 <stat name="MIGHT" value="5400"/>
 <stat name="CRITICAL_RATING" value="51300"/>
-<stat name="PHYSICAL_MASTERY" value="48900"/>
+<stat name="PHYSICAL_MASTERY" value="49000"/>
 </stats>
 </relic>
 <relic id="1879166126" name="Symbol of Fate" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="61" icon="1091572871-1091526101.png">
@@ -192,7 +192,7 @@
 <stats>
 <stat name="FATE" value="5400"/>
 <stat name="CRITICAL_RATING" value="51300"/>
-<stat name="TACTICAL_MASTERY" value="48900"/>
+<stat name="TACTICAL_MASTERY" value="49000"/>
 </stats>
 </relic>
 <relic id="1879166137" name="Symbol of Might" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="61" icon="1091572894-1091526101.png">
@@ -214,7 +214,7 @@
 <stats>
 <stat name="WILL" value="5400"/>
 <stat name="CRITICAL_RATING" value="51300"/>
-<stat name="TACTICAL_MASTERY" value="48900"/>
+<stat name="TACTICAL_MASTERY" value="49000"/>
 </stats>
 </relic>
 <relic id="1879166144" name="Symbol of Vitality" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="61" icon="1091572863-1091526101.png">
@@ -229,38 +229,38 @@
 </relic>
 <relic id="1879386404" name="Vales Device of Accuracy" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812631-1091526102.png">
 <stats>
-<stat name="AGILITY" value="97800"/>
-<stat name="CRITICAL_RATING" value="924600"/>
-<stat name="PHYSICAL_MASTERY" value="881000"/>
+<stat name="AGILITY" value="98200"/>
+<stat name="CRITICAL_RATING" value="926200"/>
+<stat name="PHYSICAL_MASTERY" value="885600"/>
 </stats>
 </relic>
 <relic id="1879386412" name="Vales Device of Agility" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812652-1091526101.png">
 <stats>
-<stat name="AGILITY" value="97800"/>
+<stat name="AGILITY" value="98200"/>
 </stats>
 </relic>
 <relic id="1879386407" name="Vales Device of Battle" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812633-1091526102.png">
 <stats>
-<stat name="MIGHT" value="97900"/>
-<stat name="CRITICAL_RATING" value="924600"/>
-<stat name="PHYSICAL_MASTERY" value="881000"/>
+<stat name="MIGHT" value="98200"/>
+<stat name="CRITICAL_RATING" value="926200"/>
+<stat name="PHYSICAL_MASTERY" value="885600"/>
 </stats>
 </relic>
 <relic id="1879386413" name="Vales Device of Fate" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812654-1091526101.png">
 <stats>
-<stat name="FATE" value="97800"/>
+<stat name="FATE" value="98200"/>
 </stats>
 </relic>
 <relic id="1879386401" name="Vales Device of Insight" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812639-1091526102.png">
 <stats>
-<stat name="FATE" value="97800"/>
-<stat name="CRITICAL_RATING" value="924600"/>
-<stat name="TACTICAL_MASTERY" value="881000"/>
+<stat name="FATE" value="98200"/>
+<stat name="CRITICAL_RATING" value="926200"/>
+<stat name="TACTICAL_MASTERY" value="885600"/>
 </stats>
 </relic>
 <relic id="1879386409" name="Vales Device of Might" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812656-1091526101.png">
 <stats>
-<stat name="MIGHT" value="97900"/>
+<stat name="MIGHT" value="98200"/>
 </stats>
 </relic>
 <relic id="1879386419" name="Vales Device of Morale" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812645-1091526101.png">
@@ -270,9 +270,9 @@
 </relic>
 <relic id="1879386405" name="Vales Device of Potency" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812637-1091526102.png">
 <stats>
-<stat name="FATE" value="97800"/>
-<stat name="CRITICAL_RATING" value="924600"/>
-<stat name="PHYSICAL_MASTERY" value="881000"/>
+<stat name="FATE" value="98200"/>
+<stat name="CRITICAL_RATING" value="926200"/>
+<stat name="PHYSICAL_MASTERY" value="885600"/>
 </stats>
 </relic>
 <relic id="1879386410" name="Vales Device of Power" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812649-1091526101.png">
@@ -283,32 +283,32 @@
 <relic id="1879386422" name="Vales Device of Protection" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812637-1091526102.png">
 <stats>
 <stat name="CRITICAL_DEFENCE" value="1087700"/>
-<stat name="PHYSICAL_MITIGATION" value="1366800"/>
-<stat name="TACTICAL_MITIGATION" value="729000"/>
+<stat name="PHYSICAL_MITIGATION" value="1369400"/>
+<stat name="TACTICAL_MITIGATION" value="1006400"/>
 </stats>
 </relic>
 <relic id="1879386402" name="Vales Device of Tactics" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812635-1091526102.png">
 <stats>
-<stat name="WILL" value="97800"/>
-<stat name="CRITICAL_RATING" value="924600"/>
-<stat name="TACTICAL_MASTERY" value="881000"/>
+<stat name="WILL" value="98200"/>
+<stat name="CRITICAL_RATING" value="926200"/>
+<stat name="TACTICAL_MASTERY" value="885600"/>
 </stats>
 </relic>
 <relic id="1879386406" name="Vales Device of Vitality" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812650-1091526101.png">
 <stats>
-<stat name="VITALITY" value="98100"/>
+<stat name="VITALITY" value="98300"/>
 </stats>
 </relic>
 <relic id="1879386415" name="Vales Device of Will" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091812643-1091526101.png">
 <stats>
-<stat name="WILL" value="97800"/>
+<stat name="WILL" value="98200"/>
 </stats>
 </relic>
 <relic id="1879278153" name="Westemnet Device of Accuracy" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="95" icon="1091812631-1091526102.png">
 <stats>
-<stat name="AGILITY" value="11800"/>
-<stat name="CRITICAL_RATING" value="112300"/>
-<stat name="PHYSICAL_MASTERY" value="107000"/>
+<stat name="AGILITY" value="11900"/>
+<stat name="CRITICAL_RATING" value="112800"/>
+<stat name="PHYSICAL_MASTERY" value="107300"/>
 </stats>
 </relic>
 <relic id="1879278149" name="Westemnet Device of Agility" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="90" icon="1091812652-1091526101.png">
@@ -319,8 +319,8 @@
 <relic id="1879278161" name="Westemnet Device of Battle" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="95" icon="1091812633-1091526102.png">
 <stats>
 <stat name="MIGHT" value="11900"/>
-<stat name="CRITICAL_RATING" value="112300"/>
-<stat name="PHYSICAL_MASTERY" value="107000"/>
+<stat name="CRITICAL_RATING" value="112800"/>
+<stat name="PHYSICAL_MASTERY" value="107300"/>
 </stats>
 </relic>
 <relic id="1879278160" name="Westemnet Device of Fate" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="90" icon="1091812654-1091526101.png">
@@ -330,9 +330,9 @@
 </relic>
 <relic id="1879278157" name="Westemnet Device of Insight" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="95" icon="1091812639-1091526102.png">
 <stats>
-<stat name="FATE" value="11800"/>
-<stat name="CRITICAL_RATING" value="112300"/>
-<stat name="TACTICAL_MASTERY" value="107000"/>
+<stat name="FATE" value="11900"/>
+<stat name="CRITICAL_RATING" value="112800"/>
+<stat name="TACTICAL_MASTERY" value="107300"/>
 </stats>
 </relic>
 <relic id="1879278158" name="Westemnet Device of Might" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="90" icon="1091812656-1091526101.png">
@@ -342,14 +342,14 @@
 </relic>
 <relic id="1879278159" name="Westemnet Device of Morale" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="90" icon="1091812645-1091526101.png">
 <stats>
-<stat name="MORALE" value="50500"/>
+<stat name="MORALE" value="50600"/>
 </stats>
 </relic>
 <relic id="1879278150" name="Westemnet Device of Potency" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="95" icon="1091812637-1091526102.png">
 <stats>
-<stat name="FATE" value="11800"/>
-<stat name="CRITICAL_RATING" value="112300"/>
-<stat name="PHYSICAL_MASTERY" value="107000"/>
+<stat name="FATE" value="11900"/>
+<stat name="CRITICAL_RATING" value="112800"/>
+<stat name="PHYSICAL_MASTERY" value="107300"/>
 </stats>
 </relic>
 <relic id="1879278151" name="Westemnet Device of Power" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="90" icon="1091812649-1091526101.png">
@@ -360,20 +360,20 @@
 <relic id="1879278154" name="Westemnet Device of Protection" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="95" icon="1091812637-1091526102.png">
 <stats>
 <stat name="CRITICAL_DEFENCE" value="132100"/>
-<stat name="PHYSICAL_MITIGATION" value="203000"/>
-<stat name="TACTICAL_MITIGATION" value="88500"/>
+<stat name="PHYSICAL_MITIGATION" value="203600"/>
+<stat name="TACTICAL_MITIGATION" value="122000"/>
 </stats>
 </relic>
 <relic id="1879278152" name="Westemnet Device of Tactics" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="95" icon="1091812635-1091526102.png">
 <stats>
-<stat name="WILL" value="11800"/>
-<stat name="CRITICAL_RATING" value="112300"/>
-<stat name="TACTICAL_MASTERY" value="107000"/>
+<stat name="WILL" value="11900"/>
+<stat name="CRITICAL_RATING" value="112800"/>
+<stat name="TACTICAL_MASTERY" value="107300"/>
 </stats>
 </relic>
 <relic id="1879278162" name="Westemnet Device of Vitality" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="90" icon="1091812650-1091526101.png">
 <stats>
-<stat name="VITALITY" value="15600"/>
+<stat name="VITALITY" value="15700"/>
 </stats>
 </relic>
 <relic id="1879278156" name="Westemnet Device of Will" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="90" icon="1091812643-1091526101.png">
@@ -383,8 +383,8 @@
 </relic>
 <relic id="1879229897" name="Westfold Device of Accuracy" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="75" icon="1091696284-1091526102.png">
 <stats>
-<stat name="AGILITY" value="7100"/>
-<stat name="CRITICAL_RATING" value="67800"/>
+<stat name="AGILITY" value="7200"/>
+<stat name="CRITICAL_RATING" value="67900"/>
 <stat name="PHYSICAL_MASTERY" value="64700"/>
 </stats>
 </relic>
@@ -396,7 +396,7 @@
 <relic id="1879229896" name="Westfold Device of Battle" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="75" icon="1091696282-1091526102.png">
 <stats>
 <stat name="MIGHT" value="7200"/>
-<stat name="CRITICAL_RATING" value="67800"/>
+<stat name="CRITICAL_RATING" value="67900"/>
 <stat name="PHYSICAL_MASTERY" value="64700"/>
 </stats>
 </relic>
@@ -407,8 +407,8 @@
 </relic>
 <relic id="1879229899" name="Westfold Device of Insight" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="75" icon="1091696288-1091526102.png">
 <stats>
-<stat name="FATE" value="7100"/>
-<stat name="CRITICAL_RATING" value="67800"/>
+<stat name="FATE" value="7200"/>
+<stat name="CRITICAL_RATING" value="67900"/>
 <stat name="TACTICAL_MASTERY" value="64700"/>
 </stats>
 </relic>
@@ -419,7 +419,7 @@
 </relic>
 <relic id="1879229883" name="Westfold Device of Morale" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="70" icon="1091696292-1091526101.png">
 <stats>
-<stat name="MORALE" value="28000"/>
+<stat name="MORALE" value="28100"/>
 </stats>
 </relic>
 <relic id="1879229889" name="Westfold Device of Power" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="70" icon="1091696304-1091526101.png">
@@ -429,8 +429,8 @@
 </relic>
 <relic id="1879229898" name="Westfold Device of Tactics" types="CRAFTED_RELIC" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="75" icon="1091696286-1091526102.png">
 <stats>
-<stat name="WILL" value="7100"/>
-<stat name="CRITICAL_RATING" value="67800"/>
+<stat name="WILL" value="7200"/>
+<stat name="CRITICAL_RATING" value="67900"/>
 <stat name="TACTICAL_MASTERY" value="64700"/>
 </stats>
 </relic>
@@ -449,54 +449,54 @@
 <relic id="1879384149" name="Greater Winterstith Rune of Binding" types="RUNE" slots="CLASS_SLOT" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="12500"/>
-<stat name="CRITICAL_RATING" value="739600"/>
+<stat name="CRITICAL_RATING" value="739700"/>
 </stats>
 </relic>
 <relic id="1879384145" name="Greater Winterstith Rune of Enchantment" types="RUNE" slots="MAIN_HAND" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="18700"/>
-<stat name="CRITICAL_RATING" value="739600"/>
+<stat name="CRITICAL_RATING" value="739700"/>
 </stats>
 </relic>
 <relic id="1879384141" name="Greater Winterstith Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="739600"/>
+<stat name="CRITICAL_RATING" value="739700"/>
 <stat name="Combat_Damage_Mod" value="24900"/>
 </stats>
 </relic>
 <relic id="1879384139" name="Rare Mithrin Rune of Binding" types="RUNE" slots="CLASS_SLOT" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="11100"/>
-<stat name="CRITICAL_RATING" value="460300"/>
+<stat name="CRITICAL_RATING" value="460600"/>
 </stats>
 </relic>
 <relic id="1879384137" name="Rare Mithrin Rune of Enchantment" types="RUNE" slots="MAIN_HAND" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="16700"/>
-<stat name="CRITICAL_RATING" value="460300"/>
+<stat name="CRITICAL_RATING" value="460600"/>
 </stats>
 </relic>
 <relic id="1879384148" name="Rare Mithrin Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="460300"/>
+<stat name="CRITICAL_RATING" value="460600"/>
 <stat name="Combat_Damage_Mod" value="22200"/>
 </stats>
 </relic>
 <relic id="1879384151" name="Winterstith Rune of Binding" types="RUNE" slots="CLASS_SLOT" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="11800"/>
-<stat name="CRITICAL_RATING" value="507500"/>
+<stat name="CRITICAL_RATING" value="507800"/>
 </stats>
 </relic>
 <relic id="1879384147" name="Winterstith Rune of Enchantment" types="RUNE" slots="MAIN_HAND" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="17700"/>
-<stat name="CRITICAL_RATING" value="507500"/>
+<stat name="CRITICAL_RATING" value="507800"/>
 </stats>
 </relic>
 <relic id="1879384143" name="Winterstith Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="507500"/>
+<stat name="CRITICAL_RATING" value="507800"/>
 <stat name="Combat_Damage_Mod" value="23600"/>
 </stats>
 </relic>
@@ -813,118 +813,118 @@
 <relic id="1879411495" name="Setting of the Three Peaks" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785119-1091636663.png">
 <stats>
 <stat name="MORALE" value="528200"/>
-<stat name="PARRY" value="1002900"/>
-<stat name="EVADE" value="1504300"/>
-<stat name="TACTICAL_MITIGATION" value="672100"/>
-<stat name="RESISTANCE" value="1504300"/>
+<stat name="PARRY" value="1006600"/>
+<stat name="EVADE" value="1511400"/>
+<stat name="TACTICAL_MITIGATION" value="926800"/>
+<stat name="RESISTANCE" value="1511400"/>
 </stats>
 </relic>
 <relic id="1879411498" name="Gem of the Three Peaks" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759287-1091636664.png">
 <stats>
-<stat name="VITALITY" value="181200"/>
-<stat name="CRITICAL_DEFENCE" value="1504300"/>
-<stat name="FATE" value="90200"/>
-<stat name="MIGHT" value="225600"/>
-<stat name="AGILITY" value="225600"/>
-<stat name="WILL" value="225600"/>
+<stat name="VITALITY" value="181700"/>
+<stat name="CRITICAL_DEFENCE" value="1511400"/>
+<stat name="FATE" value="90500"/>
+<stat name="MIGHT" value="226500"/>
+<stat name="AGILITY" value="226500"/>
+<stat name="WILL" value="226500"/>
 </stats>
 </relic>
 <relic id="1879410051" name="Brilliant Elderslade Rune of Binding" types="RUNE" slots="CLASS_SLOT" minLevel="100" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="21100"/>
-<stat name="CRITICAL_RATING" value="1499000"/>
+<stat name="CRITICAL_RATING" value="1502400"/>
 </stats>
 </relic>
 <relic id="1879410049" name="Brilliant Elderslade Rune of Enchantment" types="RUNE" slots="MAIN_HAND" minLevel="100" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="31600"/>
-<stat name="CRITICAL_RATING" value="1499000"/>
+<stat name="CRITICAL_RATING" value="1502400"/>
 </stats>
 </relic>
 <relic id="1879410050" name="Brilliant Elderslade Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="1499000"/>
+<stat name="CRITICAL_RATING" value="1502400"/>
 <stat name="Combat_Damage_Mod" value="42100"/>
 </stats>
 </relic>
 <relic id="1879410048" name="Elderslade Rune of Binding" types="RUNE" slots="CLASS_SLOT" minLevel="100" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="20300"/>
-<stat name="CRITICAL_RATING" value="1436000"/>
+<stat name="CRITICAL_RATING" value="1439100"/>
 </stats>
 </relic>
 <relic id="1879410053" name="Elderslade Rune of Enchantment" types="RUNE" slots="MAIN_HAND" minLevel="100" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="30400"/>
-<stat name="CRITICAL_RATING" value="1436000"/>
+<stat name="CRITICAL_RATING" value="1439100"/>
 </stats>
 </relic>
 <relic id="1879410055" name="Elderslade Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="1436000"/>
+<stat name="CRITICAL_RATING" value="1439100"/>
 <stat name="Combat_Damage_Mod" value="40600"/>
 </stats>
 </relic>
 <relic id="1879412343" name="Greater Threshold Rune of Binding" types="RUNE" slots="CLASS_SLOT" minLevel="100" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="23800"/>
-<stat name="CRITICAL_RATING" value="1719300"/>
+<stat name="CRITICAL_RATING" value="1724200"/>
 </stats>
 </relic>
 <relic id="1879412341" name="Greater Threshold Rune of Enchantment" types="RUNE" slots="MAIN_HAND" minLevel="100" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="35700"/>
-<stat name="CRITICAL_RATING" value="1719300"/>
+<stat name="CRITICAL_RATING" value="1724200"/>
 </stats>
 </relic>
 <relic id="1879412342" name="Greater Threshold Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="1719300"/>
+<stat name="CRITICAL_RATING" value="1724200"/>
 <stat name="Combat_Damage_Mod" value="47600"/>
 </stats>
 </relic>
 <relic id="1879411489" name="Rune of the Three Peaks" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785155-1091636662.png">
 <stats>
-<stat name="PHYSICAL_MASTERY" value="2030800"/>
-<stat name="TACTICAL_MASTERY" value="2030800"/>
-<stat name="CRITICAL_RATING" value="1278600"/>
-<stat name="FINESSE" value="1504300"/>
+<stat name="PHYSICAL_MASTERY" value="2038000"/>
+<stat name="TACTICAL_MASTERY" value="2038000"/>
+<stat name="CRITICAL_RATING" value="1280700"/>
+<stat name="FINESSE" value="1511400"/>
 <stat name="POWER" value="60900"/>
 </stats>
 </relic>
 <relic id="1879411492" name="Three Peaks Rune of Binding" types="RUNE" slots="CLASS_SLOT" minLevel="100" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="20300"/>
-<stat name="CRITICAL_RATING" value="1914700"/>
+<stat name="CRITICAL_RATING" value="1920600"/>
 </stats>
 </relic>
 <relic id="1879411494" name="Three Peaks Rune of Enchantment" types="RUNE" slots="MAIN_HAND" minLevel="100" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="30400"/>
-<stat name="CRITICAL_RATING" value="1914700"/>
+<stat name="CRITICAL_RATING" value="1920600"/>
 </stats>
 </relic>
 <relic id="1879411491" name="Three Peaks Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="1914700"/>
+<stat name="CRITICAL_RATING" value="1920600"/>
 <stat name="Combat_Damage_Mod" value="40600"/>
 </stats>
 </relic>
 <relic id="1879411493" name="Threshold Rune of Binding" types="RUNE" slots="CLASS_SLOT" minLevel="100" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="22200"/>
-<stat name="CRITICAL_RATING" value="1593400"/>
+<stat name="CRITICAL_RATING" value="1597500"/>
 </stats>
 </relic>
 <relic id="1879411490" name="Threshold Rune of Enchantment" types="RUNE" slots="MAIN_HAND" minLevel="100" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="33400"/>
-<stat name="CRITICAL_RATING" value="1593400"/>
+<stat name="CRITICAL_RATING" value="1597500"/>
 </stats>
 </relic>
 <relic id="1879411502" name="Threshold Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="1593400"/>
+<stat name="CRITICAL_RATING" value="1597500"/>
 <stat name="Combat_Damage_Mod" value="44500"/>
 </stats>
 </relic>
@@ -1100,9 +1100,9 @@
 <category code="76" name="Gorgoroth">
 <relic id="1879351022" name="Abyssal Setting of Brutality" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785114-1091636663.png">
 <stats>
-<stat name="CRITICAL_RATING" value="414000"/>
-<stat name="PARRY" value="292300"/>
-<stat name="EVADE" value="194800"/>
+<stat name="CRITICAL_RATING" value="414200"/>
+<stat name="PARRY" value="292400"/>
+<stat name="EVADE" value="194900"/>
 </stats>
 </relic>
 <relic id="1879351010" name="Abyssal Setting of Defence" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785119-1091636663.png">
@@ -1119,15 +1119,15 @@
 </relic>
 <relic id="1879351011" name="Abyssal Setting of Resistance" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785115-1091636663.png">
 <stats>
-<stat name="TACTICAL_MITIGATION" value="326400"/>
+<stat name="TACTICAL_MITIGATION" value="449300"/>
 <stat name="RESISTANCE" value="487100"/>
 </stats>
 </relic>
 <relic id="1879351033" name="Expedition Setting of Brutality" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785114-1091636663.png">
 <stats>
-<stat name="CRITICAL_RATING" value="275400"/>
-<stat name="PARRY" value="194400"/>
-<stat name="EVADE" value="129600"/>
+<stat name="CRITICAL_RATING" value="276000"/>
+<stat name="PARRY" value="195000"/>
+<stat name="EVADE" value="130000"/>
 </stats>
 </relic>
 <relic id="1879351014" name="Expedition Setting of Defence" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785119-1091636663.png">
@@ -1144,15 +1144,15 @@
 </relic>
 <relic id="1879351027" name="Expedition Setting of Resistance" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785115-1091636663.png">
 <stats>
-<stat name="TACTICAL_MITIGATION" value="217100"/>
+<stat name="TACTICAL_MITIGATION" value="299000"/>
 <stat name="RESISTANCE" value="324000"/>
 </stats>
 </relic>
 <relic id="1879351032" name="Grand Abyssal Setting of Brutality" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785114-1091636663.png">
 <stats>
-<stat name="CRITICAL_RATING" value="444000"/>
-<stat name="PARRY" value="313400"/>
-<stat name="EVADE" value="208900"/>
+<stat name="CRITICAL_RATING" value="444100"/>
+<stat name="PARRY" value="313500"/>
+<stat name="EVADE" value="209000"/>
 </stats>
 </relic>
 <relic id="1879351020" name="Grand Abyssal Setting of Defence" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785119-1091636663.png">
@@ -1169,15 +1169,15 @@
 </relic>
 <relic id="1879351021" name="Grand Abyssal Setting of Resistance" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785115-1091636663.png">
 <stats>
-<stat name="TACTICAL_MITIGATION" value="350100"/>
+<stat name="TACTICAL_MITIGATION" value="481800"/>
 <stat name="RESISTANCE" value="522400"/>
 </stats>
 </relic>
 <relic id="1879393581" name="Imbued Setting of Brutality" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785114-1091636663.png">
 <stats>
-<stat name="CRITICAL_RATING" value="414000"/>
-<stat name="PARRY" value="292300"/>
-<stat name="EVADE" value="194800"/>
+<stat name="CRITICAL_RATING" value="414200"/>
+<stat name="PARRY" value="292400"/>
+<stat name="EVADE" value="194900"/>
 </stats>
 </relic>
 <relic id="1879393622" name="Imbued Setting of Defence" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785119-1091636663.png">
@@ -1194,9 +1194,9 @@
 </relic>
 <relic id="1879350999" name="Last Alliance Setting of Brutality" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785114-1091636663.png">
 <stats>
-<stat name="CRITICAL_RATING" value="372800"/>
-<stat name="PARRY" value="263200"/>
-<stat name="EVADE" value="175400"/>
+<stat name="CRITICAL_RATING" value="373100"/>
+<stat name="PARRY" value="263400"/>
+<stat name="EVADE" value="175600"/>
 </stats>
 </relic>
 <relic id="1879350991" name="Last Alliance Setting of Defence" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785119-1091636663.png">
@@ -1213,15 +1213,15 @@
 </relic>
 <relic id="1879350993" name="Last Alliance Setting of Resistance" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785115-1091636663.png">
 <stats>
-<stat name="TACTICAL_MITIGATION" value="293900"/>
+<stat name="TACTICAL_MITIGATION" value="404600"/>
 <stat name="RESISTANCE" value="438600"/>
 </stats>
 </relic>
 <relic id="1879351019" name="Vanguard Setting of Brutality" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785114-1091636663.png">
 <stats>
-<stat name="CRITICAL_RATING" value="387800"/>
-<stat name="PARRY" value="273700"/>
-<stat name="EVADE" value="182500"/>
+<stat name="CRITICAL_RATING" value="388000"/>
+<stat name="PARRY" value="274000"/>
+<stat name="EVADE" value="182700"/>
 </stats>
 </relic>
 <relic id="1879351008" name="Vanguard Setting of Defence" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785119-1091636663.png">
@@ -1238,7 +1238,7 @@
 </relic>
 <relic id="1879351009" name="Vanguard Setting of Resistance" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785115-1091636663.png">
 <stats>
-<stat name="TACTICAL_MITIGATION" value="305800"/>
+<stat name="TACTICAL_MITIGATION" value="420800"/>
 <stat name="RESISTANCE" value="456200"/>
 </stats>
 </relic>
@@ -1274,13 +1274,13 @@
 </relic>
 <relic id="1879351081" name="Expedition Gem of Agility" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091759285-1091636664.png">
 <stats>
-<stat name="AGILITY" value="29100"/>
+<stat name="AGILITY" value="29200"/>
 <stat name="CRITICAL_DEFENCE" value="324000"/>
 </stats>
 </relic>
 <relic id="1879351044" name="Expedition Gem of Fate" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="FATE" value="29100"/>
+<stat name="FATE" value="29200"/>
 <stat name="CRITICAL_DEFENCE" value="324000"/>
 </stats>
 </relic>
@@ -1292,13 +1292,13 @@
 </relic>
 <relic id="1879351024" name="Expedition Gem of Vitality" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="VITALITY" value="33700"/>
+<stat name="VITALITY" value="33800"/>
 <stat name="CRITICAL_DEFENCE" value="324000"/>
 </stats>
 </relic>
 <relic id="1879351013" name="Expedition Gem of Will" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="WILL" value="29100"/>
+<stat name="WILL" value="29200"/>
 <stat name="CRITICAL_DEFENCE" value="324000"/>
 </stats>
 </relic>
@@ -1370,7 +1370,7 @@
 </relic>
 <relic id="1879350998" name="Last Alliance Gem of Vitality" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="VITALITY" value="45600"/>
+<stat name="VITALITY" value="45700"/>
 <stat name="CRITICAL_DEFENCE" value="438600"/>
 </stats>
 </relic>
@@ -1413,265 +1413,265 @@
 <relic id="1879362984" name="Abyssal Rune of Binding" types="RUNE" slots="CLASS_SLOT" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="8000"/>
-<stat name="CRITICAL_RATING" value="248400"/>
+<stat name="CRITICAL_RATING" value="249100"/>
 </stats>
 </relic>
 <relic id="1879368320" name="Abyssal Rune of Binding" types="RUNE" slots="CLASS_SLOT" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="8000"/>
-<stat name="CRITICAL_RATING" value="250700"/>
+<stat name="CRITICAL_RATING" value="251300"/>
 </stats>
 </relic>
 <relic id="1879362980" name="Abyssal Rune of Enchantment" types="RUNE" slots="MAIN_HAND" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="12000"/>
-<stat name="CRITICAL_RATING" value="248400"/>
+<stat name="CRITICAL_RATING" value="249100"/>
 </stats>
 </relic>
 <relic id="1879368327" name="Abyssal Rune of Enchantment" types="RUNE" slots="MAIN_HAND" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="12100"/>
-<stat name="CRITICAL_RATING" value="250700"/>
+<stat name="CRITICAL_RATING" value="251300"/>
 </stats>
 </relic>
 <relic id="1879351028" name="Abyssal Rune of Force" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785148-1091636662.png">
 <stats>
-<stat name="PHYSICAL_MASTERY" value="394600"/>
-<stat name="CRITICAL_RATING" value="248400"/>
+<stat name="PHYSICAL_MASTERY" value="395100"/>
+<stat name="CRITICAL_RATING" value="249100"/>
 </stats>
 </relic>
 <relic id="1879351023" name="Abyssal Rune of Healing" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785155-1091636662.png">
 <stats>
 <stat name="OUTGOING_HEALING" value="974200"/>
-<stat name="CRITICAL_RATING" value="248400"/>
+<stat name="CRITICAL_RATING" value="249100"/>
 </stats>
 </relic>
 <relic id="1879351029" name="Abyssal Rune of Power" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785154-1091636662.png">
 <stats>
-<stat name="TACTICAL_MASTERY" value="394600"/>
-<stat name="CRITICAL_RATING" value="248400"/>
+<stat name="TACTICAL_MASTERY" value="395100"/>
+<stat name="CRITICAL_RATING" value="249100"/>
 </stats>
 </relic>
 <relic id="1879351054" name="Expedition Rune of Force" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785148-1091636662.png">
 <stats>
-<stat name="PHYSICAL_MASTERY" value="262400"/>
-<stat name="CRITICAL_RATING" value="165200"/>
+<stat name="PHYSICAL_MASTERY" value="263000"/>
+<stat name="CRITICAL_RATING" value="166000"/>
 </stats>
 </relic>
 <relic id="1879351046" name="Expedition Rune of Healing" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785155-1091636662.png">
 <stats>
 <stat name="OUTGOING_HEALING" value="648000"/>
-<stat name="CRITICAL_RATING" value="165200"/>
+<stat name="CRITICAL_RATING" value="166000"/>
 </stats>
 </relic>
 <relic id="1879351015" name="Expedition Rune of Power" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785154-1091636662.png">
 <stats>
-<stat name="TACTICAL_MASTERY" value="262400"/>
-<stat name="CRITICAL_RATING" value="165200"/>
+<stat name="TACTICAL_MASTERY" value="263000"/>
+<stat name="CRITICAL_RATING" value="166000"/>
 </stats>
 </relic>
 <relic id="1879364553" name="Grand Abyssal Rune of Binding" types="RUNE" slots="CLASS_SLOT" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="8700"/>
-<stat name="CRITICAL_RATING" value="364200"/>
+<stat name="CRITICAL_RATING" value="365000"/>
 </stats>
 </relic>
 <relic id="1879368322" name="Grand Abyssal Rune of Binding" types="RUNE" slots="CLASS_SLOT" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="8600"/>
-<stat name="CRITICAL_RATING" value="358200"/>
+<stat name="CRITICAL_RATING" value="359000"/>
 </stats>
 </relic>
 <relic id="1879364552" name="Grand Abyssal Rune of Enchantment" types="RUNE" slots="MAIN_HAND" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="13100"/>
-<stat name="CRITICAL_RATING" value="364200"/>
+<stat name="CRITICAL_RATING" value="365000"/>
 </stats>
 </relic>
 <relic id="1879368328" name="Grand Abyssal Rune of Enchantment" types="RUNE" slots="MAIN_HAND" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="12900"/>
-<stat name="CRITICAL_RATING" value="358200"/>
+<stat name="CRITICAL_RATING" value="359000"/>
 </stats>
 </relic>
 <relic id="1879364551" name="Grand Abyssal Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="364200"/>
+<stat name="CRITICAL_RATING" value="365000"/>
 <stat name="Combat_Damage_Mod" value="17500"/>
 </stats>
 </relic>
 <relic id="1879362971" name="Greater Abyssal Rune of Binding" types="RUNE" slots="CLASS_SLOT" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="8300"/>
-<stat name="CRITICAL_RATING" value="346200"/>
+<stat name="CRITICAL_RATING" value="347000"/>
 </stats>
 </relic>
 <relic id="1879368325" name="Greater Abyssal Rune of Binding" types="RUNE" slots="CLASS_SLOT" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="8300"/>
-<stat name="CRITICAL_RATING" value="346200"/>
+<stat name="CRITICAL_RATING" value="347000"/>
 </stats>
 </relic>
 <relic id="1879362983" name="Greater Abyssal Rune of Enchantment" types="RUNE" slots="MAIN_HAND" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="12500"/>
-<stat name="CRITICAL_RATING" value="346200"/>
+<stat name="CRITICAL_RATING" value="347000"/>
 </stats>
 </relic>
 <relic id="1879368321" name="Greater Abyssal Rune of Enchantment" types="RUNE" slots="MAIN_HAND" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="12500"/>
-<stat name="CRITICAL_RATING" value="346200"/>
+<stat name="CRITICAL_RATING" value="347000"/>
 </stats>
 </relic>
 <relic id="1879393571" name="Imbued Rune of Binding" types="RUNE" slots="CLASS_SLOT" minLevel="100" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="8000"/>
-<stat name="CRITICAL_RATING" value="248400"/>
+<stat name="CRITICAL_RATING" value="249100"/>
 </stats>
 </relic>
 <relic id="1879393598" name="Imbued Rune of Enchantment" types="RUNE" slots="MAIN_HAND" minLevel="100" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="12000"/>
-<stat name="CRITICAL_RATING" value="248400"/>
+<stat name="CRITICAL_RATING" value="249100"/>
 </stats>
 </relic>
 <relic id="1879393617" name="Imbued Rune of Force" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785148-1091636662.png">
 <stats>
-<stat name="PHYSICAL_MASTERY" value="394600"/>
-<stat name="CRITICAL_RATING" value="248400"/>
+<stat name="PHYSICAL_MASTERY" value="395100"/>
+<stat name="CRITICAL_RATING" value="249100"/>
 </stats>
 </relic>
 <relic id="1879393614" name="Imbued Rune of Healing" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785155-1091636662.png">
 <stats>
 <stat name="OUTGOING_HEALING" value="974200"/>
-<stat name="CRITICAL_RATING" value="248400"/>
+<stat name="CRITICAL_RATING" value="249100"/>
 </stats>
 </relic>
 <relic id="1879393618" name="Imbued Rune of Power" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785154-1091636662.png">
 <stats>
-<stat name="TACTICAL_MASTERY" value="394600"/>
-<stat name="CRITICAL_RATING" value="248400"/>
+<stat name="TACTICAL_MASTERY" value="395100"/>
+<stat name="CRITICAL_RATING" value="249100"/>
 </stats>
 </relic>
 <relic id="1879393592" name="Imbued Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="248400"/>
+<stat name="CRITICAL_RATING" value="249100"/>
 <stat name="Combat_Damage_Mod" value="15900"/>
 </stats>
 </relic>
 <relic id="1879361275" name="Incomparable Vanguard Rune of Binding" types="RUNE" slots="CLASS_SLOT" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="7800"/>
-<stat name="CRITICAL_RATING" value="243900"/>
+<stat name="CRITICAL_RATING" value="244600"/>
 </stats>
 </relic>
 <relic id="1879368323" name="Incomparable Vanguard Rune of Binding" types="RUNE" slots="CLASS_SLOT" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="7800"/>
-<stat name="CRITICAL_RATING" value="241700"/>
+<stat name="CRITICAL_RATING" value="242300"/>
 </stats>
 </relic>
 <relic id="1879361278" name="Incomparable Vanguard Rune of Enchantment" types="RUNE" slots="MAIN_HAND" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="11700"/>
-<stat name="CRITICAL_RATING" value="243900"/>
+<stat name="CRITICAL_RATING" value="244600"/>
 </stats>
 </relic>
 <relic id="1879368329" name="Incomparable Vanguard Rune of Enchantment" types="RUNE" slots="MAIN_HAND" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="11600"/>
-<stat name="CRITICAL_RATING" value="241700"/>
+<stat name="CRITICAL_RATING" value="242300"/>
 </stats>
 </relic>
 <relic id="1879361277" name="Incomparable Vanguard Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="243900"/>
+<stat name="CRITICAL_RATING" value="244600"/>
 <stat name="Combat_Damage_Mod" value="15700"/>
 </stats>
 </relic>
 <relic id="1879350989" name="Last Alliance Rune of Force" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785148-1091636662.png">
 <stats>
-<stat name="PHYSICAL_MASTERY" value="355300"/>
-<stat name="CRITICAL_RATING" value="223700"/>
+<stat name="PHYSICAL_MASTERY" value="355900"/>
+<stat name="CRITICAL_RATING" value="224400"/>
 </stats>
 </relic>
 <relic id="1879350992" name="Last Alliance Rune of Healing" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785155-1091636662.png">
 <stats>
 <stat name="OUTGOING_HEALING" value="877200"/>
-<stat name="CRITICAL_RATING" value="223700"/>
+<stat name="CRITICAL_RATING" value="224400"/>
 </stats>
 </relic>
 <relic id="1879350995" name="Last Alliance Rune of Power" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785154-1091636662.png">
 <stats>
-<stat name="TACTICAL_MASTERY" value="355300"/>
-<stat name="CRITICAL_RATING" value="223700"/>
+<stat name="TACTICAL_MASTERY" value="355900"/>
+<stat name="CRITICAL_RATING" value="224400"/>
 </stats>
 </relic>
 <relic id="1879361274" name="Rare Vanguard Rune of Binding" types="RUNE" slots="CLASS_SLOT" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="7500"/>
-<stat name="CRITICAL_RATING" value="232700"/>
+<stat name="CRITICAL_RATING" value="233300"/>
 </stats>
 </relic>
 <relic id="1879368326" name="Rare Vanguard Rune of Binding" types="RUNE" slots="CLASS_SLOT" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="7500"/>
-<stat name="CRITICAL_RATING" value="232700"/>
+<stat name="CRITICAL_RATING" value="233300"/>
 </stats>
 </relic>
 <relic id="1879361279" name="Rare Vanguard Rune of Enchantment" types="RUNE" slots="MAIN_HAND" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="11200"/>
-<stat name="CRITICAL_RATING" value="232700"/>
+<stat name="CRITICAL_RATING" value="233300"/>
 </stats>
 </relic>
 <relic id="1879368324" name="Rare Vanguard Rune of Enchantment" types="RUNE" slots="MAIN_HAND" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="11200"/>
-<stat name="CRITICAL_RATING" value="232700"/>
+<stat name="CRITICAL_RATING" value="233300"/>
 </stats>
 </relic>
 <relic id="1879361276" name="Rare Vanguard Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="232700"/>
+<stat name="CRITICAL_RATING" value="233300"/>
 <stat name="Combat_Damage_Mod" value="15000"/>
 </stats>
 </relic>
 <relic id="1879351041" name="TBD T3 Rune of Force" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785148-1091636662.png">
 <stats>
-<stat name="PHYSICAL_MASTERY" value="423100"/>
-<stat name="CRITICAL_RATING" value="266400"/>
+<stat name="PHYSICAL_MASTERY" value="423700"/>
+<stat name="CRITICAL_RATING" value="267000"/>
 </stats>
 </relic>
 <relic id="1879351034" name="TBD T3 Rune of Healing" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785155-1091636662.png">
 <stats>
 <stat name="OUTGOING_HEALING" value="1044700"/>
-<stat name="CRITICAL_RATING" value="266400"/>
+<stat name="CRITICAL_RATING" value="267000"/>
 </stats>
 </relic>
 <relic id="1879351042" name="TBD T3 Rune of Power" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785154-1091636662.png">
 <stats>
-<stat name="TACTICAL_MASTERY" value="423100"/>
-<stat name="CRITICAL_RATING" value="266400"/>
+<stat name="TACTICAL_MASTERY" value="423700"/>
+<stat name="CRITICAL_RATING" value="267000"/>
 </stats>
 </relic>
 <relic id="1879351043" name="Vanguard Rune of Force" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785148-1091636662.png">
 <stats>
-<stat name="PHYSICAL_MASTERY" value="369600"/>
-<stat name="CRITICAL_RATING" value="232700"/>
+<stat name="PHYSICAL_MASTERY" value="370100"/>
+<stat name="CRITICAL_RATING" value="233300"/>
 </stats>
 </relic>
 <relic id="1879351036" name="Vanguard Rune of Healing" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785155-1091636662.png">
 <stats>
 <stat name="OUTGOING_HEALING" value="912500"/>
-<stat name="CRITICAL_RATING" value="232700"/>
+<stat name="CRITICAL_RATING" value="233300"/>
 </stats>
 </relic>
 <relic id="1879351045" name="Vanguard Rune of Power" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785154-1091636662.png">
 <stats>
-<stat name="TACTICAL_MASTERY" value="369600"/>
-<stat name="CRITICAL_RATING" value="232700"/>
+<stat name="TACTICAL_MASTERY" value="370100"/>
+<stat name="CRITICAL_RATING" value="233300"/>
 </stats>
 </relic>
 </category>
@@ -1842,274 +1842,274 @@
 <category code="79" name="Minas Morgul">
 <relic id="1879404443" name="Darkened Remmorchant Setting of Brutality" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785114-1091636663.png">
 <stats>
-<stat name="CRITICAL_RATING" value="2288400"/>
-<stat name="PARRY" value="1615400"/>
-<stat name="EVADE" value="1076900"/>
+<stat name="CRITICAL_RATING" value="2294500"/>
+<stat name="PARRY" value="1622900"/>
+<stat name="EVADE" value="1081800"/>
 </stats>
 </relic>
 <relic id="1879404436" name="Darkened Remmorchant Setting of Defence" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785119-1091636663.png">
 <stats>
-<stat name="BLOCK" value="2692300"/>
-<stat name="PARRY" value="2692300"/>
+<stat name="BLOCK" value="2696500"/>
+<stat name="PARRY" value="2696500"/>
 </stats>
 </relic>
 <relic id="1879404435" name="Darkened Remmorchant Setting of Finesse" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785122-1091636663.png">
 <stats>
-<stat name="FINESSE" value="2692300"/>
-<stat name="EVADE" value="2692300"/>
+<stat name="FINESSE" value="2696500"/>
+<stat name="EVADE" value="2696500"/>
 </stats>
 </relic>
 <relic id="1879404438" name="Darkened Remmorchant Setting of Resistance" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785115-1091636663.png">
 <stats>
-<stat name="TACTICAL_MITIGATION" value="1804300"/>
-<stat name="RESISTANCE" value="2692300"/>
+<stat name="TACTICAL_MITIGATION" value="2487600"/>
+<stat name="RESISTANCE" value="2696500"/>
 </stats>
 </relic>
 <relic id="1879395781" name="Glimmering Ithil Setting of Brutality" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785114-1091636663.png">
 <stats>
-<stat name="CRITICAL_RATING" value="1921200"/>
-<stat name="PARRY" value="1356200"/>
-<stat name="EVADE" value="904100"/>
+<stat name="CRITICAL_RATING" value="1925900"/>
+<stat name="PARRY" value="1362900"/>
+<stat name="EVADE" value="906400"/>
 </stats>
 </relic>
 <relic id="1879395824" name="Glimmering Ithil Setting of Defence" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785119-1091636663.png">
 <stats>
-<stat name="BLOCK" value="2260300"/>
-<stat name="PARRY" value="2260300"/>
+<stat name="BLOCK" value="2262200"/>
+<stat name="PARRY" value="2262200"/>
 </stats>
 </relic>
 <relic id="1879395796" name="Glimmering Ithil Setting of Finesse" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785122-1091636663.png">
 <stats>
-<stat name="FINESSE" value="2260300"/>
-<stat name="EVADE" value="2260300"/>
+<stat name="FINESSE" value="2262200"/>
+<stat name="EVADE" value="2262200"/>
 </stats>
 </relic>
 <relic id="1879395827" name="Glimmering Ithil Setting of Resistance" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785115-1091636663.png">
 <stats>
-<stat name="TACTICAL_MITIGATION" value="1514800"/>
-<stat name="RESISTANCE" value="2260300"/>
+<stat name="TACTICAL_MITIGATION" value="2090400"/>
+<stat name="RESISTANCE" value="2262200"/>
 </stats>
 </relic>
 <relic id="1879395829" name="Ithil Setting of Brutality" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785114-1091636663.png">
 <stats>
-<stat name="CRITICAL_RATING" value="1685200"/>
-<stat name="PARRY" value="1189500"/>
-<stat name="EVADE" value="793000"/>
+<stat name="CRITICAL_RATING" value="1689000"/>
+<stat name="PARRY" value="1195700"/>
+<stat name="EVADE" value="793600"/>
 </stats>
 </relic>
 <relic id="1879395832" name="Ithil Setting of Defence" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785119-1091636663.png">
 <stats>
-<stat name="BLOCK" value="1982600"/>
-<stat name="PARRY" value="1982600"/>
+<stat name="BLOCK" value="1983100"/>
+<stat name="PARRY" value="1983100"/>
 </stats>
 </relic>
 <relic id="1879395802" name="Ithil Setting of Finesse" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785122-1091636663.png">
 <stats>
-<stat name="FINESSE" value="1982600"/>
-<stat name="EVADE" value="1982600"/>
+<stat name="FINESSE" value="1983100"/>
+<stat name="EVADE" value="1983100"/>
 </stats>
 </relic>
 <relic id="1879395836" name="Ithil Setting of Resistance" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785115-1091636663.png">
 <stats>
-<stat name="TACTICAL_MITIGATION" value="1328700"/>
-<stat name="RESISTANCE" value="1982600"/>
+<stat name="TACTICAL_MITIGATION" value="1835100"/>
+<stat name="RESISTANCE" value="1983100"/>
 </stats>
 </relic>
 <relic id="1879404350" name="Darkened Remmorchant Gem of Agility" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759285-1091636664.png">
 <stats>
-<stat name="AGILITY" value="242300"/>
-<stat name="CRITICAL_DEFENCE" value="2692300"/>
+<stat name="AGILITY" value="243100"/>
+<stat name="CRITICAL_DEFENCE" value="2696500"/>
 </stats>
 </relic>
 <relic id="1879404352" name="Darkened Remmorchant Gem of Fate" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759287-1091636664.png">
 <stats>
-<stat name="FATE" value="242300"/>
-<stat name="CRITICAL_DEFENCE" value="2692300"/>
+<stat name="FATE" value="243100"/>
+<stat name="CRITICAL_DEFENCE" value="2696500"/>
 </stats>
 </relic>
 <relic id="1879404349" name="Darkened Remmorchant Gem of Might" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759288-1091636664.png">
 <stats>
-<stat name="MIGHT" value="242300"/>
-<stat name="CRITICAL_DEFENCE" value="2692300"/>
+<stat name="MIGHT" value="243100"/>
+<stat name="CRITICAL_DEFENCE" value="2696500"/>
 </stats>
 </relic>
 <relic id="1879404348" name="Darkened Remmorchant Gem of Vitality" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759287-1091636664.png">
 <stats>
-<stat name="VITALITY" value="192900"/>
-<stat name="CRITICAL_DEFENCE" value="2692300"/>
+<stat name="VITALITY" value="193400"/>
+<stat name="CRITICAL_DEFENCE" value="2696500"/>
 </stats>
 </relic>
 <relic id="1879404370" name="Darkened Remmorchant Gem of Will" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759287-1091636664.png">
 <stats>
-<stat name="WILL" value="242300"/>
-<stat name="CRITICAL_DEFENCE" value="2692300"/>
+<stat name="WILL" value="243100"/>
+<stat name="CRITICAL_DEFENCE" value="2696500"/>
 </stats>
 </relic>
 <relic id="1879395820" name="Glimmering Ithil Gem of Agility" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759285-1091636664.png">
 <stats>
-<stat name="AGILITY" value="203400"/>
-<stat name="CRITICAL_DEFENCE" value="2260300"/>
+<stat name="AGILITY" value="204300"/>
+<stat name="CRITICAL_DEFENCE" value="2262200"/>
 </stats>
 </relic>
 <relic id="1879395779" name="Glimmering Ithil Gem of Fate" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759287-1091636664.png">
 <stats>
-<stat name="FATE" value="203400"/>
-<stat name="CRITICAL_DEFENCE" value="2260300"/>
+<stat name="FATE" value="204300"/>
+<stat name="CRITICAL_DEFENCE" value="2262200"/>
 </stats>
 </relic>
 <relic id="1879395805" name="Glimmering Ithil Gem of Might" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759288-1091636664.png">
 <stats>
-<stat name="MIGHT" value="203400"/>
-<stat name="CRITICAL_DEFENCE" value="2260300"/>
+<stat name="MIGHT" value="204300"/>
+<stat name="CRITICAL_DEFENCE" value="2262200"/>
 </stats>
 </relic>
 <relic id="1879395830" name="Glimmering Ithil Gem of Vitality" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759287-1091636664.png">
 <stats>
-<stat name="VITALITY" value="165700"/>
-<stat name="CRITICAL_DEFENCE" value="2260300"/>
+<stat name="VITALITY" value="166200"/>
+<stat name="CRITICAL_DEFENCE" value="2262200"/>
 </stats>
 </relic>
 <relic id="1879395834" name="Glimmering Ithil Gem of Will" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759287-1091636664.png">
 <stats>
-<stat name="WILL" value="203400"/>
-<stat name="CRITICAL_DEFENCE" value="2260300"/>
+<stat name="WILL" value="204300"/>
+<stat name="CRITICAL_DEFENCE" value="2262200"/>
 </stats>
 </relic>
 <relic id="1879395797" name="Ithil Gem of Agility" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759285-1091636664.png">
 <stats>
-<stat name="AGILITY" value="178400"/>
-<stat name="CRITICAL_DEFENCE" value="1982600"/>
+<stat name="AGILITY" value="179300"/>
+<stat name="CRITICAL_DEFENCE" value="1983100"/>
 </stats>
 </relic>
 <relic id="1879395801" name="Ithil Gem of Fate" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759287-1091636664.png">
 <stats>
-<stat name="FATE" value="178400"/>
-<stat name="CRITICAL_DEFENCE" value="1982600"/>
+<stat name="FATE" value="179300"/>
+<stat name="CRITICAL_DEFENCE" value="1983100"/>
 </stats>
 </relic>
 <relic id="1879395776" name="Ithil Gem of Might" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759288-1091636664.png">
 <stats>
-<stat name="MIGHT" value="178400"/>
-<stat name="CRITICAL_DEFENCE" value="1982600"/>
+<stat name="MIGHT" value="179300"/>
+<stat name="CRITICAL_DEFENCE" value="1983100"/>
 </stats>
 </relic>
 <relic id="1879395780" name="Ithil Gem of Vitality" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759287-1091636664.png">
 <stats>
-<stat name="VITALITY" value="148300"/>
-<stat name="CRITICAL_DEFENCE" value="1982600"/>
+<stat name="VITALITY" value="148800"/>
+<stat name="CRITICAL_DEFENCE" value="1983100"/>
 </stats>
 </relic>
 <relic id="1879395813" name="Ithil Gem of Will" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759287-1091636664.png">
 <stats>
-<stat name="WILL" value="178400"/>
-<stat name="CRITICAL_DEFENCE" value="1982600"/>
+<stat name="WILL" value="179300"/>
+<stat name="CRITICAL_DEFENCE" value="1983100"/>
 </stats>
 </relic>
 <relic id="1879404346" name="Darkened Remmorchant Rune of Binding" types="RUNE" slots="CLASS_SLOT" minLevel="100" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="19500"/>
-<stat name="CRITICAL_RATING" value="1373100"/>
+<stat name="CRITICAL_RATING" value="1375800"/>
 </stats>
 </relic>
 <relic id="1879404354" name="Darkened Remmorchant Rune of Enchantment" types="RUNE" slots="MAIN_HAND" minLevel="100" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="29200"/>
-<stat name="CRITICAL_RATING" value="1373100"/>
+<stat name="CRITICAL_RATING" value="1375800"/>
 </stats>
 </relic>
 <relic id="1879404371" name="Darkened Remmorchant Rune of Force" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785148-1091636662.png">
 <stats>
-<stat name="PHYSICAL_MASTERY" value="2180800"/>
-<stat name="CRITICAL_RATING" value="1373100"/>
+<stat name="PHYSICAL_MASTERY" value="2187300"/>
+<stat name="CRITICAL_RATING" value="1375800"/>
 </stats>
 </relic>
 <relic id="1879404361" name="Darkened Remmorchant Rune of Healing" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785155-1091636662.png">
 <stats>
-<stat name="OUTGOING_HEALING" value="5384600"/>
-<stat name="CRITICAL_RATING" value="1373100"/>
+<stat name="OUTGOING_HEALING" value="5387800"/>
+<stat name="CRITICAL_RATING" value="1375800"/>
 </stats>
 </relic>
 <relic id="1879404357" name="Darkened Remmorchant Rune of Power" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785154-1091636662.png">
 <stats>
-<stat name="TACTICAL_MASTERY" value="2180800"/>
-<stat name="CRITICAL_RATING" value="1373100"/>
+<stat name="TACTICAL_MASTERY" value="2187300"/>
+<stat name="CRITICAL_RATING" value="1375800"/>
 </stats>
 </relic>
 <relic id="1879404367" name="Darkened Remmorchant Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="1373100"/>
+<stat name="CRITICAL_RATING" value="1375800"/>
 <stat name="Combat_Damage_Mod" value="39000"/>
 </stats>
 </relic>
 <relic id="1879395811" name="Glimmering Ithil Rune of Force" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785148-1091636662.png">
 <stats>
-<stat name="PHYSICAL_MASTERY" value="1830800"/>
-<stat name="CRITICAL_RATING" value="1152700"/>
+<stat name="PHYSICAL_MASTERY" value="1838800"/>
+<stat name="CRITICAL_RATING" value="1154000"/>
 </stats>
 </relic>
 <relic id="1879395808" name="Glimmering Ithil Rune of Healing" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785155-1091636662.png">
 <stats>
-<stat name="OUTGOING_HEALING" value="4520600"/>
-<stat name="CRITICAL_RATING" value="1152700"/>
+<stat name="OUTGOING_HEALING" value="4522000"/>
+<stat name="CRITICAL_RATING" value="1154000"/>
 </stats>
 </relic>
 <relic id="1879395812" name="Glimmering Ithil Rune of Power" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785154-1091636662.png">
 <stats>
-<stat name="TACTICAL_MASTERY" value="1830800"/>
-<stat name="CRITICAL_RATING" value="1152700"/>
+<stat name="TACTICAL_MASTERY" value="1838800"/>
+<stat name="CRITICAL_RATING" value="1154000"/>
 </stats>
 </relic>
 <relic id="1879395778" name="Glowing Ithil Rune of Binding" types="RUNE" slots="CLASS_SLOT" minLevel="100" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="17300"/>
-<stat name="CRITICAL_RATING" value="1200000"/>
+<stat name="CRITICAL_RATING" value="1201600"/>
 </stats>
 </relic>
 <relic id="1879395825" name="Glowing Ithil Rune of Enchantment" types="RUNE" slots="MAIN_HAND" minLevel="100" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="26000"/>
-<stat name="CRITICAL_RATING" value="1200000"/>
+<stat name="CRITICAL_RATING" value="1201600"/>
 </stats>
 </relic>
 <relic id="1879395815" name="Glowing Ithil Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="1200000"/>
+<stat name="CRITICAL_RATING" value="1201600"/>
 <stat name="Combat_Damage_Mod" value="34700"/>
 </stats>
 </relic>
 <relic id="1879395792" name="Ithil Rune of Binding" types="RUNE" slots="CLASS_SLOT" minLevel="100" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="15000"/>
-<stat name="CRITICAL_RATING" value="1011100"/>
+<stat name="CRITICAL_RATING" value="1011500"/>
 </stats>
 </relic>
 <relic id="1879395837" name="Ithil Rune of Enchantment" types="RUNE" slots="MAIN_HAND" minLevel="100" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="22500"/>
-<stat name="CRITICAL_RATING" value="1011100"/>
+<stat name="CRITICAL_RATING" value="1011500"/>
 </stats>
 </relic>
 <relic id="1879395822" name="Ithil Rune of Force" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785148-1091636662.png">
 <stats>
-<stat name="PHYSICAL_MASTERY" value="1605900"/>
-<stat name="CRITICAL_RATING" value="1011100"/>
+<stat name="PHYSICAL_MASTERY" value="1614700"/>
+<stat name="CRITICAL_RATING" value="1011500"/>
 </stats>
 </relic>
 <relic id="1879395833" name="Ithil Rune of Healing" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785155-1091636662.png">
 <stats>
-<stat name="OUTGOING_HEALING" value="3965100"/>
-<stat name="CRITICAL_RATING" value="1011100"/>
+<stat name="OUTGOING_HEALING" value="3965500"/>
+<stat name="CRITICAL_RATING" value="1011500"/>
 </stats>
 </relic>
 <relic id="1879395818" name="Ithil Rune of Power" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785154-1091636662.png">
 <stats>
-<stat name="TACTICAL_MASTERY" value="1605900"/>
-<stat name="CRITICAL_RATING" value="1011100"/>
+<stat name="TACTICAL_MASTERY" value="1614700"/>
+<stat name="CRITICAL_RATING" value="1011500"/>
 </stats>
 </relic>
 <relic id="1879395803" name="Ithil Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="1011100"/>
+<stat name="CRITICAL_RATING" value="1011500"/>
 <stat name="Combat_Damage_Mod" value="30000"/>
 </stats>
 </relic>
@@ -2699,7 +2699,7 @@
 <stat name="BLOCK" descriptionOverride="+${VALUE} Block, Parry and Evade" value="34300"/>
 <stat name="EVADE" descriptionOverride="-" value="34300"/>
 <stat name="PARRY" descriptionOverride="-" value="34300"/>
-<stat name="RESISTANCE" value="65500"/>
+<stat name="RESISTANCE" value="65600"/>
 <stat name="PHYSICAL_MITIGATION" descriptionOverride="+${VALUE} Physical and Tactical Mitigation" value="51500"/>
 <stat name="TACTICAL_MITIGATION" descriptionOverride="-" value="51500"/>
 </stats>
@@ -2709,7 +2709,7 @@
 <stat name="BLOCK" descriptionOverride="+${VALUE} Block, Parry and Evade" value="34300"/>
 <stat name="EVADE" descriptionOverride="-" value="34300"/>
 <stat name="PARRY" descriptionOverride="-" value="34300"/>
-<stat name="RESISTANCE" value="65500"/>
+<stat name="RESISTANCE" value="65600"/>
 <stat name="PHYSICAL_MITIGATION" descriptionOverride="+${VALUE} Physical and Tactical Mitigation" value="51500"/>
 <stat name="TACTICAL_MITIGATION" descriptionOverride="-" value="51500"/>
 </stats>
@@ -2719,7 +2719,7 @@
 <stat name="BLOCK" descriptionOverride="+${VALUE} Block, Parry and Evade" value="34300"/>
 <stat name="EVADE" descriptionOverride="-" value="34300"/>
 <stat name="PARRY" descriptionOverride="-" value="34300"/>
-<stat name="RESISTANCE" value="65500"/>
+<stat name="RESISTANCE" value="65600"/>
 <stat name="PHYSICAL_MITIGATION" descriptionOverride="+${VALUE} Physical and Tactical Mitigation" value="51500"/>
 <stat name="TACTICAL_MITIGATION" descriptionOverride="-" value="51500"/>
 </stats>
@@ -4177,9 +4177,9 @@
 <category code="78" name="Vales of Anduin">
 <relic id="1879388188" name="Grand Vales Setting of Brutality" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785114-1091636663.png">
 <stats>
-<stat name="CRITICAL_RATING" value="924600"/>
-<stat name="PARRY" value="652600"/>
-<stat name="EVADE" value="435100"/>
+<stat name="CRITICAL_RATING" value="926200"/>
+<stat name="PARRY" value="652800"/>
+<stat name="EVADE" value="435200"/>
 </stats>
 </relic>
 <relic id="1879388194" name="Grand Vales Setting of Defence" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785119-1091636663.png">
@@ -4196,15 +4196,15 @@
 </relic>
 <relic id="1879388204" name="Grand Vales Setting of Resistance" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785115-1091636663.png">
 <stats>
-<stat name="TACTICAL_MITIGATION" value="729000"/>
+<stat name="TACTICAL_MITIGATION" value="1006400"/>
 <stat name="RESISTANCE" value="1087700"/>
 </stats>
 </relic>
 <relic id="1879393101" name="Imbued Setting of Brutality" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785114-1091636663.png">
 <stats>
-<stat name="CRITICAL_RATING" value="845900"/>
-<stat name="PARRY" value="597100"/>
-<stat name="EVADE" value="398100"/>
+<stat name="CRITICAL_RATING" value="847200"/>
+<stat name="PARRY" value="597400"/>
+<stat name="EVADE" value="398200"/>
 </stats>
 </relic>
 <relic id="1879393106" name="Imbued Setting of Defence" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785119-1091636663.png">
@@ -4222,67 +4222,67 @@
 <relic id="1879394610" name="Setting of the Dead City" types="SETTING" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785119-1091636663.png">
 <stats>
 <stat name="MORALE" value="237700"/>
-<stat name="PARRY" value="311700"/>
-<stat name="EVADE" value="467500"/>
-<stat name="TACTICAL_MITIGATION" value="208900"/>
-<stat name="RESISTANCE" value="467500"/>
+<stat name="PARRY" value="312000"/>
+<stat name="EVADE" value="467900"/>
+<stat name="TACTICAL_MITIGATION" value="287300"/>
+<stat name="RESISTANCE" value="467900"/>
 </stats>
 </relic>
 <relic id="1879394613" name="Gem of the Dead City" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091759287-1091636664.png">
 <stats>
 <stat name="VITALITY" value="73900"/>
-<stat name="CRITICAL_DEFENCE" value="467500"/>
+<stat name="CRITICAL_DEFENCE" value="467900"/>
 <stat name="FATE" value="28000"/>
-<stat name="MIGHT" value="70100"/>
-<stat name="AGILITY" value="70100"/>
-<stat name="WILL" value="70100"/>
+<stat name="MIGHT" value="70200"/>
+<stat name="AGILITY" value="70200"/>
+<stat name="WILL" value="70200"/>
 </stats>
 </relic>
 <relic id="1879388202" name="Grand Vales Gem of Agility" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091759285-1091636664.png">
 <stats>
-<stat name="AGILITY" value="97800"/>
+<stat name="AGILITY" value="98200"/>
 <stat name="CRITICAL_DEFENCE" value="1087700"/>
 </stats>
 </relic>
 <relic id="1879388197" name="Grand Vales Gem of Fate" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="FATE" value="97800"/>
+<stat name="FATE" value="98200"/>
 <stat name="CRITICAL_DEFENCE" value="1087700"/>
 </stats>
 </relic>
 <relic id="1879388196" name="Grand Vales Gem of Might" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091759288-1091636664.png">
 <stats>
-<stat name="MIGHT" value="97900"/>
+<stat name="MIGHT" value="98200"/>
 <stat name="CRITICAL_DEFENCE" value="1087700"/>
 </stats>
 </relic>
 <relic id="1879388195" name="Grand Vales Gem of Vitality" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="VITALITY" value="98100"/>
+<stat name="VITALITY" value="98300"/>
 <stat name="CRITICAL_DEFENCE" value="1087700"/>
 </stats>
 </relic>
 <relic id="1879388187" name="Grand Vales Gem of Will" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="WILL" value="97800"/>
+<stat name="WILL" value="98200"/>
 <stat name="CRITICAL_DEFENCE" value="1087700"/>
 </stats>
 </relic>
 <relic id="1879393104" name="Imbued Gem of Agility" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091759285-1091636664.png">
 <stats>
-<stat name="AGILITY" value="89500"/>
+<stat name="AGILITY" value="89800"/>
 <stat name="CRITICAL_DEFENCE" value="995100"/>
 </stats>
 </relic>
 <relic id="1879393095" name="Imbued Gem of Might" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091759288-1091636664.png">
 <stats>
-<stat name="MIGHT" value="89500"/>
+<stat name="MIGHT" value="89800"/>
 <stat name="CRITICAL_DEFENCE" value="995100"/>
 </stats>
 </relic>
 <relic id="1879393100" name="Imbued Gem of Will" types="GEM" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091759287-1091636664.png">
 <stats>
-<stat name="WILL" value="89500"/>
+<stat name="WILL" value="89800"/>
 <stat name="CRITICAL_DEFENCE" value="995100"/>
 </stats>
 </relic>
@@ -4306,46 +4306,46 @@
 </relic>
 <relic id="1879393105" name="Imbued Rune of Force" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785148-1091636662.png">
 <stats>
-<stat name="PHYSICAL_MASTERY" value="806100"/>
-<stat name="CRITICAL_RATING" value="507500"/>
+<stat name="PHYSICAL_MASTERY" value="809900"/>
+<stat name="CRITICAL_RATING" value="507800"/>
 </stats>
 </relic>
 <relic id="1879393098" name="Imbued Rune of Healing" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785155-1091636662.png">
 <stats>
-<stat name="OUTGOING_HEALING" value="1990300"/>
-<stat name="CRITICAL_RATING" value="507500"/>
+<stat name="OUTGOING_HEALING" value="1991200"/>
+<stat name="CRITICAL_RATING" value="507800"/>
 </stats>
 </relic>
 <relic id="1879393099" name="Imbued Rune of Power" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785154-1091636662.png">
 <stats>
-<stat name="TACTICAL_MASTERY" value="806100"/>
-<stat name="CRITICAL_RATING" value="507500"/>
+<stat name="TACTICAL_MASTERY" value="809900"/>
+<stat name="CRITICAL_RATING" value="507800"/>
 </stats>
 </relic>
 <relic id="1879394609" name="Rune of the Dead City" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" minLevel="100" icon="1091785155-1091636662.png">
 <stats>
-<stat name="PHYSICAL_MASTERY" value="757300"/>
-<stat name="TACTICAL_MASTERY" value="757300"/>
-<stat name="CRITICAL_RATING" value="397400"/>
-<stat name="FINESSE" value="467500"/>
+<stat name="PHYSICAL_MASTERY" value="759700"/>
+<stat name="TACTICAL_MASTERY" value="759700"/>
+<stat name="CRITICAL_RATING" value="397500"/>
+<stat name="FINESSE" value="467900"/>
 <stat name="POWER" value="37700"/>
 </stats>
 </relic>
 <relic id="1879388191" name="Vales Rune of Binding" types="RUNE" slots="CLASS_SLOT" icon="1091785155-1091636662.png">
 <stats>
 <stat name="Combat_TacticalHPS_Modifier" value="11800"/>
-<stat name="CRITICAL_RATING" value="507500"/>
+<stat name="CRITICAL_RATING" value="507800"/>
 </stats>
 </relic>
 <relic id="1879388203" name="Vales Rune of Enchantment" types="RUNE" slots="MAIN_HAND" icon="1091785154-1091636662.png">
 <stats>
 <stat name="Combat_TacticalDPS_Modifier" value="17700"/>
-<stat name="CRITICAL_RATING" value="507500"/>
+<stat name="CRITICAL_RATING" value="507800"/>
 </stats>
 </relic>
 <relic id="1879388198" name="Vales Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" icon="1091785148-1091636662.png">
 <stats>
-<stat name="CRITICAL_RATING" value="507500"/>
+<stat name="CRITICAL_RATING" value="507800"/>
 <stat name="Combat_Damage_Mod" value="23600"/>
 </stats>
 </relic>
@@ -4489,7 +4489,7 @@
 <stat name="BLOCK" descriptionOverride="+${VALUE} Block, Parry and Evade" value="36400"/>
 <stat name="EVADE" descriptionOverride="-" value="36400"/>
 <stat name="PARRY" descriptionOverride="-" value="36400"/>
-<stat name="RESISTANCE" value="67700"/>
+<stat name="RESISTANCE" value="67800"/>
 <stat name="PHYSICAL_MITIGATION" descriptionOverride="+${VALUE} Physical and Tactical Mitigation" value="54500"/>
 <stat name="TACTICAL_MITIGATION" descriptionOverride="-" value="54500"/>
 </stats>
