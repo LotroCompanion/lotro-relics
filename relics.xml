@@ -4304,6 +4304,24 @@
 <stat name="Combat_Damage_Mod" value="26300"/>
 </stats>
 </relic>
+<relic id="1879388199" name="Greater Vales Rune of Binding" types="RUNE" slots="CLASS_SLOT" icon="1091785155-1091636662.png">
+<stats>
+<stat name="Combat_TacticalHPS_Modifier" value="12500"/>
+<stat name="CRITICAL_RATING" value="739673"/>
+</stats>
+</relic>
+<relic id="1879388190" name="Greater Vales Rune of Enchantment" types="RUNE" slots="MAIN_HAND" icon="1091785154-1091636662.png">
+<stats>
+<stat name="Combat_TacticalDPS_Modifier" value="18700"/>
+<stat name="CRITICAL_RATING" value="739673"/>
+</stats>
+</relic>
+<relic id="1879388201" name="Greater Vales Rune of Striking" types="RUNE" slots="MAIN_HAND,RANGED_ITEM" icon="1091785148-1091636662.png">
+<stats>
+<stat name="CRITICAL_RATING" value="739673"/>
+<stat name="Combat_Damage_Mod" value="24900"/>
+</stats>
+</relic>
 <relic id="1879393105" name="Imbued Rune of Force" types="RUNE" slots="CLASS_SLOT,MAIN_HAND,RANGED_ITEM" icon="1091785148-1091636662.png">
 <stats>
 <stat name="PHYSICAL_MASTERY" value="809918"/>
